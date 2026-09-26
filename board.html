@@ -1,0 +1,51 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta http-equiv="refresh" content="600">
+<title>SinCara Trader Board</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@100,400;100,500;100,600;100,700;112,700&family=IBM+Plex+Mono:wght@400;500;600&display=swap">
+<style>
+:root{color-scheme:light;--bg:#f5f6f8;--panel:#fff;--line:#dfe2e8;--ink:#14171c;--ink2:#525a66;--ink3:#8a909b;--buy:#1baf7a;--sell:#e34948;--warn:#b57a00;--bull:#e6f4ee;--bear:#fbe9e8;--warnbg:#fff4dc}
+@media (prefers-color-scheme:dark){:root{color-scheme:dark;--bg:#15171b;--panel:#1d2025;--line:#2f333a;--ink:#f2f3f5;--ink2:#b9bec8;--ink3:#7f8794;--buy:#2cc48c;--sell:#e66767;--warn:#e0a83a;--bull:#173327;--bear:#3a1f1f;--warnbg:#332a14}}
+*{box-sizing:border-box} body{margin:0;background:var(--bg);color:var(--ink);font-family:"Archivo",system-ui,sans-serif;font-size:16px;line-height:1.5}
+.wrap{max-width:760px;margin:0 auto;padding-inline:20px;padding-block:32px 64px} .mono{font-family:"IBM Plex Mono",ui-monospace,monospace;font-variant-numeric:tabular-nums}
+.eyebrow{font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:var(--ink3);font-weight:600}
+h1{font-size:clamp(30px,5vw,44px);font-weight:700;font-stretch:112%;letter-spacing:-.02em;line-height:1.05;margin:6px 0 22px}
+h2{font-size:13px;letter-spacing:.08em;text-transform:uppercase;color:var(--ink3);font-weight:600;margin:30px 0 10px}
+.big{display:grid;grid-template-columns:1fr 1fr;gap:12px} .n{background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:18px 20px}
+.n .k{font-size:13px;color:var(--ink2)} .n .v{font-size:36px;font-weight:600;letter-spacing:-.02em;line-height:1.1;margin-top:2px} .n .s{font-size:13px;color:var(--ink3);margin-top:4px}
+.up{color:var(--buy)} .dn{color:var(--sell)} .n.hero{grid-column:1/-1;background:var(--bull);border-color:transparent} .n.hero.neg{background:var(--bear)} .n.hero .v{font-size:48px}
+.pill{display:inline-block;padding:2px 10px;border-radius:999px;font-size:12px;font-weight:600;letter-spacing:.04em;vertical-align:middle} .pill.bull{background:var(--bull);color:var(--buy)} .pill.bear{background:var(--bear);color:var(--sell)}
+.tablewrap{overflow-x:auto;background:var(--panel);border:1px solid var(--line);border-radius:8px} table{width:100%;border-collapse:collapse;font-size:15px}
+td,th{padding:10px 14px;border-top:1px solid var(--line);text-align:left;white-space:nowrap} th{border-top:none;color:var(--ink3);font-size:11.5px;letter-spacing:.06em;text-transform:uppercase;font-weight:600}
+td.num,th.num{text-align:right} tr.total td{font-weight:600;background:var(--bg)}
+.line{display:flex;justify-content:space-between;gap:16px;padding:10px 0;border-top:1px solid var(--line);font-size:15px} .line:first-child{border-top:none} .line .what{color:var(--ink2)}
+.list{background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:4px 16px} .plain{color:var(--ink2);margin:0;max-width:62ch} .plain b{color:var(--ink)}
+.note{border-left:4px solid var(--warn);background:var(--warnbg);border-radius:6px;padding:10px 14px;font-size:14px;color:var(--ink2);margin-top:12px} .note b{color:var(--ink)}
+.foot{margin-top:16px;font-size:12.5px;color:var(--ink3)}
+@media (max-width:460px){.big{grid-template-columns:1fr}.n .v{font-size:30px}.n.hero .v{font-size:40px}.wrap{padding-inline:16px}}
+</style></head><body><div class="wrap">
+  <div class="eyebrow">Hyperliquid spot · live since 2026-09-12 · updated 2026-09-26 18:10 UTC · refreshes every 30 min</div>
+  <h1>SinCara Trader</h1>
+  
+  <div class="big">
+    <div class="n hero"><div class="k">Profit so far (unrealised, after fees)</div><div class="v mono up">+$122.84</div><div class="s">+15.2% on the money you put in · +24.2% on what was spent on coins · 5 sells</div></div>
+    <div class="n"><div class="k">Money you put in</div><div class="v mono">$806.27</div><div class="s">3 transfers in (exchange records)</div></div>
+    <div class="n"><div class="k">Worth now</div><div class="v mono">$929.11</div><div class="s">$0.12 in coins + $928.99 USDC on the exchange</div></div>
+  </div>
+  
+  <h2>What you hold</h2>
+  <div class="tablewrap"><table><tr><th>Coin</th><th class="num">Paid</th><th class="num">Worth now</th><th class="num">Gain</th><th class="num"></th></tr><tr><td>SOL</td><td class='num mono'>$0.10</td><td class='num mono'>$0.12</td><td class='num mono up'>+$0.02</td><td class='num mono up'>+24.2%</td></tr><tr class='total'><td>All coins</td><td class='num mono'>$0.10</td><td class='num mono'>$0.12</td><td class='num mono up'>+$0.02</td><td class='num mono up'>+24.2%</td></tr></table></div>
+  <p class="foot" style="margin-top:8px">25 buys, every one on a SinCara buy dot, 2026-09-13 to 2026-09-23. Prices are the latest hourly close (2026-09-26T18:00 UTC). A coin held in both sleeves is shown as one line.</p>
+  <h2>Money in and out</h2>
+  <div class="list"><div class='line'><span class='what'>2026-09-12 · money in</span><span class='mono'>+$673.27</span></div><div class='line'><span class='what'>2026-09-17 · money in</span><span class='mono'>+$30.20</span></div><div class='line'><span class='what'>2026-09-22 · money in</span><span class='mono'>+$102.80</span></div>
+    <div class="line"><span class="what">Buys · 25 fills</span><span class="mono">−$806.41 into coins</span></div>
+    <div class="line"><span class="what">Sells</span><span class="mono">5</span></div>
+    <div class="line"><span class="what">Fees paid</span><span class="mono">about $0.54 (0.067% per fill)</span></div>
+    <div class="line"><span class="what">Cash on the exchange now</span><span class="mono">$928.99</span></div>
+    <div class="line"><span class="what">Cash the trader has credited</span><span class="mono">$929.00</span></div>
+  </div>
+  <h2>What it is doing</h2>
+  <p class="plain"><b>Buying:</b> every SinCara buy dot, 5% of total equity per dot, while BTC is above its 200-day average. Regime now <span class='pill bull'>BULL</span> (BTC 84,090 vs 200-day 70,930), so buys are on. The next dot would be about $46.46.</p>
+  <p class="plain" style="margin-top:8px"><b>Selling:</b> holds through a bull; sells only in a bear on a confirmed sell dot. Five studies on 2021–2026 data found no sell rule that beats holding in a bull, so profit stays in coins until you decide otherwise. Any coin can be sold by hand with <span class="mono">--sell COIN</span>.</p>
+  <p class="plain" style="margin-top:8px"><b>Cash:</b> new buys are funded by deposits. Deposits are detected hourly and credited after two consecutive sightings; withdrawals after four.</p>
+  
+  <p class="foot">Coins: BTC, SOL, ZEC, HYPE, NEAR (both sleeves), PUMP (hourly sleeve only). NEAR trades as ONEAR, the bridged NEAR spot token on Hyperliquid. SUI is on the SinCara site but not traded: Hyperliquid has no SUI spot market. Every order is journaled before it is sent and verified against the exchange's own fill record afterwards; a HALT file stops new buys instantly. Last trader run: 2026-09-26T16:14:05+00:00.</p>
+</div></body></html>
