@@ -1,0 +1,249 @@
+{
+ "BTC": {
+  "name": "Bitcoin",
+  "what": "The first cryptocurrency: a public payment network and digital asset with a fixed cap of 21 million coins.",
+  "thesis": "Holders see it as digital gold: a fixed 21M supply, the deepest crypto market, and growing use as a reserve asset by ETFs, companies and governments.",
+  "risk": "Its value rests on belief and adoption alone; it has no cash flows and its price has seen repeated deep drawdowns.",
+  "sources": [
+   "https://bitcoin.org/bitcoin.pdf",
+   "https://bitcoin.org/en/faq"
+  ],
+  "as_of": "2026-10"
+ },
+ "HYPE": {
+  "name": "Hyperliquid",
+  "what": "The native token of Hyperliquid, a blockchain built to run an on-chain order-book exchange, mainly for perpetual futures.",
+  "thesis": "The case is that trading fees from a fast-growing on-chain exchange flow back to the token, largely through buybacks by the protocol's Assistance Fund.",
+  "risk": "Token value depends on exchange volume holding up against rival venues and on the platform avoiding technical or regulatory setbacks.",
+  "sources": [
+   "https://hyperliquid.gitbook.io/hyperliquid-docs",
+   "https://hyperliquid.gitbook.io/hyperliquid-docs/hypercore/overview",
+   "https://hyperfoundation.org/"
+  ],
+  "as_of": "2026-10"
+ },
+ "NEAR": {
+  "name": "NEAR Protocol",
+  "what": "A proof-of-stake smart-contract blockchain that splits work across shards to scale; NEAR pays fees and secures the network by staking.",
+  "thesis": "Holders see it as a scalable, developer-friendly base layer, with recent focus on AI agents and chain abstraction to make apps easier to use.",
+  "risk": "It competes with many larger smart-contract chains for developers and users; adoption, not technology, decides the outcome.",
+  "sources": [
+   "https://near.org/",
+   "https://docs.near.org"
+  ],
+  "as_of": "2026-10"
+ },
+ "PUMP": {
+  "name": "Pump.fun",
+  "what": "The token of pump.fun, the largest memecoin launchpad on Solana, where anyone can launch and trade new tokens in a few clicks.",
+  "thesis": "Holders see it as a share in Solana's biggest memecoin launchpad: the platform earns fees and uses part of that revenue to buy PUMP back.",
+  "risk": "Revenue depends on meme-coin trading, which is volatile and faddish; buybacks are a platform policy that can change.",
+  "sources": [
+   "https://pump.fun/",
+   "https://news.bitcoin.com/pump-fun-burns-370-million-pump-tokens-revenue-buyback/",
+   "https://tokenomics.com/articles/pumpfun-tokenomics-how-pump-distributes-45m-monthly-to-holders"
+  ],
+  "as_of": "2026-10"
+ },
+ "SOL": {
+  "name": "Solana",
+  "what": "A high-throughput proof-of-stake blockchain for apps, payments and trading; SOL pays fees and is staked to secure it.",
+  "thesis": "Holders see it as the high-speed chain for on-chain markets: low fees, one of the busiest trading and memecoin ecosystems, and growing use for payments.",
+  "risk": "Past network outages and stiff competition from other chains could slow adoption; much activity is speculative trading.",
+  "sources": [
+   "https://solana.com/",
+   "https://solana.com/docs"
+  ],
+  "as_of": "2026-10"
+ },
+ "SUI": {
+  "name": "Sui",
+  "what": "A proof-of-stake smart-contract blockchain built with the Move programming language, designed for fast, parallel transactions.",
+  "thesis": "Holders see it as a newer, high-performance chain whose design suits games, payments and consumer apps, with a growing ecosystem.",
+  "risk": "A large share of supply is still unlocking over time, and it competes with established chains for users and developers.",
+  "sources": [
+   "https://sui.io/",
+   "https://docs.sui.io/"
+  ],
+  "as_of": "2026-10"
+ },
+ "TAO": {
+  "name": "Bittensor",
+  "what": "A blockchain network where independent 'subnets' reward participants in TAO for producing useful machine-learning work.",
+  "thesis": "The case is that an open, incentive-driven market for AI services can grow outside big tech firms, with TAO as the network's reward currency.",
+  "risk": "Measuring the real usefulness of subnet output is hard; rewards may outpace genuine demand for the AI services produced.",
+  "sources": [
+   "https://bittensor.com/",
+   "https://docs.learnbittensor.org/"
+  ],
+  "as_of": "2026-10"
+ },
+ "TON": {
+  "name": "Toncoin (The Open Network)",
+  "what": "The native coin of The Open Network, a proof-of-stake blockchain closely integrated with the Telegram messaging app.",
+  "thesis": "Holders see Telegram's very large user base as a built-in distribution channel for payments, wallets and mini-apps running on TON.",
+  "risk": "Growth leans heavily on the Telegram link; any change in that relationship or regulatory pressure on it would hit the case.",
+  "sources": [
+   "https://ton.org/",
+   "https://docs.ton.org/"
+  ],
+  "as_of": "2026-10"
+ },
+ "XMR": {
+  "name": "Monero",
+  "what": "A cryptocurrency private by default: sender, receiver and amount are hidden on its blockchain.",
+  "thesis": "Holders value it as digital cash with strong financial privacy built in for every user, not as an optional feature.",
+  "risk": "Privacy coins face exchange delistings and regulatory pressure in several countries, which limits access and liquidity.",
+  "sources": [
+   "https://www.getmonero.org/get-started/what-is-monero/",
+   "https://www.getmonero.org/resources/about/"
+  ],
+  "as_of": "2026-10"
+ },
+ "ZCAT": {
+  "name": "Anonymous Cat",
+  "what": "A Solana memecoin (Anonymous Cat) that airdrops Solana-native ZEC to its holders, funded by a 3% transfer fee.",
+  "thesis": "Holders own it for the airdrops: simply holding ZCAT is meant to earn Solana-native ZEC, on top of any move in the memecoin itself.",
+  "risk": "The airdrops are the project's own claim and not guaranteed; a 3% fee on every transfer and memecoin swings cut into returns.",
+  "sources": [
+   "https://solscan.io/token/HcRLc9VDgjLeK154xDawfb1dmVJ98DoSqcwTHGqiDeJR",
+   "https://www.geckoterminal.com/solana/tokens/HcRLc9VDgjLeK154xDawfb1dmVJ98DoSqcwTHGqiDeJR",
+   "https://www.stonkfun.xyz/token/hcrlc9vdgjlek154xdawfb1dmvj98dosqcwthgqidejr"
+  ],
+  "as_of": "2026-10"
+ },
+ "ZEC": {
+  "name": "Zcash",
+  "what": "A cryptocurrency with optional shielded transactions that use zero-knowledge proofs to hide sender, receiver and amount.",
+  "thesis": "Holders see it as Bitcoin-like scarce money (21 million cap) with strong, provable privacy available to users who choose it.",
+  "risk": "Privacy features draw regulatory and exchange-listing pressure, and much use still happens through transparent addresses.",
+  "sources": [
+   "https://z.cash/learn/what-is-zcash/",
+   "https://zips.z.cash/protocol/protocol.pdf"
+  ],
+  "as_of": "2026-10"
+ },
+ "AIQ": {
+  "name": "Global X Artificial Intelligence & Technology ETF",
+  "what": "An exchange-traded fund tracking an index of companies developing or using AI and big-data technology, including hardware makers.",
+  "thesis": "Holders want broad, diversified exposure to the AI theme across many companies instead of picking single stocks.",
+  "risk": "It is concentrated in large tech names, so a broad tech or AI-sentiment downturn hits most holdings at once.",
+  "sources": [
+   "https://www.globalxetfs.com/funds/aiq",
+   "https://assets.globalxetfs.com/funds/documents/aiq/prospectus-regulatory/Summary-Prospectus.pdf"
+  ],
+  "as_of": "2026-10"
+ },
+ "ALAB": {
+  "name": "Astera Labs, Inc.",
+  "what": "A US chip company making connectivity chips and modules that move data between processors, memory and networks in AI data centers.",
+  "thesis": "The case is that AI servers need ever-faster links between chips, and Astera's connectivity products sit inside that build-out.",
+  "risk": "Revenue depends on a small number of large customers and on AI data-center spending staying strong.",
+  "sources": [
+   "https://www.asteralabs.com/",
+   "https://ir.asteralabs.com/"
+  ],
+  "as_of": "2026-10"
+ },
+ "ARKK": {
+  "name": "ARK Innovation ETF",
+  "what": "An actively managed ETF run by ARK Invest that holds companies it views as leaders in disruptive innovation.",
+  "thesis": "Holders want a concentrated, actively picked basket of high-growth innovation companies such as AI, genomics, fintech and autonomy.",
+  "risk": "Concentrated, high-volatility holdings; results depend heavily on the manager's stock picks, which can lag the market.",
+  "sources": [
+   "https://www.ark-funds.com/funds/arkk",
+   "https://www.ark-funds.com/funds/arkk#fund-documents"
+  ],
+  "as_of": "2026-10"
+ },
+ "BOTZ": {
+  "name": "Global X Robotics & Artificial Intelligence ETF",
+  "what": "An ETF tracking an index of developed-market companies in robotics and AI, from industrial robots to surgical systems.",
+  "thesis": "Holders want diversified exposure to automation and robotics adoption across factories, healthcare and AI software.",
+  "risk": "Holdings are concentrated in a few large names and sensitive to industrial cycles and tech sentiment.",
+  "sources": [
+   "https://www.globalxetfs.com/funds/botz",
+   "https://www.sec.gov/Archives/edgar/data/1432353/000143235326000271/ck0001432353-20260305.htm"
+  ],
+  "as_of": "2026-10"
+ },
+ "CBRS": {
+  "name": "Cerebras Systems Inc.",
+  "what": "A US maker of AI computing systems built around a wafer-scale chip; also sells AI compute as a cloud service. Listed on Nasdaq May 2026.",
+  "thesis": "Holders see it as a challenger taking AI-compute share from NVIDIA with a different approach: one wafer-sized chip instead of clusters of GPUs, built for very fast AI.",
+  "risk": "Newly public, competing with far larger chip makers; revenue has historically leaned on a few large customers.",
+  "sources": [
+   "https://www.cerebras.ai/",
+   "https://www.cerebras.ai/press-release/cerebras-systems-announces-pricing-of-initial-public-offering",
+   "https://www.nasdaq.com/newsroom/cerebras-ipo-ushering-new-era-ai-hardware"
+  ],
+  "as_of": "2026-10"
+ },
+ "IONQ": {
+  "name": "IonQ, Inc.",
+  "what": "One of the leading quantum-computing companies: it builds trapped-ion quantum computers, sold through the major clouds and as systems.",
+  "thesis": "Holders see it as a quantum front-runner with real customers, including US Air Force Research Lab contracts, positioned to benefit as quantum computing matures.",
+  "risk": "Commercially useful quantum computing may take years; the company is loss-making and faces well-funded rivals.",
+  "sources": [
+   "https://ionq.com/",
+   "https://www.sec.gov/Archives/edgar/data/1824920/000095017024122264/ionq-ex99_1.htm",
+   "https://www.ionq.com/news/ionq-announces-largest-2024-u-s-quantum-contract-award-of-usd54-5m-with"
+  ],
+  "as_of": "2026-10"
+ },
+ "MRVL": {
+  "name": "Marvell Technology, Inc.",
+  "what": "A US chip company designing data-infrastructure semiconductors: custom AI chips, networking, optical and storage.",
+  "thesis": "The case is that cloud providers increasingly want custom AI chips and fast optical links, both core Marvell businesses.",
+  "risk": "Relies on a few large cloud customers whose spending plans or in-house chip choices can shift.",
+  "sources": [
+   "https://www.marvell.com/",
+   "https://investor.marvell.com/"
+  ],
+  "as_of": "2026-10"
+ },
+ "MU": {
+  "name": "Micron Technology, Inc.",
+  "what": "A major US maker of memory and storage chips (DRAM, NAND), including high-bandwidth memory used in AI accelerators.",
+  "thesis": "Holders see AI driving demand for high-bandwidth memory, where Micron is one of only a few suppliers.",
+  "risk": "Memory is a cyclical commodity business; oversupply can drive sharp price and earnings swings.",
+  "sources": [
+   "https://www.micron.com/",
+   "https://investors.micron.com/"
+  ],
+  "as_of": "2026-10"
+ },
+ "QQQ": {
+  "name": "Invesco QQQ Trust",
+  "what": "An ETF tracking the Nasdaq-100 Index: the 100 largest non-financial companies listed on the Nasdaq.",
+  "thesis": "Holders use it as a simple, low-cost way to own the largest US growth and technology companies in one fund.",
+  "risk": "Heavily weighted to a handful of mega-cap tech stocks, so it is less diversified than a broad market fund.",
+  "sources": [
+   "https://www.invesco.com/qqq-etf/en/home.html",
+   "https://www.nasdaq.com/solutions/nasdaq-100"
+  ],
+  "as_of": "2026-10"
+ },
+ "SPY": {
+  "name": "SPDR S&P 500 ETF Trust",
+  "what": "An ETF tracking the S&P 500 Index of about 500 large US companies across all sectors.",
+  "thesis": "Holders use it as broad, low-cost exposure to the US stock market as a whole.",
+  "risk": "It falls with the broad US market; the index is increasingly weighted toward its largest companies.",
+  "sources": [
+   "https://www.ssga.com/us/en/intermediary/etfs/spdr-sp-500-etf-trust-spy",
+   "https://www.spglobal.com/spdji/en/indices/equity/sp-500/"
+  ],
+  "as_of": "2026-10"
+ },
+ "TSLA": {
+  "name": "Tesla, Inc.",
+  "what": "A US maker of electric vehicles, battery energy-storage systems and solar products, also developing self-driving and robots.",
+  "thesis": "The case is that Tesla is an AI and robotics company: self-driving, robotaxis, Optimus robots and energy storage could grow larger than the car business.",
+  "risk": "Much of the valuation rests on unproven autonomy and robotics businesses, while car sales face rising competition.",
+  "sources": [
+   "https://www.tesla.com/",
+   "https://ir.tesla.com/"
+  ],
+  "as_of": "2026-10"
+ }
+}

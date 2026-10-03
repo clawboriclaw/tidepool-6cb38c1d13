@@ -1,0 +1,8545 @@
+{
+ "XMR_1D": {
+  "symbol": "XMR",
+  "timeframe": "1D",
+  "venue": "kraken",
+  "palette_gen": "585ef30e7458",
+  "venue_kind": "crypto",
+  "bars": 721,
+  "last": "2026-10-03T00:00:00+00:00",
+  "macd_states": 111,
+  "families": 32,
+  "families_firing": 28,
+  "htf_available": true,
+  "quotable": true,
+  "quote": "USD",
+  "bar_seconds": 86400,
+  "warmup_bars": 200,
+  "settled_from": 510,
+  "history_short_for": [],
+  "board": {
+   "n": 721,
+   "t": [
+    "2026-10-02T00:00:00+00:00",
+    "2026-10-03T00:00:00+00:00"
+   ],
+   "c": [
+    540.12,
+    558.26
+   ],
+   "wt2": [
+    -8.486774044728927,
+    -8.13814598059775
+   ],
+   "money_flow": [
+    10.467146851071288,
+    14.736912172523162
+   ],
+   "last_bar_closes": "2026-10-04T00:00:00+00:00",
+   "signals": {
+    "buy": [
+     {
+      "i": 599,
+      "t": "2026-06-04T00:00:00+00:00",
+      "c": 373.25
+     },
+     {
+      "i": 603,
+      "t": "2026-06-08T00:00:00+00:00",
+      "c": 314.66
+     }
+    ],
+    "sell": [
+     {
+      "i": 693,
+      "t": "2026-09-06T00:00:00+00:00",
+      "c": 539.36
+     },
+     {
+      "i": 710,
+      "t": "2026-09-23T00:00:00+00:00",
+      "c": 553.49
+     }
+    ],
+    "gold": null,
+    "buy_div": [
+     {
+      "i": 308,
+      "t": "2025-08-17T00:00:00+00:00",
+      "c": 283.59
+     },
+     {
+      "i": 501,
+      "t": "2026-02-26T00:00:00+00:00",
+      "c": 341.99
+     }
+    ],
+    "sell_div": [
+     {
+      "i": 702,
+      "t": "2026-09-15T00:00:00+00:00",
+      "c": 507.23
+     },
+     {
+      "i": 712,
+      "t": "2026-09-25T00:00:00+00:00",
+      "c": 558.06
+     }
+    ]
+   }
+  },
+  "structure": {
+   "trend": "up",
+   "flip_level": 525.0,
+   "flip_dir": "down",
+   "last_event": {
+    "kind": "BOS",
+    "dir": "up",
+    "t": "2026-09-18T00:00:00+00:00"
+   }
+  },
+  "trend_closed": "up",
+  "onchain": false,
+  "generation": "20261003T223730Z"
+ },
+ "XMR_4h": {
+  "symbol": "XMR",
+  "timeframe": "4h",
+  "venue": "kraken",
+  "palette_gen": "585ef30e7458",
+  "venue_kind": "crypto",
+  "bars": 721,
+  "last": "2026-10-03T20:00:00+00:00",
+  "macd_states": 671,
+  "families": 32,
+  "families_firing": 29,
+  "htf_available": true,
+  "quotable": true,
+  "quote": "USD",
+  "bar_seconds": 14400,
+  "warmup_bars": 200,
+  "settled_from": 510,
+  "history_short_for": [],
+  "board": {
+   "n": 721,
+   "t": [
+    "2026-10-03T16:00:00+00:00",
+    "2026-10-03T20:00:00+00:00"
+   ],
+   "c": [
+    557.94,
+    558.0
+   ],
+   "wt2": [
+    30.879434530198733,
+    43.5986109683214
+   ],
+   "money_flow": [
+    6.150765686334696,
+    5.459180285736738
+   ],
+   "last_bar_closes": "2026-10-04T00:00:00+00:00",
+   "signals": {
+    "buy": [
+     {
+      "i": 619,
+      "t": "2026-09-17T00:00:00+00:00",
+      "c": 499.86
+     },
+     {
+      "i": 689,
+      "t": "2026-09-28T16:00:00+00:00",
+      "c": 540.25
+     }
+    ],
+    "sell": [
+     {
+      "i": 596,
+      "t": "2026-09-13T04:00:00+00:00",
+      "c": 537.63
+     },
+     {
+      "i": 632,
+      "t": "2026-09-19T04:00:00+00:00",
+      "c": 571.17
+     }
+    ],
+    "gold": null,
+    "buy_div": [
+     {
+      "i": 153,
+      "t": "2026-07-01T08:00:00+00:00",
+      "c": 305.49
+     },
+     {
+      "i": 620,
+      "t": "2026-09-17T04:00:00+00:00",
+      "c": 495.9
+     }
+    ],
+    "sell_div": [
+     {
+      "i": 535,
+      "t": "2026-09-03T00:00:00+00:00",
+      "c": 507.6
+     },
+     {
+      "i": 651,
+      "t": "2026-09-22T08:00:00+00:00",
+      "c": 572.04
+     }
+    ]
+   }
+  },
+  "structure": {
+   "trend": "up",
+   "flip_level": 528.43,
+   "flip_dir": "down",
+   "last_event": {
+    "kind": "CHoCH",
+    "dir": "up",
+    "t": "2026-10-03T12:00:00+00:00"
+   }
+  },
+  "trend_closed": "up",
+  "onchain": false,
+  "generation": "20261003T223730Z"
+ },
+ "XMR_1h": {
+  "symbol": "XMR",
+  "timeframe": "1h",
+  "venue": "kraken",
+  "palette_gen": "585ef30e7458",
+  "venue_kind": "crypto",
+  "bars": 721,
+  "last": "2026-10-03T22:00:00+00:00",
+  "macd_states": 721,
+  "families": 32,
+  "families_firing": 29,
+  "htf_available": true,
+  "quotable": true,
+  "quote": "USD",
+  "bar_seconds": 3600,
+  "warmup_bars": 200,
+  "settled_from": 510,
+  "history_short_for": [],
+  "board": {
+   "n": 721,
+   "t": [
+    "2026-10-03T21:00:00+00:00",
+    "2026-10-03T22:00:00+00:00"
+   ],
+   "c": [
+    559.05,
+    557.82
+   ],
+   "wt2": [
+    75.8033177766284,
+    76.98710956757624
+   ],
+   "money_flow": [
+    3.4874229592430765,
+    4.063260186657404
+   ],
+   "last_bar_closes": "2026-10-03T23:00:00+00:00",
+   "signals": {
+    "buy": [
+     {
+      "i": 588,
+      "t": "2026-09-28T10:00:00+00:00",
+      "c": 530.38
+     },
+     {
+      "i": 694,
+      "t": "2026-10-02T20:00:00+00:00",
+      "c": 539.54
+     }
+    ],
+    "sell": [
+     {
+      "i": 716,
+      "t": "2026-10-03T18:00:00+00:00",
+      "c": 552.57
+     },
+     {
+      "i": 720,
+      "t": "2026-10-03T22:00:00+00:00",
+      "c": 557.82
+     }
+    ],
+    "gold": null,
+    "buy_div": [
+     {
+      "i": 290,
+      "t": "2026-09-16T00:00:00+00:00",
+      "c": 507.22
+     },
+     {
+      "i": 573,
+      "t": "2026-09-27T19:00:00+00:00",
+      "c": 547.7
+     }
+    ],
+    "sell_div": [
+     {
+      "i": 366,
+      "t": "2026-09-19T04:00:00+00:00",
+      "c": 566.44
+     },
+     {
+      "i": 376,
+      "t": "2026-09-19T14:00:00+00:00",
+      "c": 575.65
+     }
+    ]
+   }
+  },
+  "structure": {
+   "trend": "up",
+   "flip_level": 545.0,
+   "flip_dir": "down",
+   "last_event": {
+    "kind": "CHoCH",
+    "dir": "up",
+    "t": "2026-10-03T14:00:00+00:00"
+   }
+  },
+  "trend_closed": "up",
+  "onchain": false,
+  "generation": "20261003T223730Z"
+ },
+ "XMR_1W": {
+  "symbol": "XMR",
+  "timeframe": "1W",
+  "venue": "kraken",
+  "palette_gen": "585ef30e7458",
+  "venue_kind": "crypto",
+  "bars": 510,
+  "last": "2026-10-01T00:00:00+00:00",
+  "macd_states": 16,
+  "families": 32,
+  "families_firing": 24,
+  "htf_available": true,
+  "quotable": true,
+  "quote": "USD",
+  "bar_seconds": 604800,
+  "warmup_bars": 200,
+  "settled_from": 510,
+  "history_short_for": [
+   "rsi_div_bear",
+   "rsi_div_bull"
+  ],
+  "board": {
+   "n": 510,
+   "t": [
+    "2026-09-24T00:00:00+00:00",
+    "2026-10-01T00:00:00+00:00"
+   ],
+   "c": [
+    544.7,
+    557.82
+   ],
+   "wt2": [
+    70.30503797374557,
+    71.04442019826287
+   ],
+   "money_flow": [
+    9.604664231682408,
+    12.935622304987273
+   ],
+   "last_bar_closes": "2026-10-08T00:00:00+00:00",
+   "signals": {
+    "buy": [
+     {
+      "i": 267,
+      "t": "2022-02-10T00:00:00+00:00",
+      "c": 179.36
+     },
+     {
+      "i": 338,
+      "t": "2023-06-22T00:00:00+00:00",
+      "c": 164.64
+     }
+    ],
+    "sell": [
+     {
+      "i": 473,
+      "t": "2026-01-22T00:00:00+00:00",
+      "c": 468.57
+     },
+     {
+      "i": 509,
+      "t": "2026-10-01T00:00:00+00:00",
+      "c": 557.82
+     }
+    ],
+    "gold": null,
+    "buy_div": [
+     {
+      "i": 158,
+      "t": "2020-01-09T00:00:00+00:00",
+      "c": 68.21
+     },
+     {
+      "i": 290,
+      "t": "2022-07-21T00:00:00+00:00",
+      "c": 161.72
+     }
+    ],
+    "sell_div": [
+     {
+      "i": 405,
+      "t": "2024-10-03T00:00:00+00:00",
+      "c": 147.48
+     },
+     {
+      "i": 475,
+      "t": "2026-02-05T00:00:00+00:00",
+      "c": 346.17
+     }
+    ]
+   }
+  },
+  "structure": {
+   "trend": "up",
+   "flip_level": 292.0,
+   "flip_dir": "down",
+   "last_event": {
+    "kind": "CHoCH",
+    "dir": "up",
+    "t": "2026-08-20T00:00:00+00:00"
+   }
+  },
+  "trend_closed": "up",
+  "onchain": false,
+  "generation": "20261003T223730Z"
+ },
+ "XMR_1M": {
+  "symbol": "XMR",
+  "timeframe": "1M",
+  "venue": "bitfinex",
+  "palette_gen": "585ef30e7458",
+  "venue_kind": "crypto",
+  "bars": 120,
+  "last": "2026-10-01T00:00:00+00:00",
+  "macd_states": 0,
+  "families": 32,
+  "families_firing": 16,
+  "htf_available": true,
+  "quotable": true,
+  "quote": "USD",
+  "bar_seconds": 2592000,
+  "warmup_bars": 200,
+  "settled_from": 510,
+  "history_short_for": [
+   "buy_div",
+   "div_bear",
+   "div_bear_add",
+   "div_bear_add_hidden",
+   "div_bear_hidden",
+   "div_bull",
+   "div_bull_add",
+   "div_bull_add_hidden",
+   "div_bull_hidden",
+   "gold",
+   "rsi_div_bear",
+   "rsi_div_bear_hidden",
+   "rsi_div_bull",
+   "rsi_div_bull_hidden",
+   "sell_div",
+   "stoch_div_bear",
+   "stoch_div_bear_hidden",
+   "stoch_div_bull",
+   "stoch_div_bull_hidden",
+   "stoch_fill_k_above_d"
+  ],
+  "board": {
+   "n": 120,
+   "t": [
+    "2026-09-01T00:00:00+00:00",
+    "2026-10-01T00:00:00+00:00"
+   ],
+   "c": [
+    544.97,
+    557.76
+   ],
+   "wt2": [
+    39.04341324179662,
+    52.211793904341675
+   ],
+   "money_flow": [
+    6.493123737031942,
+    6.3828708957462545
+   ],
+   "last_bar_closes": "2026-11-01T00:00:00+00:00",
+   "signals": {
+    "buy": null,
+    "sell": [
+     {
+      "i": 104,
+      "t": "2025-07-01T00:00:00+00:00",
+      "c": 306.82
+     },
+     {
+      "i": 111,
+      "t": "2026-02-01T00:00:00+00:00",
+      "c": 336.7
+     }
+    ],
+    "gold": null,
+    "buy_div": null,
+    "sell_div": [
+     {
+      "i": 112,
+      "t": "2026-03-01T00:00:00+00:00",
+      "c": 333.8
+     }
+    ]
+   }
+  },
+  "structure": {
+   "trend": "up",
+   "flip_level": 100.27,
+   "flip_dir": "down",
+   "last_event": {
+    "kind": "BOS",
+    "dir": "up",
+    "t": "2025-11-01T00:00:00+00:00"
+   }
+  },
+  "trend_closed": "up",
+  "onchain": false,
+  "generation": "20261003T223730Z"
+ },
+ "SOL_1D": {
+  "symbol": "SOL",
+  "timeframe": "1D",
+  "venue": "kraken",
+  "palette_gen": "585ef30e7458",
+  "venue_kind": "crypto",
+  "bars": 721,
+  "last": "2026-10-03T00:00:00+00:00",
+  "macd_states": 111,
+  "families": 32,
+  "families_firing": 30,
+  "htf_available": true,
+  "quotable": true,
+  "quote": "USD",
+  "bar_seconds": 86400,
+  "warmup_bars": 200,
+  "settled_from": 510,
+  "history_short_for": [],
+  "board": {
+   "n": 721,
+   "t": [
+    "2026-10-02T00:00:00+00:00",
+    "2026-10-03T00:00:00+00:00"
+   ],
+   "c": [
+    118.62,
+    119.88
+   ],
+   "wt2": [
+    44.56337277652051,
+    41.24723337171597
+   ],
+   "money_flow": [
+    13.831751388685579,
+    15.755849053229088
+   ],
+   "last_bar_closes": "2026-10-04T00:00:00+00:00",
+   "signals": {
+    "buy": [
+     {
+      "i": 602,
+      "t": "2026-06-07T00:00:00+00:00",
+      "c": 66.47
+     },
+     {
+      "i": 659,
+      "t": "2026-08-03T00:00:00+00:00",
+      "c": 73.49
+     }
+    ],
+    "sell": [
+     {
+      "i": 711,
+      "t": "2026-09-24T00:00:00+00:00",
+      "c": 117.02
+     },
+     {
+      "i": 715,
+      "t": "2026-09-28T00:00:00+00:00",
+      "c": 118.83
+     }
+    ],
+    "gold": null,
+    "buy_div": [
+     {
+      "i": 435,
+      "t": "2025-12-22T00:00:00+00:00",
+      "c": 125.78
+     },
+     {
+      "i": 441,
+      "t": "2025-12-28T00:00:00+00:00",
+      "c": 125.14
+     }
+    ],
+    "sell_div": [
+     {
+      "i": 329,
+      "t": "2025-09-07T00:00:00+00:00",
+      "c": 206.41
+     },
+     {
+      "i": 696,
+      "t": "2026-09-09T00:00:00+00:00",
+      "c": 101.54
+     }
+    ]
+   }
+  },
+  "structure": {
+   "trend": "up",
+   "flip_level": 95.73,
+   "flip_dir": "down",
+   "last_event": {
+    "kind": "CHoCH",
+    "dir": "up",
+    "t": "2026-09-18T00:00:00+00:00"
+   }
+  },
+  "trend_closed": "up",
+  "onchain": false,
+  "generation": "20261003T223730Z"
+ },
+ "SOL_4h": {
+  "symbol": "SOL",
+  "timeframe": "4h",
+  "venue": "kraken",
+  "palette_gen": "585ef30e7458",
+  "venue_kind": "crypto",
+  "bars": 721,
+  "last": "2026-10-03T20:00:00+00:00",
+  "macd_states": 671,
+  "families": 32,
+  "families_firing": 29,
+  "htf_available": true,
+  "quotable": true,
+  "quote": "USD",
+  "bar_seconds": 14400,
+  "warmup_bars": 200,
+  "settled_from": 510,
+  "history_short_for": [],
+  "board": {
+   "n": 721,
+   "t": [
+    "2026-10-03T16:00:00+00:00",
+    "2026-10-03T20:00:00+00:00"
+   ],
+   "c": [
+    119.76,
+    119.88
+   ],
+   "wt2": [
+    4.9384783267078225,
+    8.804884967227617
+   ],
+   "money_flow": [
+    7.347462030572736,
+    7.146312605285324
+   ],
+   "last_bar_closes": "2026-10-04T00:00:00+00:00",
+   "signals": {
+    "buy": [
+     {
+      "i": 584,
+      "t": "2026-09-11T04:00:00+00:00",
+      "c": 99.71
+     },
+     {
+      "i": 615,
+      "t": "2026-09-16T08:00:00+00:00",
+      "c": 97.94
+     }
+    ],
+    "sell": [
+     {
+      "i": 674,
+      "t": "2026-09-26T04:00:00+00:00",
+      "c": 120.76
+     },
+     {
+      "i": 683,
+      "t": "2026-09-27T16:00:00+00:00",
+      "c": 123.01
+     }
+    ],
+    "gold": null,
+    "buy_div": [
+     {
+      "i": 435,
+      "t": "2026-08-17T08:00:00+00:00",
+      "c": 75.59
+     },
+     {
+      "i": 617,
+      "t": "2026-09-16T16:00:00+00:00",
+      "c": 98.0
+     }
+    ],
+    "sell_div": [
+     {
+      "i": 676,
+      "t": "2026-09-26T12:00:00+00:00",
+      "c": 121.86
+     },
+     {
+      "i": 685,
+      "t": "2026-09-28T00:00:00+00:00",
+      "c": 119.8
+     }
+    ]
+   }
+  },
+  "structure": {
+   "trend": "up",
+   "flip_level": 117.12,
+   "flip_dir": "down",
+   "last_event": {
+    "kind": "BOS",
+    "dir": "up",
+    "t": "2026-09-27T04:00:00+00:00"
+   }
+  },
+  "trend_closed": "up",
+  "onchain": false,
+  "generation": "20261003T223730Z"
+ },
+ "SOL_1h": {
+  "symbol": "SOL",
+  "timeframe": "1h",
+  "venue": "kraken",
+  "palette_gen": "585ef30e7458",
+  "venue_kind": "crypto",
+  "bars": 721,
+  "last": "2026-10-03T22:00:00+00:00",
+  "macd_states": 721,
+  "families": 32,
+  "families_firing": 29,
+  "htf_available": true,
+  "quotable": true,
+  "quote": "USD",
+  "bar_seconds": 3600,
+  "warmup_bars": 200,
+  "settled_from": 510,
+  "history_short_for": [],
+  "board": {
+   "n": 721,
+   "t": [
+    "2026-10-03T21:00:00+00:00",
+    "2026-10-03T22:00:00+00:00"
+   ],
+   "c": [
+    119.62,
+    119.88
+   ],
+   "wt2": [
+    51.95664643749436,
+    47.29986959470537
+   ],
+   "money_flow": [
+    2.209029015762761,
+    3.0899572000445756
+   ],
+   "last_bar_closes": "2026-10-03T23:00:00+00:00",
+   "signals": {
+    "buy": [
+     {
+      "i": 587,
+      "t": "2026-09-28T09:00:00+00:00",
+      "c": 117.72
+     },
+     {
+      "i": 606,
+      "t": "2026-09-29T04:00:00+00:00",
+      "c": 117.65
+     }
+    ],
+    "sell": [
+     {
+      "i": 680,
+      "t": "2026-10-02T06:00:00+00:00",
+      "c": 121.71
+     },
+     {
+      "i": 717,
+      "t": "2026-10-03T19:00:00+00:00",
+      "c": 119.76
+     }
+    ],
+    "gold": null,
+    "buy_div": [
+     {
+      "i": 608,
+      "t": "2026-09-29T06:00:00+00:00",
+      "c": 119.2
+     },
+     {
+      "i": 668,
+      "t": "2026-10-01T18:00:00+00:00",
+      "c": 118.34
+     }
+    ],
+    "sell_div": [
+     {
+      "i": 434,
+      "t": "2026-09-22T00:00:00+00:00",
+      "c": 118.31
+     },
+     {
+      "i": 567,
+      "t": "2026-09-27T13:00:00+00:00",
+      "c": 123.17
+     }
+    ]
+   }
+  },
+  "structure": {
+   "trend": "up",
+   "flip_level": 119.13,
+   "flip_dir": "down",
+   "last_event": {
+    "kind": "BOS",
+    "dir": "up",
+    "t": "2026-10-03T17:00:00+00:00"
+   }
+  },
+  "trend_closed": "up",
+  "onchain": false,
+  "generation": "20261003T223730Z"
+ },
+ "SOL_1W": {
+  "symbol": "SOL",
+  "timeframe": "1W",
+  "venue": "kraken",
+  "palette_gen": "585ef30e7458",
+  "venue_kind": "crypto",
+  "bars": 277,
+  "last": "2026-10-01T00:00:00+00:00",
+  "macd_states": 16,
+  "families": 32,
+  "families_firing": 22,
+  "htf_available": true,
+  "quotable": true,
+  "quote": "USD",
+  "bar_seconds": 604800,
+  "warmup_bars": 200,
+  "settled_from": 510,
+  "history_short_for": [
+   "buy_div",
+   "div_bear",
+   "div_bear_add_hidden",
+   "div_bull",
+   "div_bull_add_hidden",
+   "gold",
+   "rsi_div_bear",
+   "rsi_div_bear_hidden",
+   "rsi_div_bull",
+   "rsi_div_bull_hidden",
+   "sell_div",
+   "stoch_div_bear",
+   "stoch_div_bear_hidden",
+   "stoch_div_bull",
+   "stoch_div_bull_hidden",
+   "stoch_fill_k_above_d"
+  ],
+  "board": {
+   "n": 277,
+   "t": [
+    "2026-09-24T00:00:00+00:00",
+    "2026-10-01T00:00:00+00:00"
+   ],
+   "c": [
+    118.06,
+    119.87
+   ],
+   "wt2": [
+    58.58497552223148,
+    64.30772328835745
+   ],
+   "money_flow": [
+    -2.620742649725735,
+    -4.418850052016467
+   ],
+   "last_bar_closes": "2026-10-08T00:00:00+00:00",
+   "signals": {
+    "buy": [
+     {
+      "i": 245,
+      "t": "2026-02-26T00:00:00+00:00",
+      "c": 90.89
+     },
+     {
+      "i": 262,
+      "t": "2026-06-25T00:00:00+00:00",
+      "c": 77.37
+     }
+    ],
+    "sell": [
+     {
+      "i": 181,
+      "t": "2024-12-05T00:00:00+00:00",
+      "c": 227.47
+     },
+     {
+      "i": 223,
+      "t": "2025-09-25T00:00:00+00:00",
+      "c": 222.13
+     }
+    ],
+    "gold": null,
+    "buy_div": [
+     {
+      "i": 263,
+      "t": "2026-07-02T00:00:00+00:00",
+      "c": 77.77
+     }
+    ],
+    "sell_div": [
+     {
+      "i": 183,
+      "t": "2024-12-19T00:00:00+00:00",
+      "c": 197.38
+     },
+     {
+      "i": 224,
+      "t": "2025-10-02T00:00:00+00:00",
+      "c": 229.04
+     }
+    ]
+   }
+  },
+  "structure": {
+   "trend": "up",
+   "flip_level": 60.12,
+   "flip_dir": "down",
+   "last_event": {
+    "kind": "CHoCH",
+    "dir": "up",
+    "t": "2026-08-13T00:00:00+00:00"
+   }
+  },
+  "trend_closed": "up",
+  "onchain": false,
+  "generation": "20261003T223730Z"
+ },
+ "SOL_1M": {
+  "symbol": "SOL",
+  "timeframe": "1M",
+  "venue": "bitfinex",
+  "palette_gen": "585ef30e7458",
+  "venue_kind": "crypto",
+  "bars": 69,
+  "last": "2026-10-01T00:00:00+00:00",
+  "macd_states": 0,
+  "families": 32,
+  "families_firing": 13,
+  "htf_available": true,
+  "quotable": true,
+  "quote": "USD",
+  "bar_seconds": 2592000,
+  "warmup_bars": 200,
+  "settled_from": 510,
+  "history_short_for": [
+   "buy",
+   "buy_div",
+   "cross",
+   "cross_down",
+   "cross_up",
+   "div_bear",
+   "div_bear_add",
+   "div_bear_add_hidden",
+   "div_bear_hidden",
+   "div_bull",
+   "div_bull_add",
+   "div_bull_add_hidden",
+   "div_bull_hidden",
+   "gold",
+   "htf_bear_flag",
+   "htf_bull_flag",
+   "overbought",
+   "oversold",
+   "rsi_div_bear",
+   "rsi_div_bear_hidden",
+   "rsi_div_bull",
+   "rsi_div_bull_hidden",
+   "sell",
+   "sell_div",
+   "stoch_div_bear",
+   "stoch_div_bear_hidden",
+   "stoch_div_bull",
+   "stoch_div_bull_hidden",
+   "stoch_fill_k_above_d"
+  ],
+  "board": {
+   "n": 69,
+   "t": [
+    "2026-09-01T00:00:00+00:00",
+    "2026-10-01T00:00:00+00:00"
+   ],
+   "c": [
+    118.15,
+    119.83
+   ],
+   "wt2": [
+    -38.88694088913934,
+    -29.588603900437892
+   ],
+   "money_flow": [
+    -3.7324177843772866,
+    -5.187365312300711
+   ],
+   "last_bar_closes": "2026-11-01T00:00:00+00:00",
+   "signals": {
+    "buy": null,
+    "sell": [
+     {
+      "i": 40,
+      "t": "2024-06-01T00:00:00+00:00",
+      "c": 146.72
+     },
+     {
+      "i": 48,
+      "t": "2025-02-01T00:00:00+00:00",
+      "c": 148.59
+     }
+    ],
+    "gold": null,
+    "buy_div": null,
+    "sell_div": [
+     {
+      "i": 49,
+      "t": "2025-03-01T00:00:00+00:00",
+      "c": 124.72
+     }
+    ]
+   }
+  },
+  "structure": {
+   "trend": "down",
+   "flip_level": 253.45,
+   "flip_dir": "up",
+   "last_event": {
+    "kind": "CHoCH",
+    "dir": "down",
+    "t": "2026-02-01T00:00:00+00:00"
+   }
+  },
+  "trend_closed": "down",
+  "onchain": false,
+  "generation": "20261003T223730Z"
+ },
+ "BTC_1D": {
+  "symbol": "BTC",
+  "timeframe": "1D",
+  "venue": "kraken",
+  "palette_gen": "585ef30e7458",
+  "venue_kind": "crypto",
+  "bars": 721,
+  "last": "2026-10-03T00:00:00+00:00",
+  "macd_states": 111,
+  "families": 32,
+  "families_firing": 29,
+  "htf_available": true,
+  "quotable": true,
+  "quote": "USD",
+  "bar_seconds": 86400,
+  "warmup_bars": 200,
+  "settled_from": 510,
+  "history_short_for": [],
+  "board": {
+   "n": 721,
+   "t": [
+    "2026-10-02T00:00:00+00:00",
+    "2026-10-03T00:00:00+00:00"
+   ],
+   "c": [
+    84503.7,
+    84773.7
+   ],
+   "wt2": [
+    37.5489316291136,
+    39.660471966352624
+   ],
+   "money_flow": [
+    9.609353028366067,
+    9.489515367497585
+   ],
+   "last_bar_closes": "2026-10-04T00:00:00+00:00",
+   "signals": {
+    "buy": [
+     {
+      "i": 624,
+      "t": "2026-06-29T00:00:00+00:00",
+      "c": 60157.3
+     },
+     {
+      "i": 626,
+      "t": "2026-07-01T00:00:00+00:00",
+      "c": 59959.4
+     }
+    ],
+    "sell": [
+     {
+      "i": 648,
+      "t": "2026-07-23T00:00:00+00:00",
+      "c": 65050.1
+     },
+     {
+      "i": 681,
+      "t": "2026-08-25T00:00:00+00:00",
+      "c": 78509.4
+     }
+    ],
+    "gold": null,
+    "buy_div": [
+     {
+      "i": 497,
+      "t": "2026-02-22T00:00:00+00:00",
+      "c": 67612.1
+     },
+     {
+      "i": 625,
+      "t": "2026-06-30T00:00:00+00:00",
+      "c": 58531.9
+     }
+    ],
+    "sell_div": [
+     {
+      "i": 560,
+      "t": "2026-04-26T00:00:00+00:00",
+      "c": 78653.8
+     },
+     {
+      "i": 573,
+      "t": "2026-05-09T00:00:00+00:00",
+      "c": 80670.1
+     }
+    ]
+   }
+  },
+  "structure": {
+   "trend": "up",
+   "flip_level": 82566.4,
+   "flip_dir": "down",
+   "last_event": {
+    "kind": "CHoCH",
+    "dir": "up",
+    "t": "2026-09-21T00:00:00+00:00"
+   }
+  },
+  "trend_closed": "up",
+  "onchain": false,
+  "generation": "20261003T223730Z"
+ },
+ "BTC_4h": {
+  "symbol": "BTC",
+  "timeframe": "4h",
+  "venue": "kraken",
+  "palette_gen": "585ef30e7458",
+  "venue_kind": "crypto",
+  "bars": 721,
+  "last": "2026-10-03T20:00:00+00:00",
+  "macd_states": 671,
+  "families": 32,
+  "families_firing": 29,
+  "htf_available": true,
+  "quotable": true,
+  "quote": "USD",
+  "bar_seconds": 14400,
+  "warmup_bars": 200,
+  "settled_from": 510,
+  "history_short_for": [],
+  "board": {
+   "n": 721,
+   "t": [
+    "2026-10-03T16:00:00+00:00",
+    "2026-10-03T20:00:00+00:00"
+   ],
+   "c": [
+    84835.5,
+    84773.7
+   ],
+   "wt2": [
+    15.771035698405404,
+    13.73391749810358
+   ],
+   "money_flow": [
+    11.434658575894472,
+    11.685750191625992
+   ],
+   "last_bar_closes": "2026-10-04T00:00:00+00:00",
+   "signals": {
+    "buy": [
+     {
+      "i": 569,
+      "t": "2026-09-08T16:00:00+00:00",
+      "c": 78438.1
+     },
+     {
+      "i": 584,
+      "t": "2026-09-11T04:00:00+00:00",
+      "c": 77207.3
+     }
+    ],
+    "sell": [
+     {
+      "i": 649,
+      "t": "2026-09-22T00:00:00+00:00",
+      "c": 85676.2
+     },
+     {
+      "i": 712,
+      "t": "2026-10-02T12:00:00+00:00",
+      "c": 85318.9
+     }
+    ],
+    "gold": null,
+    "buy_div": [
+     {
+      "i": 411,
+      "t": "2026-08-13T08:00:00+00:00",
+      "c": 63406.0
+     },
+     {
+      "i": 618,
+      "t": "2026-09-16T20:00:00+00:00",
+      "c": 76146.1
+     }
+    ],
+    "sell_div": [
+     {
+      "i": 501,
+      "t": "2026-08-28T08:00:00+00:00",
+      "c": 79593.4
+     },
+     {
+      "i": 714,
+      "t": "2026-10-02T20:00:00+00:00",
+      "c": 84503.7
+     }
+    ]
+   }
+  },
+  "structure": {
+   "trend": "up",
+   "flip_level": 83860.7,
+   "flip_dir": "down",
+   "last_event": {
+    "kind": "CHoCH",
+    "dir": "up",
+    "t": "2026-10-02T04:00:00+00:00"
+   }
+  },
+  "trend_closed": "up",
+  "onchain": false,
+  "generation": "20261003T223730Z"
+ },
+ "BTC_1h": {
+  "symbol": "BTC",
+  "timeframe": "1h",
+  "venue": "kraken",
+  "palette_gen": "585ef30e7458",
+  "venue_kind": "crypto",
+  "bars": 721,
+  "last": "2026-10-03T22:00:00+00:00",
+  "macd_states": 721,
+  "families": 32,
+  "families_firing": 29,
+  "htf_available": true,
+  "quotable": true,
+  "quote": "USD",
+  "bar_seconds": 3600,
+  "warmup_bars": 200,
+  "settled_from": 510,
+  "history_short_for": [],
+  "board": {
+   "n": 721,
+   "t": [
+    "2026-10-03T21:00:00+00:00",
+    "2026-10-03T22:00:00+00:00"
+   ],
+   "c": [
+    84703.5,
+    84773.7
+   ],
+   "wt2": [
+    29.05192898848409,
+    16.732993081863896
+   ],
+   "money_flow": [
+    9.241907473934253,
+    10.776413065121199
+   ],
+   "last_bar_closes": "2026-10-03T23:00:00+00:00",
+   "signals": {
+    "buy": [
+     {
+      "i": 494,
+      "t": "2026-09-24T12:00:00+00:00",
+      "c": 83579.0
+     },
+     {
+      "i": 585,
+      "t": "2026-09-28T07:00:00+00:00",
+      "c": 82931.3
+     }
+    ],
+    "sell": [
+     {
+      "i": 680,
+      "t": "2026-10-02T06:00:00+00:00",
+      "c": 85963.1
+     },
+     {
+      "i": 687,
+      "t": "2026-10-02T13:00:00+00:00",
+      "c": 86563.1
+     }
+    ],
+    "gold": null,
+    "buy_div": [
+     {
+      "i": 173,
+      "t": "2026-09-11T03:00:00+00:00",
+      "c": 76860.8
+     },
+     {
+      "i": 489,
+      "t": "2026-09-24T07:00:00+00:00",
+      "c": 84519.2
+     }
+    ],
+    "sell_div": [
+     {
+      "i": 455,
+      "t": "2026-09-22T21:00:00+00:00",
+      "c": 86184.1
+     },
+     {
+      "i": 642,
+      "t": "2026-09-30T16:00:00+00:00",
+      "c": 84303.1
+     }
+    ]
+   }
+  },
+  "structure": {
+   "trend": "up",
+   "flip_level": 83860.7,
+   "flip_dir": "down",
+   "last_event": {
+    "kind": "BOS",
+    "dir": "up",
+    "t": "2026-10-03T12:00:00+00:00"
+   }
+  },
+  "trend_closed": "up",
+  "onchain": false,
+  "generation": "20261003T223730Z"
+ },
+ "BTC_1W": {
+  "symbol": "BTC",
+  "timeframe": "1W",
+  "venue": "kraken",
+  "palette_gen": "585ef30e7458",
+  "venue_kind": "crypto",
+  "bars": 679,
+  "last": "2026-10-01T00:00:00+00:00",
+  "macd_states": 16,
+  "families": 32,
+  "families_firing": 24,
+  "htf_available": true,
+  "quotable": true,
+  "quote": "USD",
+  "bar_seconds": 604800,
+  "warmup_bars": 200,
+  "settled_from": 510,
+  "history_short_for": [],
+  "board": {
+   "n": 679,
+   "t": [
+    "2026-09-24T00:00:00+00:00",
+    "2026-10-01T00:00:00+00:00"
+   ],
+   "c": [
+    83564.7,
+    84773.7
+   ],
+   "wt2": [
+    47.61994504849391,
+    53.153193638104916
+   ],
+   "money_flow": [
+    -7.156544225533243,
+    -8.874209836430087
+   ],
+   "last_bar_closes": "2026-10-08T00:00:00+00:00",
+   "signals": {
+    "buy": [
+     {
+      "i": 638,
+      "t": "2025-12-25T00:00:00+00:00",
+      "c": 87500.1
+     },
+     {
+      "i": 647,
+      "t": "2026-02-26T00:00:00+00:00",
+      "c": 72684.8
+     }
+    ],
+    "sell": [
+     {
+      "i": 617,
+      "t": "2025-07-31T00:00:00+00:00",
+      "c": 115010.0
+     },
+     {
+      "i": 619,
+      "t": "2025-08-14T00:00:00+00:00",
+      "c": 114262.7
+     }
+    ],
+    "gold": null,
+    "buy_div": [
+     {
+      "i": 668,
+      "t": "2026-07-23T00:00:00+00:00",
+      "c": 63901.0
+     }
+    ],
+    "sell_div": [
+     {
+      "i": 619,
+      "t": "2025-08-14T00:00:00+00:00",
+      "c": 114262.7
+     },
+     {
+      "i": 629,
+      "t": "2025-10-23T00:00:00+00:00",
+      "c": 110104.2
+     }
+    ]
+   }
+  },
+  "structure": {
+   "trend": "up",
+   "flip_level": 57740.0,
+   "flip_dir": "down",
+   "last_event": {
+    "kind": "CHoCH",
+    "dir": "up",
+    "t": "2026-09-17T00:00:00+00:00"
+   }
+  },
+  "trend_closed": "up",
+  "onchain": false,
+  "generation": "20261003T223730Z"
+ },
+ "BTC_1M": {
+  "symbol": "BTC",
+  "timeframe": "1M",
+  "venue": "bitfinex",
+  "palette_gen": "585ef30e7458",
+  "venue_kind": "crypto",
+  "bars": 164,
+  "last": "2026-10-01T00:00:00+00:00",
+  "macd_states": 0,
+  "families": 32,
+  "families_firing": 16,
+  "htf_available": true,
+  "quotable": true,
+  "quote": "USD",
+  "bar_seconds": 2592000,
+  "warmup_bars": 200,
+  "settled_from": 510,
+  "history_short_for": [
+   "buy_div",
+   "div_bear",
+   "div_bear_add_hidden",
+   "div_bull",
+   "div_bull_add_hidden",
+   "gold",
+   "rsi_div_bear",
+   "rsi_div_bear_hidden",
+   "rsi_div_bull",
+   "rsi_div_bull_hidden",
+   "sell_div",
+   "stoch_div_bear",
+   "stoch_div_bear_hidden",
+   "stoch_div_bull",
+   "stoch_div_bull_hidden",
+   "stoch_fill_k_above_d"
+  ],
+  "board": {
+   "n": 164,
+   "t": [
+    "2026-09-01T00:00:00+00:00",
+    "2026-10-01T00:00:00+00:00"
+   ],
+   "c": [
+    83607.0,
+    84788.0
+   ],
+   "wt2": [
+    -29.76199407914135,
+    -20.95784100743933
+   ],
+   "money_flow": [
+    6.825936614915287,
+    5.535219217037543
+   ],
+   "last_bar_closes": "2026-11-01T00:00:00+00:00",
+   "signals": {
+    "buy": null,
+    "sell": [
+     {
+      "i": 143,
+      "t": "2025-02-01T00:00:00+00:00",
+      "c": 84654.0
+     },
+     {
+      "i": 150,
+      "t": "2025-09-01T00:00:00+00:00",
+      "c": 114020.0
+     }
+    ],
+    "gold": null,
+    "buy_div": null,
+    "sell_div": [
+     {
+      "i": 145,
+      "t": "2025-04-01T00:00:00+00:00",
+      "c": 94309.0
+     },
+     {
+      "i": 152,
+      "t": "2025-11-01T00:00:00+00:00",
+      "c": 90413.0
+     }
+    ]
+   }
+  },
+  "structure": {
+   "trend": "up",
+   "flip_level": 49130.0,
+   "flip_dir": "down",
+   "last_event": {
+    "kind": "BOS",
+    "dir": "up",
+    "t": "2024-11-01T00:00:00+00:00"
+   }
+  },
+  "trend_closed": "up",
+  "onchain": false,
+  "generation": "20261003T223730Z"
+ },
+ "ZEC_1D": {
+  "symbol": "ZEC",
+  "timeframe": "1D",
+  "venue": "kraken",
+  "palette_gen": "585ef30e7458",
+  "venue_kind": "crypto",
+  "bars": 721,
+  "last": "2026-10-03T00:00:00+00:00",
+  "macd_states": 111,
+  "families": 32,
+  "families_firing": 25,
+  "htf_available": true,
+  "quotable": true,
+  "quote": "USD",
+  "bar_seconds": 86400,
+  "warmup_bars": 200,
+  "settled_from": 510,
+  "history_short_for": [],
+  "board": {
+   "n": 721,
+   "t": [
+    "2026-10-02T00:00:00+00:00",
+    "2026-10-03T00:00:00+00:00"
+   ],
+   "c": [
+    1300.22,
+    1306.65
+   ],
+   "wt2": [
+    5.73312947669699,
+    -7.597315224266143
+   ],
+   "money_flow": [
+    7.544527756005037,
+    5.965862304782904
+   ],
+   "last_bar_closes": "2026-10-04T00:00:00+00:00",
+   "signals": {
+    "buy": [
+     {
+      "i": 512,
+      "t": "2026-03-09T00:00:00+00:00",
+      "c": 214.85
+     },
+     {
+      "i": 625,
+      "t": "2026-06-30T00:00:00+00:00",
+      "c": 399.19
+     }
+    ],
+    "sell": [
+     {
+      "i": 695,
+      "t": "2026-09-08T00:00:00+00:00",
+      "c": 1177.73
+     },
+     {
+      "i": 707,
+      "t": "2026-09-20T00:00:00+00:00",
+      "c": 1508.36
+     }
+    ],
+    "gold": null,
+    "buy_div": [
+     {
+      "i": 264,
+      "t": "2025-07-04T00:00:00+00:00",
+      "c": 40.13
+     },
+     {
+      "i": 508,
+      "t": "2026-03-05T00:00:00+00:00",
+      "c": 226.63
+     }
+    ],
+    "sell_div": [
+     {
+      "i": 697,
+      "t": "2026-09-10T00:00:00+00:00",
+      "c": 1078.89
+     },
+     {
+      "i": 709,
+      "t": "2026-09-22T00:00:00+00:00",
+      "c": 1629.92
+     }
+    ]
+   }
+  },
+  "structure": {
+   "trend": "up",
+   "flip_level": 1041.62,
+   "flip_dir": "down",
+   "last_event": {
+    "kind": "BOS",
+    "dir": "up",
+    "t": "2026-09-16T00:00:00+00:00"
+   }
+  },
+  "trend_closed": "up",
+  "onchain": false,
+  "generation": "20261003T223730Z"
+ },
+ "ZEC_4h": {
+  "symbol": "ZEC",
+  "timeframe": "4h",
+  "venue": "kraken",
+  "palette_gen": "585ef30e7458",
+  "venue_kind": "crypto",
+  "bars": 721,
+  "last": "2026-10-03T20:00:00+00:00",
+  "macd_states": 671,
+  "families": 32,
+  "families_firing": 30,
+  "htf_available": true,
+  "quotable": true,
+  "quote": "USD",
+  "bar_seconds": 14400,
+  "warmup_bars": 200,
+  "settled_from": 510,
+  "history_short_for": [],
+  "board": {
+   "n": 721,
+   "t": [
+    "2026-10-03T16:00:00+00:00",
+    "2026-10-03T20:00:00+00:00"
+   ],
+   "c": [
+    1320.23,
+    1306.65
+   ],
+   "wt2": [
+    -54.97689417512765,
+    -51.78328232662263
+   ],
+   "money_flow": [
+    -5.4225976713212365,
+    -5.712849756123532
+   ],
+   "last_bar_closes": "2026-10-04T00:00:00+00:00",
+   "signals": {
+    "buy": [
+     {
+      "i": 710,
+      "t": "2026-10-02T04:00:00+00:00",
+      "c": 1384.03
+     },
+     {
+      "i": 716,
+      "t": "2026-10-03T04:00:00+00:00",
+      "c": 1312.71
+     }
+    ],
+    "sell": [
+     {
+      "i": 658,
+      "t": "2026-09-23T12:00:00+00:00",
+      "c": 1552.75
+     },
+     {
+      "i": 682,
+      "t": "2026-09-27T12:00:00+00:00",
+      "c": 1580.52
+     }
+    ],
+    "gold": null,
+    "buy_div": [
+     {
+      "i": 338,
+      "t": "2026-08-01T04:00:00+00:00",
+      "c": 464.69
+     },
+     {
+      "i": 718,
+      "t": "2026-10-03T12:00:00+00:00",
+      "c": 1301.51
+     }
+    ],
+    "sell_div": [
+     {
+      "i": 578,
+      "t": "2026-09-10T04:00:00+00:00",
+      "c": 1215.35
+     },
+     {
+      "i": 635,
+      "t": "2026-09-19T16:00:00+00:00",
+      "c": 1476.95
+     }
+    ]
+   }
+  },
+  "structure": {
+   "trend": "down",
+   "flip_level": 1411.03,
+   "flip_dir": "up",
+   "last_event": {
+    "kind": "BOS",
+    "dir": "down",
+    "t": "2026-10-02T16:00:00+00:00"
+   }
+  },
+  "trend_closed": "down",
+  "onchain": false,
+  "generation": "20261003T223730Z"
+ },
+ "ZEC_1h": {
+  "symbol": "ZEC",
+  "timeframe": "1h",
+  "venue": "kraken",
+  "palette_gen": "585ef30e7458",
+  "venue_kind": "crypto",
+  "bars": 721,
+  "last": "2026-10-03T22:00:00+00:00",
+  "macd_states": 721,
+  "families": 32,
+  "families_firing": 30,
+  "htf_available": true,
+  "quotable": true,
+  "quote": "USD",
+  "bar_seconds": 3600,
+  "warmup_bars": 200,
+  "settled_from": 510,
+  "history_short_for": [],
+  "board": {
+   "n": 721,
+   "t": [
+    "2026-10-03T21:00:00+00:00",
+    "2026-10-03T22:00:00+00:00"
+   ],
+   "c": [
+    1316.71,
+    1306.65
+   ],
+   "wt2": [
+    -7.728416517115829,
+    2.431551595827146
+   ],
+   "money_flow": [
+    -8.43457823055692,
+    -9.80732600418419
+   ],
+   "last_bar_closes": "2026-10-03T23:00:00+00:00",
+   "signals": {
+    "buy": [
+     {
+      "i": 671,
+      "t": "2026-10-01T21:00:00+00:00",
+      "c": 1321.74
+     },
+     {
+      "i": 697,
+      "t": "2026-10-02T23:00:00+00:00",
+      "c": 1300.22
+     }
+    ],
+    "sell": [
+     {
+      "i": 554,
+      "t": "2026-09-27T00:00:00+00:00",
+      "c": 1644.54
+     },
+     {
+      "i": 562,
+      "t": "2026-09-27T08:00:00+00:00",
+      "c": 1662.61
+     }
+    ],
+    "gold": null,
+    "buy_div": [
+     {
+      "i": 673,
+      "t": "2026-10-01T23:00:00+00:00",
+      "c": 1335.14
+     },
+     {
+      "i": 698,
+      "t": "2026-10-03T00:00:00+00:00",
+      "c": 1319.42
+     }
+    ],
+    "sell_div": [
+     {
+      "i": 425,
+      "t": "2026-09-21T15:00:00+00:00",
+      "c": 1499.47
+     },
+     {
+      "i": 513,
+      "t": "2026-09-25T07:00:00+00:00",
+      "c": 1560.32
+     }
+    ]
+   }
+  },
+  "structure": {
+   "trend": "down",
+   "flip_level": 1328.96,
+   "flip_dir": "up",
+   "last_event": {
+    "kind": "BOS",
+    "dir": "down",
+    "t": "2026-10-02T19:00:00+00:00"
+   }
+  },
+  "trend_closed": "down",
+  "onchain": false,
+  "generation": "20261003T223730Z"
+ },
+ "ZEC_1W": {
+  "symbol": "ZEC",
+  "timeframe": "1W",
+  "venue": "kraken",
+  "palette_gen": "585ef30e7458",
+  "venue_kind": "crypto",
+  "bars": 519,
+  "last": "2026-10-01T00:00:00+00:00",
+  "macd_states": 16,
+  "families": 32,
+  "families_firing": 24,
+  "htf_available": true,
+  "quotable": true,
+  "quote": "USD",
+  "bar_seconds": 604800,
+  "warmup_bars": 200,
+  "settled_from": 510,
+  "history_short_for": [],
+  "board": {
+   "n": 519,
+   "t": [
+    "2026-09-24T00:00:00+00:00",
+    "2026-10-01T00:00:00+00:00"
+   ],
+   "c": [
+    1438.2,
+    1306.65
+   ],
+   "wt2": [
+    97.6174219774972,
+    96.4111350813721
+   ],
+   "money_flow": [
+    18.470657709722268,
+    15.335812818085483
+   ],
+   "last_bar_closes": "2026-10-08T00:00:00+00:00",
+   "signals": {
+    "buy": [
+     {
+      "i": 347,
+      "t": "2023-06-22T00:00:00+00:00",
+      "c": 28.88
+     },
+     {
+      "i": 359,
+      "t": "2023-09-14T00:00:00+00:00",
+      "c": 26.14
+     }
+    ],
+    "sell": [
+     {
+      "i": 501,
+      "t": "2026-06-04T00:00:00+00:00",
+      "c": 408.37
+     },
+     {
+      "i": 518,
+      "t": "2026-10-01T00:00:00+00:00",
+      "c": 1306.65
+     }
+    ],
+    "gold": null,
+    "buy_div": [
+     {
+      "i": 382,
+      "t": "2024-02-22T00:00:00+00:00",
+      "c": 28.39
+     },
+     {
+      "i": 403,
+      "t": "2024-07-18T00:00:00+00:00",
+      "c": 30.25
+     }
+    ],
+    "sell_div": [
+     {
+      "i": 228,
+      "t": "2021-03-11T00:00:00+00:00",
+      "c": 145.86
+     }
+    ]
+   }
+  },
+  "structure": {
+   "trend": "up",
+   "flip_level": 250.45,
+   "flip_dir": "down",
+   "last_event": {
+    "kind": "BOS",
+    "dir": "up",
+    "t": "2026-08-20T00:00:00+00:00"
+   }
+  },
+  "trend_closed": "up",
+  "onchain": false,
+  "generation": "20261003T223730Z"
+ },
+ "ZEC_1M": {
+  "symbol": "ZEC",
+  "timeframe": "1M",
+  "venue": "bitfinex",
+  "palette_gen": "585ef30e7458",
+  "venue_kind": "crypto",
+  "bars": 121,
+  "last": "2026-10-01T00:00:00+00:00",
+  "macd_states": 0,
+  "families": 32,
+  "families_firing": 20,
+  "htf_available": true,
+  "quotable": true,
+  "quote": "USD",
+  "bar_seconds": 2592000,
+  "warmup_bars": 200,
+  "settled_from": 510,
+  "history_short_for": [
+   "buy_div",
+   "div_bear",
+   "div_bear_add",
+   "div_bear_add_hidden",
+   "div_bear_hidden",
+   "div_bull",
+   "div_bull_add",
+   "div_bull_add_hidden",
+   "div_bull_hidden",
+   "gold",
+   "rsi_div_bear",
+   "rsi_div_bear_hidden",
+   "rsi_div_bull",
+   "rsi_div_bull_hidden",
+   "sell_div",
+   "stoch_div_bear",
+   "stoch_div_bear_hidden",
+   "stoch_div_bull",
+   "stoch_div_bull_hidden",
+   "stoch_fill_k_above_d"
+  ],
+  "board": {
+   "n": 121,
+   "t": [
+    "2026-09-01T00:00:00+00:00",
+    "2026-10-01T00:00:00+00:00"
+   ],
+   "c": [
+    1418.7,
+    1291.0
+   ],
+   "wt2": [
+    80.56717591998948,
+    92.11102283911485
+   ],
+   "money_flow": [
+    -2.0277401745810466,
+    -6.293834126575587
+   ],
+   "last_bar_closes": "2026-11-01T00:00:00+00:00",
+   "signals": {
+    "buy": null,
+    "sell": [
+     {
+      "i": 111,
+      "t": "2026-01-01T00:00:00+00:00",
+      "c": 303.25
+     },
+     {
+      "i": 117,
+      "t": "2026-07-01T00:00:00+00:00",
+      "c": 457.41
+     }
+    ],
+    "gold": null,
+    "buy_div": [
+     {
+      "i": 84,
+      "t": "2023-10-01T00:00:00+00:00",
+      "c": 28.345
+     }
+    ],
+    "sell_div": [
+     {
+      "i": 64,
+      "t": "2022-02-01T00:00:00+00:00",
+      "c": 119.07
+     }
+    ]
+   }
+  },
+  "structure": {
+   "trend": "up",
+   "flip_level": 15.848,
+   "flip_dir": "down",
+   "last_event": {
+    "kind": "BOS",
+    "dir": "up",
+    "t": "2026-08-01T00:00:00+00:00"
+   }
+  },
+  "trend_closed": "up",
+  "onchain": false,
+  "generation": "20261003T223730Z"
+ },
+ "TSLA_1D": {
+  "symbol": "TSLA",
+  "timeframe": "1D",
+  "venue": "yahoo",
+  "palette_gen": "585ef30e7458",
+  "venue_kind": "equity",
+  "bars": 2514,
+  "last": "2026-10-02T13:30:00+00:00",
+  "macd_states": 0,
+  "families": 32,
+  "families_firing": 26,
+  "htf_available": false,
+  "quotable": false,
+  "quote": "USD",
+  "bar_seconds": 23400.0,
+  "warmup_bars": 200,
+  "settled_from": 510,
+  "history_short_for": [],
+  "board": {
+   "n": 2514,
+   "t": [
+    "2026-10-01T13:30:00+00:00",
+    "2026-10-02T13:30:00+00:00"
+   ],
+   "c": [
+    354.1099853515625,
+    370.5899963378906
+   ],
+   "wt2": [
+    0.48398269852285125,
+    -5.030732259755662
+   ],
+   "money_flow": [
+    -5.61774794322468,
+    -5.754598779224674
+   ],
+   "last_bar_closes": "2026-10-02T20:00:00+00:00",
+   "signals": {
+    "buy": [
+     {
+      "i": 2446,
+      "t": "2026-06-29T13:30:00+00:00",
+      "c": 411.8399963378906
+     },
+     {
+      "i": 2467,
+      "t": "2026-07-29T13:30:00+00:00",
+      "c": 298.32000732421875
+     }
+    ],
+    "sell": [
+     {
+      "i": 2497,
+      "t": "2026-09-10T13:30:00+00:00",
+      "c": 363.55999755859375
+     },
+     {
+      "i": 2508,
+      "t": "2026-09-25T13:30:00+00:00",
+      "c": 372.1099853515625
+     }
+    ],
+    "gold": null,
+    "buy_div": [
+     {
+      "i": 2362,
+      "t": "2026-02-26T14:30:00+00:00",
+      "c": 408.5799865722656
+     },
+     {
+      "i": 2393,
+      "t": "2026-04-13T13:30:00+00:00",
+      "c": 352.4200134277344
+     }
+    ],
+    "sell_div": [
+     {
+      "i": 2177,
+      "t": "2025-06-02T13:30:00+00:00",
+      "c": 342.69000244140625
+     },
+     {
+      "i": 2284,
+      "t": "2025-11-03T14:30:00+00:00",
+      "c": 468.3699951171875
+     }
+    ]
+   }
+  },
+  "structure": {
+   "trend": "down",
+   "flip_level": 386.8299865722656,
+   "flip_dir": "up",
+   "last_event": {
+    "kind": "CHoCH",
+    "dir": "down",
+    "t": "2026-09-29T13:30:00+00:00"
+   }
+  },
+  "trend_closed": "down",
+  "onchain": false,
+  "generation": "20261003T223730Z"
+ },
+ "TSLA_1W": {
+  "symbol": "TSLA",
+  "timeframe": "1W",
+  "venue": "yahoo",
+  "palette_gen": "585ef30e7458",
+  "venue_kind": "equity",
+  "bars": 522,
+  "last": "2026-09-28T00:00:00+00:00",
+  "macd_states": 0,
+  "families": 32,
+  "families_firing": 24,
+  "htf_available": false,
+  "quotable": false,
+  "quote": "USD",
+  "bar_seconds": 421200,
+  "warmup_bars": 200,
+  "settled_from": 510,
+  "history_short_for": [],
+  "board": {
+   "n": 522,
+   "t": [
+    "2026-09-21T00:00:00+00:00",
+    "2026-09-28T00:00:00+00:00"
+   ],
+   "c": [
+    372.1099853515625,
+    370.5899963378906
+   ],
+   "wt2": [
+    -16.008386415096073,
+    -8.489977511776337
+   ],
+   "money_flow": [
+    4.498247350258354,
+    2.8890586259706534
+   ],
+   "last_bar_closes": "2026-10-02T21:00:00+00:00",
+   "signals": {
+    "buy": [
+     {
+      "i": 497,
+      "t": "2026-04-13T00:00:00+00:00",
+      "c": 400.6199951171875
+     },
+     {
+      "i": 514,
+      "t": "2026-08-10T00:00:00+00:00",
+      "c": 342.2699890136719
+     }
+    ],
+    "sell": [
+     {
+      "i": 470,
+      "t": "2025-10-06T00:00:00+00:00",
+      "c": 413.489990234375
+     },
+     {
+      "i": 482,
+      "t": "2025-12-29T00:00:00+00:00",
+      "c": 438.07000732421875
+     }
+    ],
+    "gold": null,
+    "buy_div": [
+     {
+      "i": 84,
+      "t": "2018-05-14T00:00:00+00:00",
+      "c": 18.454666137695312
+     },
+     {
+      "i": 516,
+      "t": "2026-08-24T00:00:00+00:00",
+      "c": 348.75
+     }
+    ],
+    "sell_div": [
+     {
+      "i": 206,
+      "t": "2020-09-14T00:00:00+00:00",
+      "c": 147.38333129882812
+     },
+     {
+      "i": 484,
+      "t": "2026-01-12T00:00:00+00:00",
+      "c": 437.5
+     }
+    ]
+   }
+  },
+  "structure": {
+   "trend": "down",
+   "flip_level": 453.3999938964844,
+   "flip_dir": "up",
+   "last_event": {
+    "kind": "BOS",
+    "dir": "down",
+    "t": "2026-07-20T00:00:00+00:00"
+   }
+  },
+  "trend_closed": "down",
+  "onchain": false,
+  "generation": "20261003T223730Z"
+ },
+ "TSLA_1M": {
+  "symbol": "TSLA",
+  "timeframe": "1M",
+  "venue": "yahoo",
+  "palette_gen": "585ef30e7458",
+  "venue_kind": "equity",
+  "bars": 197,
+  "last": "2026-10-01T00:00:00+00:00",
+  "macd_states": 0,
+  "families": 32,
+  "families_firing": 19,
+  "htf_available": false,
+  "quotable": false,
+  "quote": "USD",
+  "bar_seconds": 2592000,
+  "warmup_bars": 200,
+  "settled_from": 510,
+  "history_short_for": [
+   "buy_div",
+   "div_bear",
+   "div_bear_add_hidden",
+   "div_bull",
+   "div_bull_add_hidden",
+   "gold",
+   "rsi_div_bear",
+   "rsi_div_bear_hidden",
+   "rsi_div_bull",
+   "rsi_div_bull_hidden",
+   "sell_div",
+   "stoch_div_bear",
+   "stoch_div_bear_hidden",
+   "stoch_div_bull",
+   "stoch_div_bull_hidden",
+   "stoch_fill_k_above_d"
+  ],
+  "board": {
+   "n": 197,
+   "t": [
+    "2026-09-01T00:00:00+00:00",
+    "2026-10-01T00:00:00+00:00"
+   ],
+   "c": [
+    354.80999755859375,
+    370.5899963378906
+   ],
+   "wt2": [
+    3.826239861973074,
+    -3.3878260111555565
+   ],
+   "money_flow": [
+    2.6025063082043554,
+    1.751014279320911
+   ],
+   "last_bar_closes": "2026-11-01T00:00:00+00:00",
+   "signals": {
+    "buy": [
+     {
+      "i": 110,
+      "t": "2019-08-01T00:00:00+00:00",
+      "c": 15.040666580200195
+     }
+    ],
+    "sell": [
+     {
+      "i": 176,
+      "t": "2025-02-01T00:00:00+00:00",
+      "c": 292.9800109863281
+     },
+     {
+      "i": 187,
+      "t": "2026-01-01T00:00:00+00:00",
+      "c": 430.4100036621094
+     }
+    ],
+    "gold": null,
+    "buy_div": null,
+    "sell_div": [
+     {
+      "i": 89,
+      "t": "2017-11-01T00:00:00+00:00",
+      "c": 20.59000015258789
+     },
+     {
+      "i": 141,
+      "t": "2022-03-01T00:00:00+00:00",
+      "c": 359.20001220703125
+     }
+    ]
+   }
+  },
+  "structure": {
+   "trend": "up",
+   "flip_level": 214.25,
+   "flip_dir": "down",
+   "last_event": {
+    "kind": "BOS",
+    "dir": "up",
+    "t": "2024-11-01T00:00:00+00:00"
+   }
+  },
+  "trend_closed": "up",
+  "onchain": false,
+  "generation": "20261003T223730Z"
+ },
+ "MU_1D": {
+  "symbol": "MU",
+  "timeframe": "1D",
+  "venue": "yahoo",
+  "palette_gen": "585ef30e7458",
+  "venue_kind": "equity",
+  "bars": 2514,
+  "last": "2026-10-02T13:30:00+00:00",
+  "macd_states": 0,
+  "families": 32,
+  "families_firing": 26,
+  "htf_available": false,
+  "quotable": false,
+  "quote": "USD",
+  "bar_seconds": 23400.0,
+  "warmup_bars": 200,
+  "settled_from": 510,
+  "history_short_for": [],
+  "board": {
+   "n": 2514,
+   "t": [
+    "2026-10-01T13:30:00+00:00",
+    "2026-10-02T13:30:00+00:00"
+   ],
+   "c": [
+    1097.3900146484375,
+    1074.8900146484375
+   ],
+   "wt2": [
+    48.73020623937964,
+    47.88764119445912
+   ],
+   "money_flow": [
+    0.7151701868909885,
+    -0.41578112984496807
+   ],
+   "last_bar_closes": "2026-10-02T20:00:00+00:00",
+   "signals": {
+    "buy": [
+     {
+      "i": 2213,
+      "t": "2025-07-24T13:30:00+00:00",
+      "c": 111.7300033569336
+     },
+     {
+      "i": 2221,
+      "t": "2025-08-05T13:30:00+00:00",
+      "c": 109.05999755859375
+     }
+    ],
+    "sell": [
+     {
+      "i": 2497,
+      "t": "2026-09-10T13:30:00+00:00",
+      "c": 977.4099731445312
+     },
+     {
+      "i": 2509,
+      "t": "2026-09-28T13:30:00+00:00",
+      "c": 1053.97998046875
+     }
+    ],
+    "gold": null,
+    "buy_div": [
+     {
+      "i": 2223,
+      "t": "2025-08-07T13:30:00+00:00",
+      "c": 111.87000274658203
+     },
+     {
+      "i": 2471,
+      "t": "2026-08-04T13:30:00+00:00",
+      "c": 892.6699829101562
+     }
+    ],
+    "sell_div": [
+     {
+      "i": 2444,
+      "t": "2026-06-25T13:30:00+00:00",
+      "c": 1213.56005859375
+     },
+     {
+      "i": 2510,
+      "t": "2026-09-29T13:30:00+00:00",
+      "c": 1065.0799560546875
+     }
+    ]
+   }
+  },
+  "structure": {
+   "trend": "up",
+   "flip_level": 902.5999755859375,
+   "flip_dir": "down",
+   "last_event": {
+    "kind": "CHoCH",
+    "dir": "up",
+    "t": "2026-09-21T13:30:00+00:00"
+   }
+  },
+  "trend_closed": "up",
+  "onchain": false,
+  "generation": "20261003T223730Z"
+ },
+ "MU_1W": {
+  "symbol": "MU",
+  "timeframe": "1W",
+  "venue": "yahoo",
+  "palette_gen": "585ef30e7458",
+  "venue_kind": "equity",
+  "bars": 522,
+  "last": "2026-09-28T00:00:00+00:00",
+  "macd_states": 0,
+  "families": 32,
+  "families_firing": 25,
+  "htf_available": false,
+  "quotable": false,
+  "quote": "USD",
+  "bar_seconds": 421200,
+  "warmup_bars": 200,
+  "settled_from": 510,
+  "history_short_for": [],
+  "board": {
+   "n": 522,
+   "t": [
+    "2026-09-21T00:00:00+00:00",
+    "2026-09-28T00:00:00+00:00"
+   ],
+   "c": [
+    1082.280029296875,
+    1074.8900146484375
+   ],
+   "wt2": [
+    40.48107271912469,
+    45.628873742982556
+   ],
+   "money_flow": [
+    32.34600243384614,
+    29.602264865035885
+   ],
+   "last_bar_closes": "2026-10-02T21:00:00+00:00",
+   "signals": {
+    "buy": [
+     {
+      "i": 313,
+      "t": "2022-10-03T00:00:00+00:00",
+      "c": 52.90999984741211
+     },
+     {
+      "i": 446,
+      "t": "2025-04-21T00:00:00+00:00",
+      "c": 79.77999877929688
+     }
+    ],
+    "sell": [
+     {
+      "i": 487,
+      "t": "2026-02-02T00:00:00+00:00",
+      "c": 394.69000244140625
+     },
+     {
+      "i": 505,
+      "t": "2026-06-08T00:00:00+00:00",
+      "c": 981.6099853515625
+     }
+    ],
+    "gold": null,
+    "buy_div": [
+     {
+      "i": 294,
+      "t": "2022-05-23T00:00:00+00:00",
+      "c": 73.31999969482422
+     },
+     {
+      "i": 315,
+      "t": "2022-10-17T00:00:00+00:00",
+      "c": 56.04999923706055
+     }
+    ],
+    "sell_div": [
+     {
+      "i": 401,
+      "t": "2024-06-10T00:00:00+00:00",
+      "c": 141.36000061035156
+     },
+     {
+      "i": 489,
+      "t": "2026-02-16T00:00:00+00:00",
+      "c": 428.1700134277344
+     }
+    ]
+   }
+  },
+  "structure": {
+   "trend": "up",
+   "flip_level": 737.8800048828125,
+   "flip_dir": "down",
+   "last_event": {
+    "kind": "BOS",
+    "dir": "up",
+    "t": "2026-04-20T00:00:00+00:00"
+   }
+  },
+  "trend_closed": "up",
+  "onchain": false,
+  "generation": "20261003T223730Z"
+ },
+ "MU_1M": {
+  "symbol": "MU",
+  "timeframe": "1M",
+  "venue": "yahoo",
+  "palette_gen": "585ef30e7458",
+  "venue_kind": "equity",
+  "bars": 509,
+  "last": "2026-10-01T00:00:00+00:00",
+  "macd_states": 0,
+  "families": 32,
+  "families_firing": 24,
+  "htf_available": false,
+  "quotable": false,
+  "quote": "USD",
+  "bar_seconds": 2592000,
+  "warmup_bars": 200,
+  "settled_from": 510,
+  "history_short_for": [
+   "rsi_div_bear",
+   "rsi_div_bull"
+  ],
+  "board": {
+   "n": 509,
+   "t": [
+    "2026-09-01T00:00:00+00:00",
+    "2026-10-01T00:00:00+00:00"
+   ],
+   "c": [
+    1065.1099853515625,
+    1074.8900146484375
+   ],
+   "wt2": [
+    100.44910888586242,
+    95.69228791065655
+   ],
+   "money_flow": [
+    19.505687415424678,
+    21.307807012573903
+   ],
+   "last_bar_closes": "2026-11-01T00:00:00+00:00",
+   "signals": {
+    "buy": [
+     {
+      "i": 295,
+      "t": "2009-01-01T00:00:00+00:00",
+      "c": 3.7200000286102295
+     },
+     {
+      "i": 382,
+      "t": "2016-04-01T00:00:00+00:00",
+      "c": 10.75
+     }
+    ],
+    "sell": [
+     {
+      "i": 501,
+      "t": "2026-03-01T00:00:00+00:00",
+      "c": 337.8399963378906
+     },
+     {
+      "i": 505,
+      "t": "2026-07-01T00:00:00+00:00",
+      "c": 823.030029296875
+     }
+    ],
+    "gold": null,
+    "buy_div": [
+     {
+      "i": 296,
+      "t": "2009-02-01T00:00:00+00:00",
+      "c": 3.2200000286102295
+     }
+    ],
+    "sell_div": [
+     {
+      "i": 404,
+      "t": "2018-02-01T00:00:00+00:00",
+      "c": 48.810001373291016
+     },
+     {
+      "i": 409,
+      "t": "2018-07-01T00:00:00+00:00",
+      "c": 52.790000915527344
+     }
+    ]
+   }
+  },
+  "structure": {
+   "trend": "up",
+   "flip_level": 61.540000915527344,
+   "flip_dir": "down",
+   "last_event": {
+    "kind": "BOS",
+    "dir": "up",
+    "t": "2025-09-01T00:00:00+00:00"
+   }
+  },
+  "trend_closed": "up",
+  "onchain": false,
+  "generation": "20261003T223730Z"
+ },
+ "ZCAT_1h": {
+  "symbol": "ZCAT",
+  "timeframe": "1h",
+  "venue": "mexc",
+  "palette_gen": "585ef30e7458",
+  "venue_kind": "crypto",
+  "bars": 666,
+  "last": "2026-10-03T22:00:00+00:00",
+  "macd_states": 467,
+  "families": 32,
+  "families_firing": 29,
+  "htf_available": true,
+  "quotable": false,
+  "quote": "USDT",
+  "bar_seconds": 3600,
+  "warmup_bars": 200,
+  "settled_from": 510,
+  "history_short_for": [],
+  "board": {
+   "n": 666,
+   "t": [
+    "2026-10-03T21:00:00+00:00",
+    "2026-10-03T22:00:00+00:00"
+   ],
+   "c": [
+    0.0367,
+    0.03625
+   ],
+   "wt2": [
+    -59.87533483540151,
+    -52.934050440576506
+   ],
+   "money_flow": [
+    -8.085638469719495,
+    -8.39983643806347
+   ],
+   "last_bar_closes": "2026-10-03T23:00:00+00:00",
+   "signals": {
+    "buy": [
+     {
+      "i": 639,
+      "t": "2026-10-02T20:00:00+00:00",
+      "c": 0.03608
+     },
+     {
+      "i": 663,
+      "t": "2026-10-03T20:00:00+00:00",
+      "c": 0.03697
+     }
+    ],
+    "sell": [
+     {
+      "i": 497,
+      "t": "2026-09-26T22:00:00+00:00",
+      "c": 0.07874
+     },
+     {
+      "i": 500,
+      "t": "2026-09-27T01:00:00+00:00",
+      "c": 0.08319
+     }
+    ],
+    "gold": null,
+    "buy_div": [
+     {
+      "i": 614,
+      "t": "2026-10-01T19:00:00+00:00",
+      "c": 0.04839
+     },
+     {
+      "i": 641,
+      "t": "2026-10-02T22:00:00+00:00",
+      "c": 0.03523
+     }
+    ],
+    "sell_div": [
+     {
+      "i": 210,
+      "t": "2026-09-14T23:00:00+00:00",
+      "c": 0.11153
+     },
+     {
+      "i": 280,
+      "t": "2026-09-17T21:00:00+00:00",
+      "c": 0.1479
+     }
+    ]
+   }
+  },
+  "structure": {
+   "trend": "down",
+   "flip_level": 0.043,
+   "flip_dir": "up",
+   "last_event": {
+    "kind": "BOS",
+    "dir": "down",
+    "t": "2026-10-02T14:00:00+00:00"
+   }
+  },
+  "trend_closed": "down",
+  "onchain": true,
+  "generation": "20261003T223730Z"
+ },
+ "ZCAT_4h": {
+  "symbol": "ZCAT",
+  "timeframe": "4h",
+  "venue": "mexc",
+  "palette_gen": "585ef30e7458",
+  "venue_kind": "crypto",
+  "bars": 167,
+  "last": "2026-10-03T20:00:00+00:00",
+  "macd_states": 117,
+  "families": 32,
+  "families_firing": 20,
+  "htf_available": true,
+  "quotable": false,
+  "quote": "USDT",
+  "bar_seconds": 14400,
+  "warmup_bars": 200,
+  "settled_from": 510,
+  "history_short_for": [
+   "buy_div",
+   "div_bear",
+   "div_bear_add_hidden",
+   "div_bull",
+   "div_bull_add_hidden",
+   "gold",
+   "rsi_div_bear",
+   "rsi_div_bear_hidden",
+   "rsi_div_bull",
+   "rsi_div_bull_hidden",
+   "sell_div",
+   "stoch_div_bear",
+   "stoch_div_bear_hidden",
+   "stoch_div_bull",
+   "stoch_div_bull_hidden",
+   "stoch_fill_k_above_d"
+  ],
+  "board": {
+   "n": 167,
+   "t": [
+    "2026-10-03T16:00:00+00:00",
+    "2026-10-03T20:00:00+00:00"
+   ],
+   "c": [
+    0.03496,
+    0.03625
+   ],
+   "wt2": [
+    -55.73857708835222,
+    -56.661994589727136
+   ],
+   "money_flow": [
+    -18.052483085582104,
+    -17.86917689218088
+   ],
+   "last_bar_closes": "2026-10-04T00:00:00+00:00",
+   "signals": {
+    "buy": [
+     {
+      "i": 154,
+      "t": "2026-10-01T20:00:00+00:00",
+      "c": 0.04719
+     },
+     {
+      "i": 161,
+      "t": "2026-10-03T00:00:00+00:00",
+      "c": 0.03926
+     }
+    ],
+    "sell": [
+     {
+      "i": 70,
+      "t": "2026-09-17T20:00:00+00:00",
+      "c": 0.13406
+     }
+    ],
+    "gold": null,
+    "buy_div": [
+     {
+      "i": 141,
+      "t": "2026-09-29T16:00:00+00:00",
+      "c": 0.05571
+     },
+     {
+      "i": 156,
+      "t": "2026-10-02T04:00:00+00:00",
+      "c": 0.04689
+     }
+    ],
+    "sell_div": null
+   }
+  },
+  "structure": {
+   "trend": "down",
+   "flip_level": 0.07109,
+   "flip_dir": "up",
+   "last_event": {
+    "kind": "BOS",
+    "dir": "down",
+    "t": "2026-10-02T12:00:00+00:00"
+   }
+  },
+  "trend_closed": "down",
+  "onchain": true,
+  "generation": "20261003T223730Z"
+ },
+ "ZCAT_1D": {
+  "symbol": "ZCAT",
+  "timeframe": "1D",
+  "venue": "mexc",
+  "palette_gen": "585ef30e7458",
+  "venue_kind": "crypto",
+  "bars": 28,
+  "last": "2026-10-03T00:00:00+00:00",
+  "macd_states": 19,
+  "families": 32,
+  "families_firing": 0,
+  "htf_available": true,
+  "quotable": false,
+  "quote": "USDT",
+  "bar_seconds": 86400,
+  "warmup_bars": 200,
+  "settled_from": 510,
+  "history_short_for": [
+   "buy",
+   "buy_div",
+   "cross",
+   "cross_down",
+   "cross_up",
+   "div_bear",
+   "div_bear_add",
+   "div_bear_add_hidden",
+   "div_bear_hidden",
+   "div_bull",
+   "div_bull_add",
+   "div_bull_add_hidden",
+   "div_bull_hidden",
+   "gold",
+   "htf_bear_diamond",
+   "htf_bear_flag",
+   "htf_bull_diamond",
+   "htf_bull_flag",
+   "overbought",
+   "oversold",
+   "rsi_div_bear",
+   "rsi_div_bear_hidden",
+   "rsi_div_bull",
+   "rsi_div_bull_hidden",
+   "sell",
+   "sell_div",
+   "stoch_div_bear",
+   "stoch_div_bear_hidden",
+   "stoch_div_bull",
+   "stoch_div_bull_hidden",
+   "stoch_fill_k_above_d"
+  ],
+  "board": {
+   "n": 28,
+   "t": [
+    "2026-10-02T00:00:00+00:00",
+    "2026-10-03T00:00:00+00:00"
+   ],
+   "c": [
+    0.0375,
+    0.03625
+   ],
+   "wt2": [
+    null,
+    null
+   ],
+   "money_flow": [
+    null,
+    null
+   ],
+   "last_bar_closes": "2026-10-04T00:00:00+00:00",
+   "signals": {
+    "buy": null,
+    "sell": null,
+    "gold": null,
+    "buy_div": null,
+    "sell_div": null
+   }
+  },
+  "structure": {
+   "trend": "down",
+   "flip_level": 0.17547,
+   "flip_dir": "up",
+   "last_event": {
+    "kind": "BOS",
+    "dir": "down",
+    "t": "2026-09-25T00:00:00+00:00"
+   }
+  },
+  "trend_closed": "down",
+  "onchain": true,
+  "generation": "20261003T223730Z"
+ },
+ "PUMP_1D": {
+  "symbol": "PUMP",
+  "timeframe": "1D",
+  "venue": "kraken",
+  "palette_gen": "585ef30e7458",
+  "venue_kind": "crypto",
+  "bars": 447,
+  "last": "2026-10-03T00:00:00+00:00",
+  "macd_states": 111,
+  "families": 32,
+  "families_firing": 30,
+  "htf_available": true,
+  "quotable": true,
+  "quote": "USD",
+  "bar_seconds": 86400,
+  "warmup_bars": 200,
+  "settled_from": 510,
+  "history_short_for": [
+   "rsi_div_bear",
+   "rsi_div_bull"
+  ],
+  "board": {
+   "n": 447,
+   "t": [
+    "2026-10-02T00:00:00+00:00",
+    "2026-10-03T00:00:00+00:00"
+   ],
+   "c": [
+    0.005383,
+    0.00638
+   ],
+   "wt2": [
+    71.24984452680363,
+    71.35117148654707
+   ],
+   "money_flow": [
+    8.33197978880462,
+    8.978536247504092
+   ],
+   "last_bar_closes": "2026-10-04T00:00:00+00:00",
+   "signals": {
+    "buy": [
+     {
+      "i": 333,
+      "t": "2026-06-12T00:00:00+00:00",
+      "c": 0.001511
+     },
+     {
+      "i": 348,
+      "t": "2026-06-27T00:00:00+00:00",
+      "c": 0.00135
+     }
+    ],
+    "sell": [
+     {
+      "i": 406,
+      "t": "2026-08-24T00:00:00+00:00",
+      "c": 0.004739
+     },
+     {
+      "i": 445,
+      "t": "2026-10-02T00:00:00+00:00",
+      "c": 0.005383
+     }
+    ],
+    "gold": null,
+    "buy_div": [
+     {
+      "i": 335,
+      "t": "2026-06-14T00:00:00+00:00",
+      "c": 0.001576
+     },
+     {
+      "i": 344,
+      "t": "2026-06-23T00:00:00+00:00",
+      "c": 0.001446
+     }
+    ],
+    "sell_div": [
+     {
+      "i": 381,
+      "t": "2026-07-30T00:00:00+00:00",
+      "c": 0.001986
+     }
+    ]
+   }
+  },
+  "structure": {
+   "trend": "up",
+   "flip_level": 0.003757,
+   "flip_dir": "down",
+   "last_event": {
+    "kind": "BOS",
+    "dir": "up",
+    "t": "2026-09-27T00:00:00+00:00"
+   }
+  },
+  "trend_closed": "up",
+  "onchain": true,
+  "generation": "20261003T223730Z"
+ },
+ "PUMP_4h": {
+  "symbol": "PUMP",
+  "timeframe": "4h",
+  "venue": "kraken",
+  "palette_gen": "585ef30e7458",
+  "venue_kind": "crypto",
+  "bars": 721,
+  "last": "2026-10-03T20:00:00+00:00",
+  "macd_states": 671,
+  "families": 32,
+  "families_firing": 29,
+  "htf_available": true,
+  "quotable": true,
+  "quote": "USD",
+  "bar_seconds": 14400,
+  "warmup_bars": 200,
+  "settled_from": 510,
+  "history_short_for": [],
+  "board": {
+   "n": 721,
+   "t": [
+    "2026-10-03T16:00:00+00:00",
+    "2026-10-03T20:00:00+00:00"
+   ],
+   "c": [
+    0.006267,
+    0.00638
+   ],
+   "wt2": [
+    0.6201972087481368,
+    17.689782188508172
+   ],
+   "money_flow": [
+    18.028537803138388,
+    19.853507934560128
+   ],
+   "last_bar_closes": "2026-10-04T00:00:00+00:00",
+   "signals": {
+    "buy": [
+     {
+      "i": 558,
+      "t": "2026-09-06T20:00:00+00:00",
+      "c": 0.004022
+     },
+     {
+      "i": 665,
+      "t": "2026-09-24T16:00:00+00:00",
+      "c": 0.003885
+     }
+    ],
+    "sell": [
+     {
+      "i": 690,
+      "t": "2026-09-28T20:00:00+00:00",
+      "c": 0.004924
+     },
+     {
+      "i": 697,
+      "t": "2026-09-30T00:00:00+00:00",
+      "c": 0.005716
+     }
+    ],
+    "gold": null,
+    "buy_div": [
+     {
+      "i": 118,
+      "t": "2026-06-25T12:00:00+00:00",
+      "c": 0.001184
+     },
+     {
+      "i": 587,
+      "t": "2026-09-11T16:00:00+00:00",
+      "c": 0.003594
+     }
+    ],
+    "sell_div": [
+     {
+      "i": 699,
+      "t": "2026-09-30T08:00:00+00:00",
+      "c": 0.005742
+     },
+     {
+      "i": 714,
+      "t": "2026-10-02T20:00:00+00:00",
+      "c": 0.005383
+     }
+    ]
+   }
+  },
+  "structure": {
+   "trend": "up",
+   "flip_level": 0.005091,
+   "flip_dir": "down",
+   "last_event": {
+    "kind": "BOS",
+    "dir": "up",
+    "t": "2026-10-03T16:00:00+00:00"
+   }
+  },
+  "trend_closed": "up",
+  "onchain": true,
+  "generation": "20261003T223730Z"
+ },
+ "PUMP_1h": {
+  "symbol": "PUMP",
+  "timeframe": "1h",
+  "venue": "kraken",
+  "palette_gen": "585ef30e7458",
+  "venue_kind": "crypto",
+  "bars": 721,
+  "last": "2026-10-03T22:00:00+00:00",
+  "macd_states": 721,
+  "families": 32,
+  "families_firing": 30,
+  "htf_available": true,
+  "quotable": true,
+  "quote": "USD",
+  "bar_seconds": 3600,
+  "warmup_bars": 200,
+  "settled_from": 510,
+  "history_short_for": [],
+  "board": {
+   "n": 721,
+   "t": [
+    "2026-10-03T21:00:00+00:00",
+    "2026-10-03T22:00:00+00:00"
+   ],
+   "c": [
+    0.006353,
+    0.00638
+   ],
+   "wt2": [
+    80.61972060502553,
+    78.101178729286
+   ],
+   "money_flow": [
+    7.813051186146044,
+    7.91245929379382
+   ],
+   "last_bar_closes": "2026-10-03T23:00:00+00:00",
+   "signals": {
+    "buy": [
+     {
+      "i": 484,
+      "t": "2026-09-24T02:00:00+00:00",
+      "c": 0.004011
+     },
+     {
+      "i": 495,
+      "t": "2026-09-24T13:00:00+00:00",
+      "c": 0.003846
+     }
+    ],
+    "sell": [
+     {
+      "i": 622,
+      "t": "2026-09-29T20:00:00+00:00",
+      "c": 0.0059
+     },
+     {
+      "i": 718,
+      "t": "2026-10-03T20:00:00+00:00",
+      "c": 0.006294
+     }
+    ],
+    "gold": null,
+    "buy_div": [
+     {
+      "i": 497,
+      "t": "2026-09-24T15:00:00+00:00",
+      "c": 0.003867
+     },
+     {
+      "i": 699,
+      "t": "2026-10-03T01:00:00+00:00",
+      "c": 0.005555
+     }
+    ],
+    "sell_div": [
+     {
+      "i": 652,
+      "t": "2026-10-01T02:00:00+00:00",
+      "c": 0.005723
+     },
+     {
+      "i": 684,
+      "t": "2026-10-02T10:00:00+00:00",
+      "c": 0.005851
+     }
+    ]
+   }
+  },
+  "structure": {
+   "trend": "up",
+   "flip_level": 0.005091,
+   "flip_dir": "down",
+   "last_event": {
+    "kind": "CHoCH",
+    "dir": "up",
+    "t": "2026-10-03T12:00:00+00:00"
+   }
+  },
+  "trend_closed": "up",
+  "onchain": true,
+  "generation": "20261003T223730Z"
+ },
+ "PUMP_1W": {
+  "symbol": "PUMP",
+  "timeframe": "1W",
+  "venue": "kraken",
+  "palette_gen": "585ef30e7458",
+  "venue_kind": "crypto",
+  "bars": 65,
+  "last": "2026-10-01T00:00:00+00:00",
+  "macd_states": 16,
+  "families": 32,
+  "families_firing": 15,
+  "htf_available": true,
+  "quotable": true,
+  "quote": "USD",
+  "bar_seconds": 604800,
+  "warmup_bars": 200,
+  "settled_from": 510,
+  "history_short_for": [
+   "buy",
+   "buy_div",
+   "cross",
+   "cross_down",
+   "cross_up",
+   "div_bear",
+   "div_bear_add",
+   "div_bear_add_hidden",
+   "div_bear_hidden",
+   "div_bull",
+   "div_bull_add",
+   "div_bull_add_hidden",
+   "div_bull_hidden",
+   "gold",
+   "htf_bear_flag",
+   "htf_bull_flag",
+   "overbought",
+   "oversold",
+   "rsi_div_bear",
+   "rsi_div_bear_hidden",
+   "rsi_div_bull",
+   "rsi_div_bull_hidden",
+   "sell",
+   "sell_div",
+   "stoch_div_bear",
+   "stoch_div_bear_hidden",
+   "stoch_div_bull",
+   "stoch_div_bull_hidden",
+   "stoch_fill_k_above_d"
+  ],
+  "board": {
+   "n": 65,
+   "t": [
+    "2026-09-24T00:00:00+00:00",
+    "2026-10-01T00:00:00+00:00"
+   ],
+   "c": [
+    0.00592,
+    0.00638
+   ],
+   "wt2": [
+    68.76810111982897,
+    72.14989252692183
+   ],
+   "money_flow": [
+    -2.470145948451379,
+    -2.2673300951202333
+   ],
+   "last_bar_closes": "2026-10-08T00:00:00+00:00",
+   "signals": {
+    "buy": [
+     {
+      "i": 51,
+      "t": "2026-07-02T00:00:00+00:00",
+      "c": 0.001485
+     }
+    ],
+    "sell": [
+     {
+      "i": 61,
+      "t": "2026-09-10T00:00:00+00:00",
+      "c": 0.003619
+     }
+    ],
+    "gold": null,
+    "buy_div": [
+     {
+      "i": 40,
+      "t": "2026-04-16T00:00:00+00:00",
+      "c": 0.001843
+     }
+    ],
+    "sell_div": null
+   }
+  },
+  "structure": {
+   "trend": "up",
+   "flip_level": 0.001151,
+   "flip_dir": "down",
+   "last_event": {
+    "kind": "CHoCH",
+    "dir": "up",
+    "t": "2026-07-30T00:00:00+00:00"
+   }
+  },
+  "trend_closed": "up",
+  "onchain": true,
+  "generation": "20261003T223730Z"
+ },
+ "PUMP_1M": {
+  "symbol": "PUMP",
+  "timeframe": "1M",
+  "venue": "kraken",
+  "palette_gen": "585ef30e7458",
+  "venue_kind": "crypto",
+  "bars": 16,
+  "last": "2026-10-01T00:00:00+00:00",
+  "macd_states": 4,
+  "families": 32,
+  "families_firing": 0,
+  "htf_available": true,
+  "quotable": true,
+  "quote": "USD",
+  "bar_seconds": 2592000,
+  "warmup_bars": 200,
+  "settled_from": 510,
+  "history_short_for": [
+   "buy",
+   "buy_div",
+   "cross",
+   "cross_down",
+   "cross_up",
+   "div_bear",
+   "div_bear_add",
+   "div_bear_add_hidden",
+   "div_bear_hidden",
+   "div_bull",
+   "div_bull_add",
+   "div_bull_add_hidden",
+   "div_bull_hidden",
+   "gold",
+   "htf_bear_diamond",
+   "htf_bear_flag",
+   "htf_bull_diamond",
+   "htf_bull_flag",
+   "overbought",
+   "oversold",
+   "rsi_div_bear",
+   "rsi_div_bear_hidden",
+   "rsi_div_bull",
+   "rsi_div_bull_hidden",
+   "sell",
+   "sell_div",
+   "stoch_div_bear",
+   "stoch_div_bear_hidden",
+   "stoch_div_bull",
+   "stoch_div_bull_hidden",
+   "stoch_fill_k_above_d"
+  ],
+  "board": {
+   "n": 16,
+   "t": [
+    "2026-09-01T00:00:00+00:00",
+    "2026-10-01T00:00:00+00:00"
+   ],
+   "c": [
+    0.00592,
+    0.00638
+   ],
+   "wt2": [
+    null,
+    null
+   ],
+   "money_flow": [
+    null,
+    null
+   ],
+   "last_bar_closes": "2026-11-01T00:00:00+00:00",
+   "signals": {
+    "buy": null,
+    "sell": null,
+    "gold": null,
+    "buy_div": null,
+    "sell_div": null
+   }
+  },
+  "structure": {
+   "trend": "none",
+   "flip_level": null,
+   "flip_dir": null,
+   "last_event": null
+  },
+  "trend_closed": "none",
+  "onchain": true,
+  "generation": "20261003T223730Z"
+ },
+ "SUI_1D": {
+  "symbol": "SUI",
+  "timeframe": "1D",
+  "venue": "kraken",
+  "palette_gen": "585ef30e7458",
+  "venue_kind": "crypto",
+  "bars": 721,
+  "last": "2026-10-03T00:00:00+00:00",
+  "macd_states": 111,
+  "families": 32,
+  "families_firing": 28,
+  "htf_available": true,
+  "quotable": true,
+  "quote": "USD",
+  "bar_seconds": 86400,
+  "warmup_bars": 200,
+  "settled_from": 510,
+  "history_short_for": [],
+  "board": {
+   "n": 721,
+   "t": [
+    "2026-10-02T00:00:00+00:00",
+    "2026-10-03T00:00:00+00:00"
+   ],
+   "c": [
+    1.1458,
+    1.181
+   ],
+   "wt2": [
+    57.996375027773325,
+    53.85028074931242
+   ],
+   "money_flow": [
+    5.165119011170456,
+    6.644281218965764
+   ],
+   "last_bar_closes": "2026-10-04T00:00:00+00:00",
+   "signals": {
+    "buy": [
+     {
+      "i": 621,
+      "t": "2026-06-26T00:00:00+00:00",
+      "c": 0.6974
+     },
+     {
+      "i": 675,
+      "t": "2026-08-19T00:00:00+00:00",
+      "c": 0.7055
+     }
+    ],
+    "sell": [
+     {
+      "i": 576,
+      "t": "2026-05-12T00:00:00+00:00",
+      "c": 1.2375
+     },
+     {
+      "i": 715,
+      "t": "2026-09-28T00:00:00+00:00",
+      "c": 1.1669
+     }
+    ],
+    "gold": null,
+    "buy_div": [
+     {
+      "i": 623,
+      "t": "2026-06-28T00:00:00+00:00",
+      "c": 0.6806
+     },
+     {
+      "i": 666,
+      "t": "2026-08-10T00:00:00+00:00",
+      "c": 0.6838
+     }
+    ],
+    "sell_div": [
+     {
+      "i": 343,
+      "t": "2025-09-21T00:00:00+00:00",
+      "c": 3.6117
+     },
+     {
+      "i": 683,
+      "t": "2026-08-27T00:00:00+00:00",
+      "c": 0.7801
+     }
+    ]
+   }
+  },
+  "structure": {
+   "trend": "up",
+   "flip_level": 0.673,
+   "flip_dir": "down",
+   "last_event": {
+    "kind": "CHoCH",
+    "dir": "up",
+    "t": "2026-09-19T00:00:00+00:00"
+   }
+  },
+  "trend_closed": "up",
+  "onchain": false,
+  "generation": "20261003T223730Z"
+ },
+ "SUI_4h": {
+  "symbol": "SUI",
+  "timeframe": "4h",
+  "venue": "kraken",
+  "palette_gen": "585ef30e7458",
+  "venue_kind": "crypto",
+  "bars": 721,
+  "last": "2026-10-03T20:00:00+00:00",
+  "macd_states": 671,
+  "families": 32,
+  "families_firing": 29,
+  "htf_available": true,
+  "quotable": true,
+  "quote": "USD",
+  "bar_seconds": 14400,
+  "warmup_bars": 200,
+  "settled_from": 510,
+  "history_short_for": [],
+  "board": {
+   "n": 721,
+   "t": [
+    "2026-10-03T16:00:00+00:00",
+    "2026-10-03T20:00:00+00:00"
+   ],
+   "c": [
+    1.1745,
+    1.181
+   ],
+   "wt2": [
+    9.947969507231457,
+    16.051608428158048
+   ],
+   "money_flow": [
+    4.862820421651978,
+    6.8221403973654375
+   ],
+   "last_bar_closes": "2026-10-04T00:00:00+00:00",
+   "signals": {
+    "buy": [
+     {
+      "i": 599,
+      "t": "2026-09-13T16:00:00+00:00",
+      "c": 0.7186
+     },
+     {
+      "i": 615,
+      "t": "2026-09-16T08:00:00+00:00",
+      "c": 0.6916
+     }
+    ],
+    "sell": [
+     {
+      "i": 674,
+      "t": "2026-09-26T04:00:00+00:00",
+      "c": 1.1621
+     },
+     {
+      "i": 685,
+      "t": "2026-09-28T00:00:00+00:00",
+      "c": 1.2355
+     }
+    ],
+    "gold": null,
+    "buy_div": [
+     {
+      "i": 534,
+      "t": "2026-09-02T20:00:00+00:00",
+      "c": 0.7463
+     },
+     {
+      "i": 603,
+      "t": "2026-09-14T08:00:00+00:00",
+      "c": 0.7243
+     }
+    ],
+    "sell_div": [
+     {
+      "i": 676,
+      "t": "2026-09-26T12:00:00+00:00",
+      "c": 1.1833
+     },
+     {
+      "i": 686,
+      "t": "2026-09-28T04:00:00+00:00",
+      "c": 1.1779
+     }
+    ]
+   }
+  },
+  "structure": {
+   "trend": "down",
+   "flip_level": 1.2184,
+   "flip_dir": "up",
+   "last_event": {
+    "kind": "BOS",
+    "dir": "down",
+    "t": "2026-10-02T16:00:00+00:00"
+   }
+  },
+  "trend_closed": "down",
+  "onchain": false,
+  "generation": "20261003T223730Z"
+ },
+ "SUI_1h": {
+  "symbol": "SUI",
+  "timeframe": "1h",
+  "venue": "kraken",
+  "palette_gen": "585ef30e7458",
+  "venue_kind": "crypto",
+  "bars": 721,
+  "last": "2026-10-03T22:00:00+00:00",
+  "macd_states": 721,
+  "families": 32,
+  "families_firing": 30,
+  "htf_available": true,
+  "quotable": true,
+  "quote": "USD",
+  "bar_seconds": 3600,
+  "warmup_bars": 200,
+  "settled_from": 510,
+  "history_short_for": [],
+  "board": {
+   "n": 721,
+   "t": [
+    "2026-10-03T21:00:00+00:00",
+    "2026-10-03T22:00:00+00:00"
+   ],
+   "c": [
+    1.1744,
+    1.181
+   ],
+   "wt2": [
+    16.469501995255474,
+    20.492092684972278
+   ],
+   "money_flow": [
+    -5.4862156364219645,
+    -4.121258709558381
+   ],
+   "last_bar_closes": "2026-10-03T23:00:00+00:00",
+   "signals": {
+    "buy": [
+     {
+      "i": 607,
+      "t": "2026-09-29T05:00:00+00:00",
+      "c": 1.1225
+     },
+     {
+      "i": 696,
+      "t": "2026-10-02T22:00:00+00:00",
+      "c": 1.1269
+     }
+    ],
+    "sell": [
+     {
+      "i": 644,
+      "t": "2026-09-30T18:00:00+00:00",
+      "c": 1.1625
+     },
+     {
+      "i": 680,
+      "t": "2026-10-02T06:00:00+00:00",
+      "c": 1.1855
+     }
+    ],
+    "gold": null,
+    "buy_div": [
+     {
+      "i": 596,
+      "t": "2026-09-28T18:00:00+00:00",
+      "c": 1.1703
+     },
+     {
+      "i": 601,
+      "t": "2026-09-28T23:00:00+00:00",
+      "c": 1.1669
+     }
+    ],
+    "sell_div": [
+     {
+      "i": 577,
+      "t": "2026-09-27T23:00:00+00:00",
+      "c": 1.2631
+     },
+     {
+      "i": 690,
+      "t": "2026-10-02T16:00:00+00:00",
+      "c": 1.1704
+     }
+    ]
+   }
+  },
+  "structure": {
+   "trend": "down",
+   "flip_level": 1.1948,
+   "flip_dir": "up",
+   "last_event": {
+    "kind": "CHoCH",
+    "dir": "down",
+    "t": "2026-10-02T18:00:00+00:00"
+   }
+  },
+  "trend_closed": "down",
+  "onchain": false,
+  "generation": "20261003T223730Z"
+ },
+ "SUI_1W": {
+  "symbol": "SUI",
+  "timeframe": "1W",
+  "venue": "kraken",
+  "palette_gen": "585ef30e7458",
+  "venue_kind": "crypto",
+  "bars": 180,
+  "last": "2026-10-01T00:00:00+00:00",
+  "macd_states": 16,
+  "families": 32,
+  "families_firing": 22,
+  "htf_available": true,
+  "quotable": true,
+  "quote": "USD",
+  "bar_seconds": 604800,
+  "warmup_bars": 200,
+  "settled_from": 510,
+  "history_short_for": [
+   "buy_div",
+   "div_bear",
+   "div_bear_add_hidden",
+   "div_bull",
+   "div_bull_add_hidden",
+   "gold",
+   "rsi_div_bear",
+   "rsi_div_bear_hidden",
+   "rsi_div_bull",
+   "rsi_div_bull_hidden",
+   "sell_div",
+   "stoch_div_bear",
+   "stoch_div_bear_hidden",
+   "stoch_div_bull",
+   "stoch_div_bull_hidden",
+   "stoch_fill_k_above_d"
+  ],
+  "board": {
+   "n": 180,
+   "t": [
+    "2026-09-24T00:00:00+00:00",
+    "2026-10-01T00:00:00+00:00"
+   ],
+   "c": [
+    1.1639,
+    1.181
+   ],
+   "wt2": [
+    5.254581738384085,
+    26.730153253733935
+   ],
+   "money_flow": [
+    -16.1098161894612,
+    -18.028943833992656
+   ],
+   "last_bar_closes": "2026-10-08T00:00:00+00:00",
+   "signals": {
+    "buy": [
+     {
+      "i": 136,
+      "t": "2025-12-04T00:00:00+00:00",
+      "c": 1.6146
+     },
+     {
+      "i": 148,
+      "t": "2026-02-26T00:00:00+00:00",
+      "c": 0.958
+     }
+    ],
+    "sell": [
+     {
+      "i": 83,
+      "t": "2024-11-28T00:00:00+00:00",
+      "c": 3.6793
+     },
+     {
+      "i": 86,
+      "t": "2024-12-19T00:00:00+00:00",
+      "c": 4.4929
+     }
+    ],
+    "gold": null,
+    "buy_div": [
+     {
+      "i": 169,
+      "t": "2026-07-23T00:00:00+00:00",
+      "c": 0.6858
+     },
+     {
+      "i": 174,
+      "t": "2026-08-27T00:00:00+00:00",
+      "c": 0.7463
+     }
+    ],
+    "sell_div": [
+     {
+      "i": 87,
+      "t": "2024-12-26T00:00:00+00:00",
+      "c": 4.2748
+     }
+    ]
+   }
+  },
+  "structure": {
+   "trend": "down",
+   "flip_level": 1.6799,
+   "flip_dir": "up",
+   "last_event": {
+    "kind": "BOS",
+    "dir": "down",
+    "t": "2026-06-04T00:00:00+00:00"
+   }
+  },
+  "trend_closed": "down",
+  "onchain": false,
+  "generation": "20261003T223730Z"
+ },
+ "SUI_1M": {
+  "symbol": "SUI",
+  "timeframe": "1M",
+  "venue": "bitfinex",
+  "palette_gen": "585ef30e7458",
+  "venue_kind": "crypto",
+  "bars": 42,
+  "last": "2026-10-01T00:00:00+00:00",
+  "macd_states": 0,
+  "families": 32,
+  "families_firing": 6,
+  "htf_available": true,
+  "quotable": true,
+  "quote": "USD",
+  "bar_seconds": 2592000,
+  "warmup_bars": 200,
+  "settled_from": 510,
+  "history_short_for": [
+   "buy",
+   "buy_div",
+   "cross",
+   "cross_down",
+   "cross_up",
+   "div_bear",
+   "div_bear_add",
+   "div_bear_add_hidden",
+   "div_bear_hidden",
+   "div_bull",
+   "div_bull_add",
+   "div_bull_add_hidden",
+   "div_bull_hidden",
+   "gold",
+   "htf_bear_diamond",
+   "htf_bear_flag",
+   "htf_bull_diamond",
+   "htf_bull_flag",
+   "overbought",
+   "oversold",
+   "rsi_div_bear",
+   "rsi_div_bear_hidden",
+   "rsi_div_bull",
+   "rsi_div_bull_hidden",
+   "sell",
+   "sell_div",
+   "stoch_div_bear",
+   "stoch_div_bear_hidden",
+   "stoch_div_bull",
+   "stoch_div_bull_hidden",
+   "stoch_fill_k_above_d"
+  ],
+  "board": {
+   "n": 42,
+   "t": [
+    "2026-09-01T00:00:00+00:00",
+    "2026-10-01T00:00:00+00:00"
+   ],
+   "c": [
+    1.171,
+    1.1746
+   ],
+   "wt2": [
+    -39.92276210037033,
+    -36.06284103289034
+   ],
+   "money_flow": [
+    null,
+    null
+   ],
+   "last_bar_closes": "2026-11-01T00:00:00+00:00",
+   "signals": {
+    "buy": null,
+    "sell": null,
+    "gold": null,
+    "buy_div": null,
+    "sell_div": null
+   }
+  },
+  "structure": {
+   "trend": "down",
+   "flip_level": 4.4544,
+   "flip_dir": "up",
+   "last_event": {
+    "kind": "CHoCH",
+    "dir": "down",
+    "t": "2025-11-01T00:00:00+00:00"
+   }
+  },
+  "trend_closed": "down",
+  "onchain": false,
+  "generation": "20261003T223730Z"
+ },
+ "NEAR_1D": {
+  "symbol": "NEAR",
+  "timeframe": "1D",
+  "venue": "kraken",
+  "palette_gen": "585ef30e7458",
+  "venue_kind": "crypto",
+  "bars": 721,
+  "last": "2026-10-03T00:00:00+00:00",
+  "macd_states": 111,
+  "families": 32,
+  "families_firing": 27,
+  "htf_available": true,
+  "quotable": true,
+  "quote": "USD",
+  "bar_seconds": 86400,
+  "warmup_bars": 200,
+  "settled_from": 510,
+  "history_short_for": [],
+  "board": {
+   "n": 721,
+   "t": [
+    "2026-10-02T00:00:00+00:00",
+    "2026-10-03T00:00:00+00:00"
+   ],
+   "c": [
+    4.6887,
+    4.7962
+   ],
+   "wt2": [
+    61.382748158978096,
+    52.88890506819828
+   ],
+   "money_flow": [
+    11.293493288780017,
+    13.288572509188585
+   ],
+   "last_bar_closes": "2026-10-04T00:00:00+00:00",
+   "signals": {
+    "buy": [
+     {
+      "i": 666,
+      "t": "2026-08-10T00:00:00+00:00",
+      "c": 1.6016
+     },
+     {
+      "i": 668,
+      "t": "2026-08-12T00:00:00+00:00",
+      "c": 1.6421
+     }
+    ],
+    "sell": [
+     {
+      "i": 695,
+      "t": "2026-09-08T00:00:00+00:00",
+      "c": 2.3206
+     },
+     {
+      "i": 709,
+      "t": "2026-09-22T00:00:00+00:00",
+      "c": 4.421
+     }
+    ],
+    "gold": null,
+    "buy_div": [
+     {
+      "i": 483,
+      "t": "2026-02-08T00:00:00+00:00",
+      "c": 1.037
+     },
+     {
+      "i": 669,
+      "t": "2026-08-13T00:00:00+00:00",
+      "c": 1.64
+     }
+    ],
+    "sell_div": [
+     {
+      "i": 580,
+      "t": "2026-05-16T00:00:00+00:00",
+      "c": 1.4973
+     },
+     {
+      "i": 600,
+      "t": "2026-06-05T00:00:00+00:00",
+      "c": 1.966
+     }
+    ]
+   }
+  },
+  "structure": {
+   "trend": "up",
+   "flip_level": 1.7796,
+   "flip_dir": "down",
+   "last_event": {
+    "kind": "BOS",
+    "dir": "up",
+    "t": "2026-09-17T00:00:00+00:00"
+   }
+  },
+  "trend_closed": "up",
+  "onchain": false,
+  "generation": "20261003T223730Z"
+ },
+ "NEAR_4h": {
+  "symbol": "NEAR",
+  "timeframe": "4h",
+  "venue": "kraken",
+  "palette_gen": "585ef30e7458",
+  "venue_kind": "crypto",
+  "bars": 721,
+  "last": "2026-10-03T20:00:00+00:00",
+  "macd_states": 671,
+  "families": 32,
+  "families_firing": 30,
+  "htf_available": true,
+  "quotable": true,
+  "quote": "USD",
+  "bar_seconds": 14400,
+  "warmup_bars": 200,
+  "settled_from": 510,
+  "history_short_for": [],
+  "board": {
+   "n": 721,
+   "t": [
+    "2026-10-03T16:00:00+00:00",
+    "2026-10-03T20:00:00+00:00"
+   ],
+   "c": [
+    4.7259,
+    4.7962
+   ],
+   "wt2": [
+    -47.57201744021111,
+    -43.230728006983874
+   ],
+   "money_flow": [
+    -3.7242355219890806,
+    -0.4176975448390592
+   ],
+   "last_bar_closes": "2026-10-04T00:00:00+00:00",
+   "signals": {
+    "buy": [
+     {
+      "i": 379,
+      "t": "2026-08-08T00:00:00+00:00",
+      "c": 1.6069
+     },
+     {
+      "i": 492,
+      "t": "2026-08-26T20:00:00+00:00",
+      "c": 1.8976
+     }
+    ],
+    "sell": [
+     {
+      "i": 682,
+      "t": "2026-09-27T12:00:00+00:00",
+      "c": 5.198
+     },
+     {
+      "i": 685,
+      "t": "2026-09-28T00:00:00+00:00",
+      "c": 5.2209
+     }
+    ],
+    "gold": null,
+    "buy_div": [
+     {
+      "i": 404,
+      "t": "2026-08-12T04:00:00+00:00",
+      "c": 1.6484
+     },
+     {
+      "i": 509,
+      "t": "2026-08-29T16:00:00+00:00",
+      "c": 1.8576
+     }
+    ],
+    "sell_div": [
+     {
+      "i": 654,
+      "t": "2026-09-22T20:00:00+00:00",
+      "c": 4.421
+     },
+     {
+      "i": 686,
+      "t": "2026-09-28T04:00:00+00:00",
+      "c": 5.1164
+     }
+    ]
+   }
+  },
+  "structure": {
+   "trend": "down",
+   "flip_level": 5.5281,
+   "flip_dir": "up",
+   "last_event": {
+    "kind": "BOS",
+    "dir": "down",
+    "t": "2026-10-02T16:00:00+00:00"
+   }
+  },
+  "trend_closed": "down",
+  "onchain": false,
+  "generation": "20261003T223730Z"
+ },
+ "NEAR_1h": {
+  "symbol": "NEAR",
+  "timeframe": "1h",
+  "venue": "kraken",
+  "palette_gen": "585ef30e7458",
+  "venue_kind": "crypto",
+  "bars": 721,
+  "last": "2026-10-03T22:00:00+00:00",
+  "macd_states": 721,
+  "families": 32,
+  "families_firing": 28,
+  "htf_available": true,
+  "quotable": true,
+  "quote": "USD",
+  "bar_seconds": 3600,
+  "warmup_bars": 200,
+  "settled_from": 510,
+  "history_short_for": [],
+  "board": {
+   "n": 721,
+   "t": [
+    "2026-10-03T21:00:00+00:00",
+    "2026-10-03T22:00:00+00:00"
+   ],
+   "c": [
+    4.7504,
+    4.7962
+   ],
+   "wt2": [
+    17.793737716284088,
+    30.85948759144948
+   ],
+   "money_flow": [
+    -14.401302911905344,
+    -11.201557264402815
+   ],
+   "last_bar_closes": "2026-10-03T23:00:00+00:00",
+   "signals": {
+    "buy": [
+     {
+      "i": 673,
+      "t": "2026-10-01T23:00:00+00:00",
+      "c": 4.8102
+     },
+     {
+      "i": 695,
+      "t": "2026-10-02T21:00:00+00:00",
+      "c": 4.6597
+     }
+    ],
+    "sell": [
+     {
+      "i": 640,
+      "t": "2026-09-30T14:00:00+00:00",
+      "c": 5.2598
+     },
+     {
+      "i": 644,
+      "t": "2026-09-30T18:00:00+00:00",
+      "c": 5.3887
+     }
+    ],
+    "gold": null,
+    "buy_div": [
+     {
+      "i": 608,
+      "t": "2026-09-29T06:00:00+00:00",
+      "c": 4.7427
+     },
+     {
+      "i": 716,
+      "t": "2026-10-03T18:00:00+00:00",
+      "c": 4.7153
+     }
+    ],
+    "sell_div": [
+     {
+      "i": 630,
+      "t": "2026-09-30T04:00:00+00:00",
+      "c": 4.9402
+     },
+     {
+      "i": 659,
+      "t": "2026-10-01T09:00:00+00:00",
+      "c": 5.1987
+     }
+    ]
+   }
+  },
+  "structure": {
+   "trend": "up",
+   "flip_level": 4.6068,
+   "flip_dir": "down",
+   "last_event": {
+    "kind": "CHoCH",
+    "dir": "up",
+    "t": "2026-10-03T20:00:00+00:00"
+   }
+  },
+  "trend_closed": "up",
+  "onchain": false,
+  "generation": "20261003T223730Z"
+ },
+ "NEAR_1W": {
+  "symbol": "NEAR",
+  "timeframe": "1W",
+  "venue": "kraken",
+  "palette_gen": "585ef30e7458",
+  "venue_kind": "crypto",
+  "bars": 225,
+  "last": "2026-10-01T00:00:00+00:00",
+  "macd_states": 16,
+  "families": 32,
+  "families_firing": 21,
+  "htf_available": true,
+  "quotable": true,
+  "quote": "USD",
+  "bar_seconds": 604800,
+  "warmup_bars": 200,
+  "settled_from": 510,
+  "history_short_for": [
+   "buy_div",
+   "div_bear",
+   "div_bear_add_hidden",
+   "div_bull",
+   "div_bull_add_hidden",
+   "gold",
+   "rsi_div_bear",
+   "rsi_div_bear_hidden",
+   "rsi_div_bull",
+   "rsi_div_bull_hidden",
+   "sell_div",
+   "stoch_div_bear",
+   "stoch_div_bear_hidden",
+   "stoch_div_bull",
+   "stoch_div_bull_hidden",
+   "stoch_fill_k_above_d"
+  ],
+  "board": {
+   "n": 225,
+   "t": [
+    "2026-09-24T00:00:00+00:00",
+    "2026-10-01T00:00:00+00:00"
+   ],
+   "c": [
+    5.3412,
+    4.7986
+   ],
+   "wt2": [
+    60.232761338542424,
+    75.83159242523864
+   ],
+   "money_flow": [
+    -0.6129172297277743,
+    -4.842239369031255
+   ],
+   "last_bar_closes": "2026-10-08T00:00:00+00:00",
+   "signals": {
+    "buy": [
+     {
+      "i": 185,
+      "t": "2026-01-01T00:00:00+00:00",
+      "c": 1.718
+     },
+     {
+      "i": 192,
+      "t": "2026-02-19T00:00:00+00:00",
+      "c": 1.173
+     }
+    ],
+    "sell": [
+     {
+      "i": 102,
+      "t": "2024-05-30T00:00:00+00:00",
+      "c": 7.653
+     },
+     {
+      "i": 208,
+      "t": "2026-06-11T00:00:00+00:00",
+      "c": 2.1809
+     }
+    ],
+    "gold": null,
+    "buy_div": [
+     {
+      "i": 68,
+      "t": "2023-10-05T00:00:00+00:00",
+      "c": 1.027
+     },
+     {
+      "i": 150,
+      "t": "2025-05-01T00:00:00+00:00",
+      "c": 2.284
+     }
+    ],
+    "sell_div": [
+     {
+      "i": 103,
+      "t": "2024-06-06T00:00:00+00:00",
+      "c": 6.39
+     }
+    ]
+   }
+  },
+  "structure": {
+   "trend": "up",
+   "flip_level": 1.5356,
+   "flip_dir": "down",
+   "last_event": {
+    "kind": "CHoCH",
+    "dir": "up",
+    "t": "2026-09-17T00:00:00+00:00"
+   }
+  },
+  "trend_closed": "up",
+  "onchain": false,
+  "generation": "20261003T223730Z"
+ },
+ "NEAR_1M": {
+  "symbol": "NEAR",
+  "timeframe": "1M",
+  "venue": "kraken",
+  "palette_gen": "585ef30e7458",
+  "venue_kind": "crypto",
+  "bars": 25,
+  "last": "2026-10-01T00:00:00+00:00",
+  "macd_states": 4,
+  "families": 32,
+  "families_firing": 0,
+  "htf_available": true,
+  "quotable": true,
+  "quote": "USD",
+  "bar_seconds": 2592000,
+  "warmup_bars": 200,
+  "settled_from": 510,
+  "history_short_for": [
+   "buy",
+   "buy_div",
+   "cross",
+   "cross_down",
+   "cross_up",
+   "div_bear",
+   "div_bear_add",
+   "div_bear_add_hidden",
+   "div_bear_hidden",
+   "div_bull",
+   "div_bull_add",
+   "div_bull_add_hidden",
+   "div_bull_hidden",
+   "gold",
+   "htf_bear_diamond",
+   "htf_bear_flag",
+   "htf_bull_diamond",
+   "htf_bull_flag",
+   "overbought",
+   "oversold",
+   "rsi_div_bear",
+   "rsi_div_bear_hidden",
+   "rsi_div_bull",
+   "rsi_div_bull_hidden",
+   "sell",
+   "sell_div",
+   "stoch_div_bear",
+   "stoch_div_bear_hidden",
+   "stoch_div_bull",
+   "stoch_div_bull_hidden",
+   "stoch_fill_k_above_d"
+  ],
+  "board": {
+   "n": 25,
+   "t": [
+    "2026-09-01T00:00:00+00:00",
+    "2026-10-01T00:00:00+00:00"
+   ],
+   "c": [
+    5.3412,
+    4.7986
+   ],
+   "wt2": [
+    null,
+    null
+   ],
+   "money_flow": [
+    null,
+    null
+   ],
+   "last_bar_closes": "2026-11-01T00:00:00+00:00",
+   "signals": {
+    "buy": null,
+    "sell": null,
+    "gold": null,
+    "buy_div": null,
+    "sell_div": null
+   }
+  },
+  "structure": {
+   "trend": "none",
+   "flip_level": null,
+   "flip_dir": null,
+   "last_event": null
+  },
+  "trend_closed": "none",
+  "onchain": false,
+  "generation": "20261003T223730Z"
+ },
+ "HYPE_1D": {
+  "symbol": "HYPE",
+  "timeframe": "1D",
+  "venue": "kraken",
+  "palette_gen": "585ef30e7458",
+  "venue_kind": "crypto",
+  "bars": 249,
+  "last": "2026-10-03T00:00:00+00:00",
+  "macd_states": 111,
+  "families": 32,
+  "families_firing": 21,
+  "htf_available": true,
+  "quotable": true,
+  "quote": "USD",
+  "bar_seconds": 86400,
+  "warmup_bars": 200,
+  "settled_from": 510,
+  "history_short_for": [
+   "buy_div",
+   "div_bear",
+   "div_bear_add_hidden",
+   "div_bull",
+   "div_bull_add_hidden",
+   "gold",
+   "rsi_div_bear",
+   "rsi_div_bear_hidden",
+   "rsi_div_bull",
+   "rsi_div_bull_hidden",
+   "sell_div",
+   "stoch_div_bear",
+   "stoch_div_bear_hidden",
+   "stoch_div_bull",
+   "stoch_div_bull_hidden",
+   "stoch_fill_k_above_d"
+  ],
+  "board": {
+   "n": 249,
+   "t": [
+    "2026-10-02T00:00:00+00:00",
+    "2026-10-03T00:00:00+00:00"
+   ],
+   "c": [
+    89.08,
+    89.63
+   ],
+   "wt2": [
+    -3.2786833834462445,
+    -6.2090007488827474
+   ],
+   "money_flow": [
+    10.396481496525526,
+    9.676124220870564
+   ],
+   "last_bar_closes": "2026-10-04T00:00:00+00:00",
+   "signals": {
+    "buy": [
+     {
+      "i": 178,
+      "t": "2026-07-25T00:00:00+00:00",
+      "c": 58.07
+     },
+     {
+      "i": 187,
+      "t": "2026-08-03T00:00:00+00:00",
+      "c": 53.93
+     }
+    ],
+    "sell": [
+     {
+      "i": 220,
+      "t": "2026-09-05T00:00:00+00:00",
+      "c": 85.42
+     },
+     {
+      "i": 222,
+      "t": "2026-09-07T00:00:00+00:00",
+      "c": 85.18
+     }
+    ],
+    "gold": null,
+    "buy_div": null,
+    "sell_div": [
+     {
+      "i": 223,
+      "t": "2026-09-08T00:00:00+00:00",
+      "c": 85.15
+     },
+     {
+      "i": 241,
+      "t": "2026-09-26T00:00:00+00:00",
+      "c": 92.6
+     }
+    ]
+   }
+  },
+  "structure": {
+   "trend": "up",
+   "flip_level": 75.11,
+   "flip_dir": "down",
+   "last_event": {
+    "kind": "BOS",
+    "dir": "up",
+    "t": "2026-09-18T00:00:00+00:00"
+   }
+  },
+  "trend_closed": "up",
+  "onchain": false,
+  "generation": "20261003T223730Z"
+ },
+ "HYPE_4h": {
+  "symbol": "HYPE",
+  "timeframe": "4h",
+  "venue": "kraken",
+  "palette_gen": "585ef30e7458",
+  "venue_kind": "crypto",
+  "bars": 721,
+  "last": "2026-10-03T20:00:00+00:00",
+  "macd_states": 671,
+  "families": 32,
+  "families_firing": 29,
+  "htf_available": true,
+  "quotable": true,
+  "quote": "USD",
+  "bar_seconds": 14400,
+  "warmup_bars": 200,
+  "settled_from": 510,
+  "history_short_for": [],
+  "board": {
+   "n": 721,
+   "t": [
+    "2026-10-03T16:00:00+00:00",
+    "2026-10-03T20:00:00+00:00"
+   ],
+   "c": [
+    89.15,
+    89.63
+   ],
+   "wt2": [
+    -4.091429375758616,
+    3.5676781535661912
+   ],
+   "money_flow": [
+    2.27219254695036,
+    4.202654603253906
+   ],
+   "last_bar_closes": "2026-10-04T00:00:00+00:00",
+   "signals": {
+    "buy": [
+     {
+      "i": 692,
+      "t": "2026-09-29T04:00:00+00:00",
+      "c": 88.5
+     },
+     {
+      "i": 697,
+      "t": "2026-09-30T00:00:00+00:00",
+      "c": 85.93
+     }
+    ],
+    "sell": [
+     {
+      "i": 647,
+      "t": "2026-09-21T16:00:00+00:00",
+      "c": 93.25
+     },
+     {
+      "i": 657,
+      "t": "2026-09-23T08:00:00+00:00",
+      "c": 95.23
+     }
+    ],
+    "gold": null,
+    "buy_div": [
+     {
+      "i": 616,
+      "t": "2026-09-16T12:00:00+00:00",
+      "c": 78.63
+     },
+     {
+      "i": 699,
+      "t": "2026-09-30T08:00:00+00:00",
+      "c": 86.59
+     }
+    ],
+    "sell_div": [
+     {
+      "i": 545,
+      "t": "2026-09-04T16:00:00+00:00",
+      "c": 84.86
+     },
+     {
+      "i": 648,
+      "t": "2026-09-21T20:00:00+00:00",
+      "c": 94.08
+     }
+    ]
+   }
+  },
+  "structure": {
+   "trend": "down",
+   "flip_level": 91.48,
+   "flip_dir": "up",
+   "last_event": {
+    "kind": "CHoCH",
+    "dir": "down",
+    "t": "2026-09-28T00:00:00+00:00"
+   }
+  },
+  "trend_closed": "down",
+  "onchain": false,
+  "generation": "20261003T223730Z"
+ },
+ "HYPE_1h": {
+  "symbol": "HYPE",
+  "timeframe": "1h",
+  "venue": "kraken",
+  "palette_gen": "585ef30e7458",
+  "venue_kind": "crypto",
+  "bars": 721,
+  "last": "2026-10-03T22:00:00+00:00",
+  "macd_states": 721,
+  "families": 32,
+  "families_firing": 30,
+  "htf_available": true,
+  "quotable": true,
+  "quote": "USD",
+  "bar_seconds": 3600,
+  "warmup_bars": 200,
+  "settled_from": 510,
+  "history_short_for": [],
+  "board": {
+   "n": 721,
+   "t": [
+    "2026-10-03T21:00:00+00:00",
+    "2026-10-03T22:00:00+00:00"
+   ],
+   "c": [
+    89.63,
+    89.63
+   ],
+   "wt2": [
+    51.49163325564897,
+    56.357539855013336
+   ],
+   "money_flow": [
+    5.986615703305599,
+    4.325369474044536
+   ],
+   "last_bar_closes": "2026-10-03T23:00:00+00:00",
+   "signals": {
+    "buy": [
+     {
+      "i": 605,
+      "t": "2026-09-29T03:00:00+00:00",
+      "c": 86.9
+     },
+     {
+      "i": 673,
+      "t": "2026-10-01T23:00:00+00:00",
+      "c": 87.68
+     }
+    ],
+    "sell": [
+     {
+      "i": 649,
+      "t": "2026-09-30T23:00:00+00:00",
+      "c": 90.91
+     },
+     {
+      "i": 687,
+      "t": "2026-10-02T13:00:00+00:00",
+      "c": 90.57
+     }
+    ],
+    "gold": null,
+    "buy_div": [
+     {
+      "i": 635,
+      "t": "2026-09-30T09:00:00+00:00",
+      "c": 86.52
+     },
+     {
+      "i": 698,
+      "t": "2026-10-03T00:00:00+00:00",
+      "c": 89.35
+     }
+    ],
+    "sell_div": [
+     {
+      "i": 352,
+      "t": "2026-09-18T14:00:00+00:00",
+      "c": 92.53
+     },
+     {
+      "i": 367,
+      "t": "2026-09-19T05:00:00+00:00",
+      "c": 92.01
+     }
+    ]
+   }
+  },
+  "structure": {
+   "trend": "up",
+   "flip_level": 86.16,
+   "flip_dir": "down",
+   "last_event": {
+    "kind": "CHoCH",
+    "dir": "up",
+    "t": "2026-10-02T10:00:00+00:00"
+   }
+  },
+  "trend_closed": "up",
+  "onchain": false,
+  "generation": "20261003T223730Z"
+ },
+ "HYPE_1W": {
+  "symbol": "HYPE",
+  "timeframe": "1W",
+  "venue": "kraken",
+  "palette_gen": "585ef30e7458",
+  "venue_kind": "crypto",
+  "bars": 37,
+  "last": "2026-10-01T00:00:00+00:00",
+  "macd_states": 16,
+  "families": 32,
+  "families_firing": 7,
+  "htf_available": true,
+  "quotable": true,
+  "quote": "USD",
+  "bar_seconds": 604800,
+  "warmup_bars": 200,
+  "settled_from": 510,
+  "history_short_for": [
+   "buy",
+   "buy_div",
+   "cross",
+   "cross_down",
+   "cross_up",
+   "div_bear",
+   "div_bear_add",
+   "div_bear_add_hidden",
+   "div_bear_hidden",
+   "div_bull",
+   "div_bull_add",
+   "div_bull_add_hidden",
+   "div_bull_hidden",
+   "gold",
+   "htf_bear_diamond",
+   "htf_bear_flag",
+   "htf_bull_diamond",
+   "htf_bull_flag",
+   "overbought",
+   "oversold",
+   "rsi_div_bear",
+   "rsi_div_bear_hidden",
+   "rsi_div_bull",
+   "rsi_div_bull_hidden",
+   "sell",
+   "sell_div",
+   "stoch_div_bear",
+   "stoch_div_bear_hidden",
+   "stoch_div_bull",
+   "stoch_div_bull_hidden",
+   "stoch_fill_k_above_d"
+  ],
+  "board": {
+   "n": 37,
+   "t": [
+    "2026-09-24T00:00:00+00:00",
+    "2026-10-01T00:00:00+00:00"
+   ],
+   "c": [
+    90.91,
+    89.63
+   ],
+   "wt2": [
+    72.60327299767943,
+    72.77867696534996
+   ],
+   "money_flow": [
+    null,
+    null
+   ],
+   "last_bar_closes": "2026-10-08T00:00:00+00:00",
+   "signals": {
+    "buy": null,
+    "sell": [
+     {
+      "i": 33,
+      "t": "2026-09-10T00:00:00+00:00",
+      "c": 78.23
+     },
+     {
+      "i": 36,
+      "t": "2026-10-01T00:00:00+00:00",
+      "c": 89.63
+     }
+    ],
+    "gold": null,
+    "buy_div": null,
+    "sell_div": null
+   }
+  },
+  "structure": {
+   "trend": "up",
+   "flip_level": 51.1,
+   "flip_dir": "down",
+   "last_event": {
+    "kind": "BOS",
+    "dir": "up",
+    "t": "2026-08-20T00:00:00+00:00"
+   }
+  },
+  "trend_closed": "up",
+  "onchain": false,
+  "generation": "20261003T223730Z"
+ },
+ "HYPE_1M": {
+  "symbol": "HYPE",
+  "timeframe": "1M",
+  "venue": "kraken",
+  "palette_gen": "585ef30e7458",
+  "venue_kind": "crypto",
+  "bars": 10,
+  "last": "2026-10-01T00:00:00+00:00",
+  "macd_states": 4,
+  "families": 32,
+  "families_firing": 0,
+  "htf_available": true,
+  "quotable": true,
+  "quote": "USD",
+  "bar_seconds": 2592000,
+  "warmup_bars": 200,
+  "settled_from": 510,
+  "history_short_for": [
+   "buy",
+   "buy_div",
+   "cross",
+   "cross_down",
+   "cross_up",
+   "div_bear",
+   "div_bear_add",
+   "div_bear_add_hidden",
+   "div_bear_hidden",
+   "div_bull",
+   "div_bull_add",
+   "div_bull_add_hidden",
+   "div_bull_hidden",
+   "gold",
+   "htf_bear_diamond",
+   "htf_bear_flag",
+   "htf_bull_diamond",
+   "htf_bull_flag",
+   "overbought",
+   "oversold",
+   "rsi_div_bear",
+   "rsi_div_bear_hidden",
+   "rsi_div_bull",
+   "rsi_div_bull_hidden",
+   "sell",
+   "sell_div",
+   "stoch_div_bear",
+   "stoch_div_bear_hidden",
+   "stoch_div_bull",
+   "stoch_div_bull_hidden",
+   "stoch_fill_k_above_d"
+  ],
+  "board": {
+   "n": 10,
+   "t": [
+    "2026-09-01T00:00:00+00:00",
+    "2026-10-01T00:00:00+00:00"
+   ],
+   "c": [
+    90.91,
+    89.61
+   ],
+   "wt2": [
+    null,
+    null
+   ],
+   "money_flow": [
+    null,
+    null
+   ],
+   "last_bar_closes": "2026-11-01T00:00:00+00:00",
+   "signals": {
+    "buy": null,
+    "sell": null,
+    "gold": null,
+    "buy_div": null,
+    "sell_div": null
+   }
+  },
+  "structure": {
+   "trend": "none",
+   "flip_level": null,
+   "flip_dir": null,
+   "last_event": null
+  },
+  "trend_closed": "none",
+  "onchain": false,
+  "generation": "20261003T223730Z"
+ },
+ "TON_1D": {
+  "symbol": "TON",
+  "timeframe": "1D",
+  "venue": "kraken",
+  "palette_gen": "585ef30e7458",
+  "venue_kind": "crypto",
+  "bars": 721,
+  "last": "2026-10-03T00:00:00+00:00",
+  "macd_states": 111,
+  "families": 32,
+  "families_firing": 27,
+  "htf_available": true,
+  "quotable": true,
+  "quote": "USD",
+  "bar_seconds": 86400,
+  "warmup_bars": 200,
+  "settled_from": 510,
+  "history_short_for": [],
+  "board": {
+   "n": 721,
+   "t": [
+    "2026-10-02T00:00:00+00:00",
+    "2026-10-03T00:00:00+00:00"
+   ],
+   "c": [
+    1.499,
+    1.514
+   ],
+   "wt2": [
+    50.79642738351017,
+    44.492926029343884
+   ],
+   "money_flow": [
+    -1.4526707988203604,
+    0.2885632631104138
+   ],
+   "last_bar_closes": "2026-10-04T00:00:00+00:00",
+   "signals": {
+    "buy": [
+     {
+      "i": 661,
+      "t": "2026-08-05T00:00:00+00:00",
+      "c": 1.402
+     },
+     {
+      "i": 667,
+      "t": "2026-08-11T00:00:00+00:00",
+      "c": 1.338
+     }
+    ],
+    "sell": [
+     {
+      "i": 573,
+      "t": "2026-05-09T00:00:00+00:00",
+      "c": 2.434
+     },
+     {
+      "i": 716,
+      "t": "2026-09-29T00:00:00+00:00",
+      "c": 1.481
+     }
+    ],
+    "gold": null,
+    "buy_div": [
+     {
+      "i": 660,
+      "t": "2026-08-04T00:00:00+00:00",
+      "c": 1.391
+     },
+     {
+      "i": 706,
+      "t": "2026-09-19T00:00:00+00:00",
+      "c": 1.38
+     }
+    ],
+    "sell_div": [
+     {
+      "i": 215,
+      "t": "2025-05-16T00:00:00+00:00",
+      "c": 3.103
+     }
+    ]
+   }
+  },
+  "structure": {
+   "trend": "up",
+   "flip_level": 1.285,
+   "flip_dir": "down",
+   "last_event": {
+    "kind": "CHoCH",
+    "dir": "up",
+    "t": "2026-09-22T00:00:00+00:00"
+   }
+  },
+  "trend_closed": "up",
+  "onchain": false,
+  "generation": "20261003T223730Z"
+ },
+ "TON_4h": {
+  "symbol": "TON",
+  "timeframe": "4h",
+  "venue": "kraken",
+  "palette_gen": "585ef30e7458",
+  "venue_kind": "crypto",
+  "bars": 721,
+  "last": "2026-10-03T20:00:00+00:00",
+  "macd_states": 671,
+  "families": 32,
+  "families_firing": 29,
+  "htf_available": true,
+  "quotable": true,
+  "quote": "USD",
+  "bar_seconds": 14400,
+  "warmup_bars": 200,
+  "settled_from": 510,
+  "history_short_for": [],
+  "board": {
+   "n": 721,
+   "t": [
+    "2026-10-03T16:00:00+00:00",
+    "2026-10-03T20:00:00+00:00"
+   ],
+   "c": [
+    1.51,
+    1.514
+   ],
+   "wt2": [
+    -28.75692350948741,
+    -24.55963763871459
+   ],
+   "money_flow": [
+    6.639420791378617,
+    6.821712458045344
+   ],
+   "last_bar_closes": "2026-10-04T00:00:00+00:00",
+   "signals": {
+    "buy": [
+     {
+      "i": 615,
+      "t": "2026-09-16T08:00:00+00:00",
+      "c": 1.313
+     },
+     {
+      "i": 618,
+      "t": "2026-09-16T20:00:00+00:00",
+      "c": 1.316
+     }
+    ],
+    "sell": [
+     {
+      "i": 656,
+      "t": "2026-09-23T04:00:00+00:00",
+      "c": 1.457
+     },
+     {
+      "i": 680,
+      "t": "2026-09-27T04:00:00+00:00",
+      "c": 1.586
+     }
+    ],
+    "gold": null,
+    "buy_div": [
+     {
+      "i": 533,
+      "t": "2026-09-02T16:00:00+00:00",
+      "c": 1.324
+     },
+     {
+      "i": 585,
+      "t": "2026-09-11T08:00:00+00:00",
+      "c": 1.342
+     }
+    ],
+    "sell_div": [
+     {
+      "i": 638,
+      "t": "2026-09-20T04:00:00+00:00",
+      "c": 1.381
+     },
+     {
+      "i": 658,
+      "t": "2026-09-23T12:00:00+00:00",
+      "c": 1.405
+     }
+    ]
+   }
+  },
+  "structure": {
+   "trend": "up",
+   "flip_level": 1.47,
+   "flip_dir": "down",
+   "last_event": {
+    "kind": "BOS",
+    "dir": "up",
+    "t": "2026-10-01T20:00:00+00:00"
+   }
+  },
+  "trend_closed": "up",
+  "onchain": false,
+  "generation": "20261003T223730Z"
+ },
+ "TON_1h": {
+  "symbol": "TON",
+  "timeframe": "1h",
+  "venue": "kraken",
+  "palette_gen": "585ef30e7458",
+  "venue_kind": "crypto",
+  "bars": 721,
+  "last": "2026-10-03T22:00:00+00:00",
+  "macd_states": 721,
+  "families": 32,
+  "families_firing": 30,
+  "htf_available": true,
+  "quotable": true,
+  "quote": "USD",
+  "bar_seconds": 3600,
+  "warmup_bars": 200,
+  "settled_from": 510,
+  "history_short_for": [],
+  "board": {
+   "n": 721,
+   "t": [
+    "2026-10-03T21:00:00+00:00",
+    "2026-10-03T22:00:00+00:00"
+   ],
+   "c": [
+    1.511,
+    1.514
+   ],
+   "wt2": [
+    46.233186770188354,
+    44.48887791250264
+   ],
+   "money_flow": [
+    -2.166975379857704,
+    -1.68086426874669
+   ],
+   "last_bar_closes": "2026-10-03T23:00:00+00:00",
+   "signals": {
+    "buy": [
+     {
+      "i": 628,
+      "t": "2026-09-30T02:00:00+00:00",
+      "c": 1.489
+     },
+     {
+      "i": 695,
+      "t": "2026-10-02T21:00:00+00:00",
+      "c": 1.493
+     }
+    ],
+    "sell": [
+     {
+      "i": 673,
+      "t": "2026-10-01T23:00:00+00:00",
+      "c": 1.575
+     },
+     {
+      "i": 679,
+      "t": "2026-10-02T05:00:00+00:00",
+      "c": 1.548
+     }
+    ],
+    "gold": null,
+    "buy_div": [
+     {
+      "i": 295,
+      "t": "2026-09-16T05:00:00+00:00",
+      "c": 1.313
+     },
+     {
+      "i": 629,
+      "t": "2026-09-30T03:00:00+00:00",
+      "c": 1.49
+     }
+    ],
+    "sell_div": [
+     {
+      "i": 466,
+      "t": "2026-09-23T08:00:00+00:00",
+      "c": 1.45
+     },
+     {
+      "i": 568,
+      "t": "2026-09-27T14:00:00+00:00",
+      "c": 1.584
+     }
+    ]
+   }
+  },
+  "structure": {
+   "trend": "up",
+   "flip_level": 1.484,
+   "flip_dir": "down",
+   "last_event": {
+    "kind": "BOS",
+    "dir": "up",
+    "t": "2026-10-01T17:00:00+00:00"
+   }
+  },
+  "trend_closed": "up",
+  "onchain": false,
+  "generation": "20261003T223730Z"
+ },
+ "TON_1W": {
+  "symbol": "TON",
+  "timeframe": "1W",
+  "venue": "kraken",
+  "palette_gen": "585ef30e7458",
+  "venue_kind": "crypto",
+  "bars": 104,
+  "last": "2026-10-01T00:00:00+00:00",
+  "macd_states": 16,
+  "families": 32,
+  "families_firing": 15,
+  "htf_available": true,
+  "quotable": true,
+  "quote": "USD",
+  "bar_seconds": 604800,
+  "warmup_bars": 200,
+  "settled_from": 510,
+  "history_short_for": [
+   "buy_div",
+   "div_bear",
+   "div_bear_add",
+   "div_bear_add_hidden",
+   "div_bear_hidden",
+   "div_bull",
+   "div_bull_add",
+   "div_bull_add_hidden",
+   "div_bull_hidden",
+   "gold",
+   "rsi_div_bear",
+   "rsi_div_bear_hidden",
+   "rsi_div_bull",
+   "rsi_div_bull_hidden",
+   "sell_div",
+   "stoch_div_bear",
+   "stoch_div_bear_hidden",
+   "stoch_div_bull",
+   "stoch_div_bull_hidden",
+   "stoch_fill_k_above_d"
+  ],
+  "board": {
+   "n": 104,
+   "t": [
+    "2026-09-24T00:00:00+00:00",
+    "2026-10-01T00:00:00+00:00"
+   ],
+   "c": [
+    1.5,
+    1.514
+   ],
+   "wt2": [
+    -34.33630229965253,
+    -22.65795020881917
+   ],
+   "money_flow": [
+    -21.108153303719213,
+    -22.69268403238136
+   ],
+   "last_bar_closes": "2026-10-08T00:00:00+00:00",
+   "signals": {
+    "buy": [
+     {
+      "i": 60,
+      "t": "2025-12-04T00:00:00+00:00",
+      "c": 1.657
+     },
+     {
+      "i": 73,
+      "t": "2026-03-05T00:00:00+00:00",
+      "c": 1.335
+     }
+    ],
+    "sell": null,
+    "gold": null,
+    "buy_div": [
+     {
+      "i": 74,
+      "t": "2026-03-12T00:00:00+00:00",
+      "c": 1.298
+     }
+    ],
+    "sell_div": null
+   }
+  },
+  "structure": {
+   "trend": "up",
+   "flip_level": 1.295,
+   "flip_dir": "down",
+   "last_event": {
+    "kind": "CHoCH",
+    "dir": "up",
+    "t": "2026-04-30T00:00:00+00:00"
+   }
+  },
+  "trend_closed": "up",
+  "onchain": false,
+  "generation": "20261003T223730Z"
+ },
+ "TON_1M": {
+  "symbol": "TON",
+  "timeframe": "1M",
+  "venue": "kraken",
+  "palette_gen": "585ef30e7458",
+  "venue_kind": "crypto",
+  "bars": 25,
+  "last": "2026-10-01T00:00:00+00:00",
+  "macd_states": 0,
+  "families": 32,
+  "families_firing": 0,
+  "htf_available": false,
+  "quotable": true,
+  "quote": "USD",
+  "bar_seconds": 2592000,
+  "warmup_bars": 200,
+  "settled_from": 510,
+  "history_short_for": [
+   "buy",
+   "buy_div",
+   "cross",
+   "cross_down",
+   "cross_up",
+   "div_bear",
+   "div_bear_add",
+   "div_bear_add_hidden",
+   "div_bear_hidden",
+   "div_bull",
+   "div_bull_add",
+   "div_bull_add_hidden",
+   "div_bull_hidden",
+   "gold",
+   "htf_bear_diamond",
+   "htf_bear_flag",
+   "htf_bull_diamond",
+   "htf_bull_flag",
+   "overbought",
+   "oversold",
+   "rsi_div_bear",
+   "rsi_div_bear_hidden",
+   "rsi_div_bull",
+   "rsi_div_bull_hidden",
+   "sell",
+   "sell_div",
+   "stoch_div_bear",
+   "stoch_div_bear_hidden",
+   "stoch_div_bull",
+   "stoch_div_bull_hidden",
+   "stoch_fill_k_above_d"
+  ],
+  "board": {
+   "n": 25,
+   "t": [
+    "2026-09-01T00:00:00+00:00",
+    "2026-10-01T00:00:00+00:00"
+   ],
+   "c": [
+    1.5,
+    1.514
+   ],
+   "wt2": [
+    null,
+    null
+   ],
+   "money_flow": [
+    null,
+    null
+   ],
+   "last_bar_closes": "2026-11-01T00:00:00+00:00",
+   "signals": {
+    "buy": null,
+    "sell": null,
+    "gold": null,
+    "buy_div": null,
+    "sell_div": null
+   }
+  },
+  "structure": {
+   "trend": "down",
+   "flip_level": 2.9,
+   "flip_dir": "up",
+   "last_event": {
+    "kind": "BOS",
+    "dir": "down",
+    "t": "2025-10-01T00:00:00+00:00"
+   }
+  },
+  "trend_closed": "down",
+  "onchain": false,
+  "generation": "20261003T223730Z"
+ },
+ "TAO_1D": {
+  "symbol": "TAO",
+  "timeframe": "1D",
+  "venue": "kraken",
+  "palette_gen": "585ef30e7458",
+  "venue_kind": "crypto",
+  "bars": 721,
+  "last": "2026-10-03T00:00:00+00:00",
+  "macd_states": 111,
+  "families": 32,
+  "families_firing": 30,
+  "htf_available": true,
+  "quotable": true,
+  "quote": "USD",
+  "bar_seconds": 86400,
+  "warmup_bars": 200,
+  "settled_from": 510,
+  "history_short_for": [],
+  "board": {
+   "n": 721,
+   "t": [
+    "2026-10-02T00:00:00+00:00",
+    "2026-10-03T00:00:00+00:00"
+   ],
+   "c": [
+    292.4326,
+    304.5037
+   ],
+   "wt2": [
+    37.53062471707468,
+    30.673326174794806
+   ],
+   "money_flow": [
+    4.834044707478071,
+    6.007017867272671
+   ],
+   "last_bar_closes": "2026-10-04T00:00:00+00:00",
+   "signals": {
+    "buy": [
+     {
+      "i": 644,
+      "t": "2026-07-19T00:00:00+00:00",
+      "c": 198.7899
+     },
+     {
+      "i": 651,
+      "t": "2026-07-26T00:00:00+00:00",
+      "c": 199.229
+     }
+    ],
+    "sell": [
+     {
+      "i": 711,
+      "t": "2026-09-24T00:00:00+00:00",
+      "c": 296.6109
+     },
+     {
+      "i": 715,
+      "t": "2026-09-28T00:00:00+00:00",
+      "c": 308.0311
+     }
+    ],
+    "gold": null,
+    "buy_div": [
+     {
+      "i": 645,
+      "t": "2026-07-20T00:00:00+00:00",
+      "c": 195.1511
+     },
+     {
+      "i": 652,
+      "t": "2026-07-27T00:00:00+00:00",
+      "c": 187.4889
+     }
+    ],
+    "sell_div": [
+     {
+      "i": 532,
+      "t": "2026-03-29T00:00:00+00:00",
+      "c": 315.0065
+     },
+     {
+      "i": 698,
+      "t": "2026-09-11T00:00:00+00:00",
+      "c": 235.6622
+     }
+    ]
+   }
+  },
+  "structure": {
+   "trend": "up",
+   "flip_level": 213.2597,
+   "flip_dir": "down",
+   "last_event": {
+    "kind": "BOS",
+    "dir": "up",
+    "t": "2026-09-21T00:00:00+00:00"
+   }
+  },
+  "trend_closed": "up",
+  "onchain": false,
+  "generation": "20261003T223730Z"
+ },
+ "TAO_4h": {
+  "symbol": "TAO",
+  "timeframe": "4h",
+  "venue": "kraken",
+  "palette_gen": "585ef30e7458",
+  "venue_kind": "crypto",
+  "bars": 721,
+  "last": "2026-10-03T20:00:00+00:00",
+  "macd_states": 671,
+  "families": 32,
+  "families_firing": 28,
+  "htf_available": true,
+  "quotable": true,
+  "quote": "USD",
+  "bar_seconds": 14400,
+  "warmup_bars": 200,
+  "settled_from": 510,
+  "history_short_for": [],
+  "board": {
+   "n": 721,
+   "t": [
+    "2026-10-03T16:00:00+00:00",
+    "2026-10-03T20:00:00+00:00"
+   ],
+   "c": [
+    295.5313,
+    304.5037
+   ],
+   "wt2": [
+    -38.315839247531436,
+    -32.058990174108224
+   ],
+   "money_flow": [
+    4.8316306602676375,
+    8.833176841287688
+   ],
+   "last_bar_closes": "2026-10-04T00:00:00+00:00",
+   "signals": {
+    "buy": [
+     {
+      "i": 585,
+      "t": "2026-09-11T08:00:00+00:00",
+      "c": 232.3035
+     },
+     {
+      "i": 615,
+      "t": "2026-09-16T08:00:00+00:00",
+      "c": 218.9555
+     }
+    ],
+    "sell": [
+     {
+      "i": 678,
+      "t": "2026-09-26T20:00:00+00:00",
+      "c": 321.2
+     },
+     {
+      "i": 682,
+      "t": "2026-09-27T12:00:00+00:00",
+      "c": 321.8213
+     }
+    ],
+    "gold": null,
+    "buy_div": [
+     {
+      "i": 251,
+      "t": "2026-07-17T16:00:00+00:00",
+      "c": 193.4925
+     },
+     {
+      "i": 355,
+      "t": "2026-08-04T00:00:00+00:00",
+      "c": 191.016
+     }
+    ],
+    "sell_div": [
+     {
+      "i": 500,
+      "t": "2026-08-28T04:00:00+00:00",
+      "c": 246.8614
+     },
+     {
+      "i": 679,
+      "t": "2026-09-27T00:00:00+00:00",
+      "c": 320.8194
+     }
+    ]
+   }
+  },
+  "structure": {
+   "trend": "down",
+   "flip_level": 317.0,
+   "flip_dir": "up",
+   "last_event": {
+    "kind": "CHoCH",
+    "dir": "down",
+    "t": "2026-10-02T16:00:00+00:00"
+   }
+  },
+  "trend_closed": "down",
+  "onchain": false,
+  "generation": "20261003T223730Z"
+ },
+ "TAO_1h": {
+  "symbol": "TAO",
+  "timeframe": "1h",
+  "venue": "kraken",
+  "palette_gen": "585ef30e7458",
+  "venue_kind": "crypto",
+  "bars": 721,
+  "last": "2026-10-03T22:00:00+00:00",
+  "macd_states": 721,
+  "families": 32,
+  "families_firing": 30,
+  "htf_available": true,
+  "quotable": true,
+  "quote": "USD",
+  "bar_seconds": 3600,
+  "warmup_bars": 200,
+  "settled_from": 510,
+  "history_short_for": [],
+  "board": {
+   "n": 721,
+   "t": [
+    "2026-10-03T21:00:00+00:00",
+    "2026-10-03T22:00:00+00:00"
+   ],
+   "c": [
+    300.3138,
+    304.5037
+   ],
+   "wt2": [
+    50.95769544372559,
+    61.79887000848132
+   ],
+   "money_flow": [
+    0.6243343998950897,
+    3.924505909123318
+   ],
+   "last_bar_closes": "2026-10-03T23:00:00+00:00",
+   "signals": {
+    "buy": [
+     {
+      "i": 586,
+      "t": "2026-09-28T08:00:00+00:00",
+      "c": 303.8489
+     },
+     {
+      "i": 697,
+      "t": "2026-10-02T23:00:00+00:00",
+      "c": 292.4326
+     }
+    ],
+    "sell": [
+     {
+      "i": 547,
+      "t": "2026-09-26T17:00:00+00:00",
+      "c": 329.6667
+     },
+     {
+      "i": 684,
+      "t": "2026-10-02T10:00:00+00:00",
+      "c": 310.4479
+     }
+    ],
+    "gold": null,
+    "buy_div": [
+     {
+      "i": 496,
+      "t": "2026-09-24T14:00:00+00:00",
+      "c": 285.7021
+     },
+     {
+      "i": 596,
+      "t": "2026-09-28T18:00:00+00:00",
+      "c": 307.6953
+     }
+    ],
+    "sell_div": [
+     {
+      "i": 450,
+      "t": "2026-09-22T16:00:00+00:00",
+      "c": 312.2981
+     },
+     {
+      "i": 568,
+      "t": "2026-09-27T14:00:00+00:00",
+      "c": 323.4831
+     }
+    ]
+   }
+  },
+  "structure": {
+   "trend": "up",
+   "flip_level": 288.1101,
+   "flip_dir": "down",
+   "last_event": {
+    "kind": "CHoCH",
+    "dir": "up",
+    "t": "2026-10-03T20:00:00+00:00"
+   }
+  },
+  "trend_closed": "up",
+  "onchain": false,
+  "generation": "20261003T223730Z"
+ },
+ "TAO_1W": {
+  "symbol": "TAO",
+  "timeframe": "1W",
+  "venue": "kraken",
+  "palette_gen": "585ef30e7458",
+  "venue_kind": "crypto",
+  "bars": 120,
+  "last": "2026-10-01T00:00:00+00:00",
+  "macd_states": 16,
+  "families": 32,
+  "families_firing": 8,
+  "htf_available": true,
+  "quotable": true,
+  "quote": "USD",
+  "bar_seconds": 604800,
+  "warmup_bars": 200,
+  "settled_from": 510,
+  "history_short_for": [
+   "buy_div",
+   "div_bear",
+   "div_bear_add",
+   "div_bear_add_hidden",
+   "div_bear_hidden",
+   "div_bull",
+   "div_bull_add",
+   "div_bull_add_hidden",
+   "div_bull_hidden",
+   "gold",
+   "rsi_div_bear",
+   "rsi_div_bear_hidden",
+   "rsi_div_bull",
+   "rsi_div_bull_hidden",
+   "sell_div",
+   "stoch_div_bear",
+   "stoch_div_bear_hidden",
+   "stoch_div_bull",
+   "stoch_div_bull_hidden",
+   "stoch_fill_k_above_d"
+  ],
+  "board": {
+   "n": 120,
+   "t": [
+    "2026-09-24T00:00:00+00:00",
+    "2026-10-01T00:00:00+00:00"
+   ],
+   "c": [
+    300.8043,
+    304.5037
+   ],
+   "wt2": [
+    25.99169104773433,
+    40.11815305582258
+   ],
+   "money_flow": [
+    -11.146079845176704,
+    -12.872464652961462
+   ],
+   "last_bar_closes": "2026-10-08T00:00:00+00:00",
+   "signals": {
+    "buy": [
+     {
+      "i": 42,
+      "t": "2025-04-10T00:00:00+00:00",
+      "c": 230.3709
+     },
+     {
+      "i": 87,
+      "t": "2026-02-19T00:00:00+00:00",
+      "c": 179.8017
+     }
+    ],
+    "sell": null,
+    "gold": null,
+    "buy_div": null,
+    "sell_div": null
+   }
+  },
+  "structure": {
+   "trend": "down",
+   "flip_level": 380.0,
+   "flip_dir": "up",
+   "last_event": {
+    "kind": "BOS",
+    "dir": "down",
+    "t": "2026-01-29T00:00:00+00:00"
+   }
+  },
+  "trend_closed": "down",
+  "onchain": false,
+  "generation": "20261003T223730Z"
+ },
+ "TAO_1M": {
+  "symbol": "TAO",
+  "timeframe": "1M",
+  "venue": "kraken",
+  "palette_gen": "585ef30e7458",
+  "venue_kind": "crypto",
+  "bars": 25,
+  "last": "2026-10-01T00:00:00+00:00",
+  "macd_states": 4,
+  "families": 32,
+  "families_firing": 0,
+  "htf_available": true,
+  "quotable": true,
+  "quote": "USD",
+  "bar_seconds": 2592000,
+  "warmup_bars": 200,
+  "settled_from": 510,
+  "history_short_for": [
+   "buy",
+   "buy_div",
+   "cross",
+   "cross_down",
+   "cross_up",
+   "div_bear",
+   "div_bear_add",
+   "div_bear_add_hidden",
+   "div_bear_hidden",
+   "div_bull",
+   "div_bull_add",
+   "div_bull_add_hidden",
+   "div_bull_hidden",
+   "gold",
+   "htf_bear_diamond",
+   "htf_bear_flag",
+   "htf_bull_diamond",
+   "htf_bull_flag",
+   "overbought",
+   "oversold",
+   "rsi_div_bear",
+   "rsi_div_bear_hidden",
+   "rsi_div_bull",
+   "rsi_div_bull_hidden",
+   "sell",
+   "sell_div",
+   "stoch_div_bear",
+   "stoch_div_bear_hidden",
+   "stoch_div_bull",
+   "stoch_div_bull_hidden",
+   "stoch_fill_k_above_d"
+  ],
+  "board": {
+   "n": 25,
+   "t": [
+    "2026-09-01T00:00:00+00:00",
+    "2026-10-01T00:00:00+00:00"
+   ],
+   "c": [
+    300.8043,
+    304.5037
+   ],
+   "wt2": [
+    null,
+    null
+   ],
+   "money_flow": [
+    null,
+    null
+   ],
+   "last_bar_closes": "2026-11-01T00:00:00+00:00",
+   "signals": {
+    "buy": null,
+    "sell": null,
+    "gold": null,
+    "buy_div": null,
+    "sell_div": null
+   }
+  },
+  "structure": {
+   "trend": "none",
+   "flip_level": null,
+   "flip_dir": null,
+   "last_event": null
+  },
+  "trend_closed": "none",
+  "onchain": false,
+  "generation": "20261003T223730Z"
+ },
+ "SPY_1D": {
+  "symbol": "SPY",
+  "timeframe": "1D",
+  "venue": "yahoo",
+  "palette_gen": "585ef30e7458",
+  "venue_kind": "equity",
+  "bars": 2514,
+  "last": "2026-10-02T13:30:00+00:00",
+  "macd_states": 0,
+  "families": 32,
+  "families_firing": 26,
+  "htf_available": false,
+  "quotable": false,
+  "quote": "USD",
+  "bar_seconds": 23400.0,
+  "warmup_bars": 200,
+  "settled_from": 510,
+  "history_short_for": [],
+  "board": {
+   "n": 2514,
+   "t": [
+    "2026-10-01T13:30:00+00:00",
+    "2026-10-02T13:30:00+00:00"
+   ],
+   "c": [
+    763.989990234375,
+    769.6400146484375
+   ],
+   "wt2": [
+    -2.2689925527824815,
+    -2.8491037887006456
+   ],
+   "money_flow": [
+    -15.357581338590311,
+    -17.849314172471324
+   ],
+   "last_bar_closes": "2026-10-02T20:00:00+00:00",
+   "signals": {
+    "buy": [
+     {
+      "i": 2380,
+      "t": "2026-03-24T13:30:00+00:00",
+      "c": 653.1799926757812
+     },
+     {
+      "i": 2385,
+      "t": "2026-03-31T13:30:00+00:00",
+      "c": 650.3400268554688
+     }
+    ],
+    "sell": [
+     {
+      "i": 2417,
+      "t": "2026-05-15T13:30:00+00:00",
+      "c": 739.1699829101562
+     },
+     {
+      "i": 2429,
+      "t": "2026-06-03T13:30:00+00:00",
+      "c": 754.239990234375
+     }
+    ],
+    "gold": null,
+    "buy_div": [
+     {
+      "i": 1520,
+      "t": "2022-10-17T13:30:00+00:00",
+      "c": 366.82000732421875
+     },
+     {
+      "i": 1782,
+      "t": "2023-11-01T13:30:00+00:00",
+      "c": 422.6600036621094
+     }
+    ],
+    "sell_div": [
+     {
+      "i": 2345,
+      "t": "2026-02-02T14:30:00+00:00",
+      "c": 695.4099731445312
+     },
+     {
+      "i": 2481,
+      "t": "2026-08-18T13:30:00+00:00",
+      "c": 767.4500122070312
+     }
+    ]
+   }
+  },
+  "structure": {
+   "trend": "down",
+   "flip_level": 775.1400146484375,
+   "flip_dir": "up",
+   "last_event": {
+    "kind": "BOS",
+    "dir": "down",
+    "t": "2026-09-10T13:30:00+00:00"
+   }
+  },
+  "trend_closed": "down",
+  "onchain": false,
+  "generation": "20261003T223730Z"
+ },
+ "SPY_1W": {
+  "symbol": "SPY",
+  "timeframe": "1W",
+  "venue": "yahoo",
+  "palette_gen": "585ef30e7458",
+  "venue_kind": "equity",
+  "bars": 522,
+  "last": "2026-09-28T00:00:00+00:00",
+  "macd_states": 0,
+  "families": 32,
+  "families_firing": 23,
+  "htf_available": false,
+  "quotable": false,
+  "quote": "USD",
+  "bar_seconds": 421200,
+  "warmup_bars": 200,
+  "settled_from": 510,
+  "history_short_for": [],
+  "board": {
+   "n": 522,
+   "t": [
+    "2026-09-21T00:00:00+00:00",
+    "2026-09-28T00:00:00+00:00"
+   ],
+   "c": [
+    771.3499755859375,
+    769.6400146484375
+   ],
+   "wt2": [
+    45.097226891920165,
+    42.494765985785754
+   ],
+   "money_flow": [
+    19.789097597265986,
+    17.279223950980462
+   ],
+   "last_bar_closes": "2026-10-02T21:00:00+00:00",
+   "signals": {
+    "buy": [
+     {
+      "i": 299,
+      "t": "2022-06-27T00:00:00+00:00",
+      "c": 381.239990234375
+     },
+     {
+      "i": 446,
+      "t": "2025-04-21T00:00:00+00:00",
+      "c": 550.6400146484375
+     }
+    ],
+    "sell": [
+     {
+      "i": 485,
+      "t": "2026-01-19T00:00:00+00:00",
+      "c": 689.22998046875
+     },
+     {
+      "i": 517,
+      "t": "2026-08-31T00:00:00+00:00",
+      "c": 770.1900024414062
+     }
+    ],
+    "gold": null,
+    "buy_div": [
+     {
+      "i": 317,
+      "t": "2022-10-31T00:00:00+00:00",
+      "c": 376.3500061035156
+     }
+    ],
+    "sell_div": [
+     {
+      "i": 486,
+      "t": "2026-01-26T00:00:00+00:00",
+      "c": 691.969970703125
+     },
+     {
+      "i": 507,
+      "t": "2026-06-22T00:00:00+00:00",
+      "c": 728.989990234375
+     }
+    ]
+   }
+  },
+  "structure": {
+   "trend": "up",
+   "flip_level": 716.5800170898438,
+   "flip_dir": "down",
+   "last_event": {
+    "kind": "BOS",
+    "dir": "up",
+    "t": "2026-08-03T00:00:00+00:00"
+   }
+  },
+  "trend_closed": "up",
+  "onchain": false,
+  "generation": "20261003T223730Z"
+ },
+ "SPY_1M": {
+  "symbol": "SPY",
+  "timeframe": "1M",
+  "venue": "yahoo",
+  "palette_gen": "585ef30e7458",
+  "venue_kind": "equity",
+  "bars": 406,
+  "last": "2026-10-01T00:00:00+00:00",
+  "macd_states": 0,
+  "families": 32,
+  "families_firing": 19,
+  "htf_available": false,
+  "quotable": false,
+  "quote": "USD",
+  "bar_seconds": 2592000,
+  "warmup_bars": 200,
+  "settled_from": 510,
+  "history_short_for": [
+   "rsi_div_bear",
+   "rsi_div_bull",
+   "stoch_div_bear",
+   "stoch_div_bull"
+  ],
+  "board": {
+   "n": 406,
+   "t": [
+    "2026-09-01T00:00:00+00:00",
+    "2026-10-01T00:00:00+00:00"
+   ],
+   "c": [
+    762.6300048828125,
+    769.6400146484375
+   ],
+   "wt2": [
+    68.68162755645922,
+    68.33200097254377
+   ],
+   "money_flow": [
+    32.683614904284816,
+    31.311171103257784
+   ],
+   "last_bar_closes": "2026-11-01T00:00:00+00:00",
+   "signals": {
+    "buy": [
+     {
+      "i": 118,
+      "t": "2002-11-01T00:00:00+00:00",
+      "c": 93.9800033569336
+     },
+     {
+      "i": 193,
+      "t": "2009-02-01T00:00:00+00:00",
+      "c": 73.93000030517578
+     }
+    ],
+    "sell": [
+     {
+      "i": 396,
+      "t": "2026-01-01T00:00:00+00:00",
+      "c": 691.969970703125
+     },
+     {
+      "i": 404,
+      "t": "2026-09-01T00:00:00+00:00",
+      "c": 762.6300048828125
+     }
+    ],
+    "gold": null,
+    "buy_div": null,
+    "sell_div": [
+     {
+      "i": 370,
+      "t": "2023-11-01T00:00:00+00:00",
+      "c": 456.3999938964844
+     },
+     {
+      "i": 397,
+      "t": "2026-02-01T00:00:00+00:00",
+      "c": 685.989990234375
+     }
+    ]
+   }
+  },
+  "structure": {
+   "trend": "up",
+   "flip_level": 629.280029296875,
+   "flip_dir": "down",
+   "last_event": {
+    "kind": "BOS",
+    "dir": "up",
+    "t": "2024-01-01T00:00:00+00:00"
+   }
+  },
+  "trend_closed": "up",
+  "onchain": false,
+  "generation": "20261003T223730Z"
+ },
+ "QQQ_1D": {
+  "symbol": "QQQ",
+  "timeframe": "1D",
+  "venue": "yahoo",
+  "palette_gen": "585ef30e7458",
+  "venue_kind": "equity",
+  "bars": 2514,
+  "last": "2026-10-02T13:30:00+00:00",
+  "macd_states": 0,
+  "families": 32,
+  "families_firing": 26,
+  "htf_available": false,
+  "quotable": false,
+  "quote": "USD",
+  "bar_seconds": 23400.0,
+  "warmup_bars": 200,
+  "settled_from": 510,
+  "history_short_for": [],
+  "board": {
+   "n": 2514,
+   "t": [
+    "2026-10-01T13:30:00+00:00",
+    "2026-10-02T13:30:00+00:00"
+   ],
+   "c": [
+    742.030029296875,
+    749.5800170898438
+   ],
+   "wt2": [
+    45.31763568596466,
+    47.72457983443695
+   ],
+   "money_flow": [
+    -6.165502732340672,
+    -8.471851541352725
+   ],
+   "last_bar_closes": "2026-10-02T20:00:00+00:00",
+   "signals": {
+    "buy": [
+     {
+      "i": 2385,
+      "t": "2026-03-31T13:30:00+00:00",
+      "c": 577.1799926757812
+     },
+     {
+      "i": 2468,
+      "t": "2026-07-30T13:30:00+00:00",
+      "c": 683.5499877929688
+     }
+    ],
+    "sell": [
+     {
+      "i": 2414,
+      "t": "2026-05-12T13:30:00+00:00",
+      "c": 707.239990234375
+     },
+     {
+      "i": 2429,
+      "t": "2026-06-03T13:30:00+00:00",
+      "c": 744.2100219726562
+     }
+    ],
+    "gold": null,
+    "buy_div": [
+     {
+      "i": 1521,
+      "t": "2022-10-18T13:30:00+00:00",
+      "c": 271.4800109863281
+     },
+     {
+      "i": 1783,
+      "t": "2023-11-02T13:30:00+00:00",
+      "c": 363.44000244140625
+     }
+    ],
+    "sell_div": [
+     {
+      "i": 2401,
+      "t": "2026-04-23T13:30:00+00:00",
+      "c": 651.4199829101562
+     },
+     {
+      "i": 2431,
+      "t": "2026-06-05T13:30:00+00:00",
+      "c": 705.0599975585938
+     }
+    ]
+   }
+  },
+  "structure": {
+   "trend": "up",
+   "flip_level": 700.0,
+   "flip_dir": "down",
+   "last_event": {
+    "kind": "BOS",
+    "dir": "up",
+    "t": "2026-10-02T13:30:00+00:00"
+   }
+  },
+  "trend_closed": "up",
+  "onchain": false,
+  "generation": "20261003T223730Z"
+ },
+ "QQQ_1W": {
+  "symbol": "QQQ",
+  "timeframe": "1W",
+  "venue": "yahoo",
+  "palette_gen": "585ef30e7458",
+  "venue_kind": "equity",
+  "bars": 522,
+  "last": "2026-09-28T00:00:00+00:00",
+  "macd_states": 0,
+  "families": 32,
+  "families_firing": 22,
+  "htf_available": false,
+  "quotable": false,
+  "quote": "USD",
+  "bar_seconds": 421200,
+  "warmup_bars": 200,
+  "settled_from": 510,
+  "history_short_for": [],
+  "board": {
+   "n": 522,
+   "t": [
+    "2026-09-21T00:00:00+00:00",
+    "2026-09-28T00:00:00+00:00"
+   ],
+   "c": [
+    744.5,
+    749.5800170898438
+   ],
+   "wt2": [
+    27.88380130747336,
+    37.02542573412196
+   ],
+   "money_flow": [
+    19.477912000820194,
+    17.781309483813626
+   ],
+   "last_bar_closes": "2026-10-02T21:00:00+00:00",
+   "signals": {
+    "buy": [
+     {
+      "i": 446,
+      "t": "2025-04-21T00:00:00+00:00",
+      "c": 472.55999755859375
+     },
+     {
+      "i": 496,
+      "t": "2026-04-06T00:00:00+00:00",
+      "c": 611.0700073242188
+     }
+    ],
+    "sell": [
+     {
+      "i": 505,
+      "t": "2026-06-08T00:00:00+00:00",
+      "c": 721.3400268554688
+     },
+     {
+      "i": 507,
+      "t": "2026-06-22T00:00:00+00:00",
+      "c": 706.52001953125
+     }
+    ],
+    "gold": null,
+    "buy_div": [
+     {
+      "i": 301,
+      "t": "2022-07-11T00:00:00+00:00",
+      "c": 291.8699951171875
+     },
+     {
+      "i": 317,
+      "t": "2022-10-31T00:00:00+00:00",
+      "c": 264.67999267578125
+     }
+    ],
+    "sell_div": [
+     {
+      "i": 439,
+      "t": "2025-03-03T00:00:00+00:00",
+      "c": 491.7900085449219
+     },
+     {
+      "i": 507,
+      "t": "2026-06-22T00:00:00+00:00",
+      "c": 706.52001953125
+     }
+    ]
+   }
+  },
+  "structure": {
+   "trend": "up",
+   "flip_level": 661.1400146484375,
+   "flip_dir": "down",
+   "last_event": {
+    "kind": "BOS",
+    "dir": "up",
+    "t": "2026-09-28T00:00:00+00:00"
+   }
+  },
+  "trend_closed": "up",
+  "onchain": false,
+  "generation": "20261003T223730Z"
+ },
+ "QQQ_1M": {
+  "symbol": "QQQ",
+  "timeframe": "1M",
+  "venue": "yahoo",
+  "palette_gen": "585ef30e7458",
+  "venue_kind": "equity",
+  "bars": 332,
+  "last": "2026-10-01T00:00:00+00:00",
+  "macd_states": 0,
+  "families": 32,
+  "families_firing": 21,
+  "htf_available": false,
+  "quotable": false,
+  "quote": "USD",
+  "bar_seconds": 2592000,
+  "warmup_bars": 200,
+  "settled_from": 510,
+  "history_short_for": [
+   "buy_div",
+   "div_bear",
+   "div_bull",
+   "gold",
+   "rsi_div_bear",
+   "rsi_div_bear_hidden",
+   "rsi_div_bull",
+   "rsi_div_bull_hidden",
+   "sell_div",
+   "stoch_div_bear",
+   "stoch_div_bear_hidden",
+   "stoch_div_bull",
+   "stoch_div_bull_hidden"
+  ],
+  "board": {
+   "n": 332,
+   "t": [
+    "2026-09-01T00:00:00+00:00",
+    "2026-10-01T00:00:00+00:00"
+   ],
+   "c": [
+    739.77001953125,
+    749.5800170898438
+   ],
+   "wt2": [
+    69.24323559571657,
+    69.05967533040831
+   ],
+   "money_flow": [
+    29.572786279917537,
+    28.468928869848348
+   ],
+   "last_bar_closes": "2026-11-01T00:00:00+00:00",
+   "signals": {
+    "buy": [
+     {
+      "i": 43,
+      "t": "2002-10-01T00:00:00+00:00",
+      "c": 24.549999237060547
+     },
+     {
+      "i": 120,
+      "t": "2009-03-01T00:00:00+00:00",
+      "c": 30.31999969482422
+     }
+    ],
+    "sell": [
+     {
+      "i": 321,
+      "t": "2025-12-01T00:00:00+00:00",
+      "c": 614.3099975585938
+     },
+     {
+      "i": 328,
+      "t": "2026-07-01T00:00:00+00:00",
+      "c": 687.989990234375
+     }
+    ],
+    "gold": null,
+    "buy_div": null,
+    "sell_div": [
+     {
+      "i": 307,
+      "t": "2024-10-01T00:00:00+00:00",
+      "c": 483.8500061035156
+     },
+     {
+      "i": 312,
+      "t": "2025-03-01T00:00:00+00:00",
+      "c": 468.9200134277344
+     }
+    ]
+   }
+  },
+  "structure": {
+   "trend": "up",
+   "flip_level": 555.5999755859375,
+   "flip_dir": "down",
+   "last_event": {
+    "kind": "BOS",
+    "dir": "up",
+    "t": "2026-04-01T00:00:00+00:00"
+   }
+  },
+  "trend_closed": "up",
+  "onchain": false,
+  "generation": "20261003T223730Z"
+ },
+ "ARKK_1D": {
+  "symbol": "ARKK",
+  "timeframe": "1D",
+  "venue": "yahoo",
+  "palette_gen": "585ef30e7458",
+  "venue_kind": "equity",
+  "bars": 2514,
+  "last": "2026-10-02T13:30:00+00:00",
+  "macd_states": 0,
+  "families": 32,
+  "families_firing": 26,
+  "htf_available": false,
+  "quotable": false,
+  "quote": "USD",
+  "bar_seconds": 23400.0,
+  "warmup_bars": 200,
+  "settled_from": 510,
+  "history_short_for": [],
+  "board": {
+   "n": 2514,
+   "t": [
+    "2026-10-01T13:30:00+00:00",
+    "2026-10-02T13:30:00+00:00"
+   ],
+   "c": [
+    88.58000183105469,
+    89.83000183105469
+   ],
+   "wt2": [
+    38.82453327531332,
+    35.39268011197309
+   ],
+   "money_flow": [
+    8.899546387864167,
+    6.328865008725522
+   ],
+   "last_bar_closes": "2026-10-02T20:00:00+00:00",
+   "signals": {
+    "buy": [
+     {
+      "i": 2385,
+      "t": "2026-03-31T13:30:00+00:00",
+      "c": 67.58999633789062
+     },
+     {
+      "i": 2468,
+      "t": "2026-07-30T13:30:00+00:00",
+      "c": 72.9000015258789
+     }
+    ],
+    "sell": [
+     {
+      "i": 2489,
+      "t": "2026-08-28T13:30:00+00:00",
+      "c": 84.58999633789062
+     },
+     {
+      "i": 2509,
+      "t": "2026-09-28T13:30:00+00:00",
+      "c": 89.25
+     }
+    ],
+    "gold": null,
+    "buy_div": [
+     {
+      "i": 1975,
+      "t": "2024-08-09T13:30:00+00:00",
+      "c": 41.459999084472656
+     },
+     {
+      "i": 2387,
+      "t": "2026-04-02T13:30:00+00:00",
+      "c": 68.55999755859375
+     }
+    ],
+    "sell_div": [
+     {
+      "i": 2430,
+      "t": "2026-06-04T13:30:00+00:00",
+      "c": 80.06999969482422
+     },
+     {
+      "i": 2510,
+      "t": "2026-09-29T13:30:00+00:00",
+      "c": 89.44999694824219
+     }
+    ]
+   }
+  },
+  "structure": {
+   "trend": "up",
+   "flip_level": 82.04000091552734,
+   "flip_dir": "down",
+   "last_event": {
+    "kind": "BOS",
+    "dir": "up",
+    "t": "2026-09-18T13:30:00+00:00"
+   }
+  },
+  "trend_closed": "up",
+  "onchain": false,
+  "generation": "20261003T223730Z"
+ },
+ "ARKK_1W": {
+  "symbol": "ARKK",
+  "timeframe": "1W",
+  "venue": "yahoo",
+  "palette_gen": "585ef30e7458",
+  "venue_kind": "equity",
+  "bars": 522,
+  "last": "2026-09-28T00:00:00+00:00",
+  "macd_states": 0,
+  "families": 32,
+  "families_firing": 26,
+  "htf_available": false,
+  "quotable": false,
+  "quote": "USD",
+  "bar_seconds": 421200,
+  "warmup_bars": 200,
+  "settled_from": 510,
+  "history_short_for": [],
+  "board": {
+   "n": 522,
+   "t": [
+    "2026-09-21T00:00:00+00:00",
+    "2026-09-28T00:00:00+00:00"
+   ],
+   "c": [
+    90.7699966430664,
+    89.83000183105469
+   ],
+   "wt2": [
+    49.782002570695944,
+    54.592031051226506
+   ],
+   "money_flow": [
+    6.28987016781895,
+    4.129989313751665
+   ],
+   "last_bar_closes": "2026-10-02T21:00:00+00:00",
+   "signals": {
+    "buy": [
+     {
+      "i": 491,
+      "t": "2026-03-02T00:00:00+00:00",
+      "c": 72.4000015258789
+     },
+     {
+      "i": 496,
+      "t": "2026-04-06T00:00:00+00:00",
+      "c": 69.29000091552734
+     }
+    ],
+    "sell": [
+     {
+      "i": 460,
+      "t": "2025-07-28T00:00:00+00:00",
+      "c": 71.16000366210938
+     },
+     {
+      "i": 471,
+      "t": "2025-10-13T00:00:00+00:00",
+      "c": 86.23999786376953
+     }
+    ],
+    "gold": null,
+    "buy_div": [
+     {
+      "i": 318,
+      "t": "2022-11-07T00:00:00+00:00",
+      "c": 40.400001525878906
+     },
+     {
+      "i": 328,
+      "t": "2023-01-16T00:00:00+00:00",
+      "c": 36.5
+     }
+    ],
+    "sell_div": [
+     {
+      "i": 380,
+      "t": "2024-01-15T00:00:00+00:00",
+      "c": 46.279998779296875
+     },
+     {
+      "i": 439,
+      "t": "2025-03-03T00:00:00+00:00",
+      "c": 52.45000076293945
+     }
+    ]
+   }
+  },
+  "structure": {
+   "trend": "up",
+   "flip_level": 69.88999938964844,
+   "flip_dir": "down",
+   "last_event": {
+    "kind": "CHoCH",
+    "dir": "up",
+    "t": "2026-08-17T00:00:00+00:00"
+   }
+  },
+  "trend_closed": "up",
+  "onchain": false,
+  "generation": "20261003T223730Z"
+ },
+ "ARKK_1M": {
+  "symbol": "ARKK",
+  "timeframe": "1M",
+  "venue": "yahoo",
+  "palette_gen": "585ef30e7458",
+  "venue_kind": "equity",
+  "bars": 145,
+  "last": "2026-10-01T00:00:00+00:00",
+  "macd_states": 0,
+  "families": 32,
+  "families_firing": 18,
+  "htf_available": false,
+  "quotable": false,
+  "quote": "USD",
+  "bar_seconds": 2592000,
+  "warmup_bars": 200,
+  "settled_from": 510,
+  "history_short_for": [
+   "buy_div",
+   "div_bear",
+   "div_bear_add_hidden",
+   "div_bull",
+   "div_bull_add_hidden",
+   "gold",
+   "rsi_div_bear",
+   "rsi_div_bear_hidden",
+   "rsi_div_bull",
+   "rsi_div_bull_hidden",
+   "sell_div",
+   "stoch_div_bear",
+   "stoch_div_bear_hidden",
+   "stoch_div_bull",
+   "stoch_div_bull_hidden",
+   "stoch_fill_k_above_d"
+  ],
+  "board": {
+   "n": 145,
+   "t": [
+    "2026-09-01T00:00:00+00:00",
+    "2026-10-01T00:00:00+00:00"
+   ],
+   "c": [
+    89.0999984741211,
+    89.83000183105469
+   ],
+   "wt2": [
+    39.94441429065265,
+    49.11290659437575
+   ],
+   "money_flow": [
+    0.4674491553184046,
+    -0.707878382718834
+   ],
+   "last_bar_closes": "2026-11-01T00:00:00+00:00",
+   "signals": {
+    "buy": [
+     {
+      "i": 94,
+      "t": "2022-08-01T00:00:00+00:00",
+      "c": 41.880001068115234
+     }
+    ],
+    "sell": [
+     {
+      "i": 125,
+      "t": "2025-03-01T00:00:00+00:00",
+      "c": 47.58000183105469
+     },
+     {
+      "i": 133,
+      "t": "2025-11-01T00:00:00+00:00",
+      "c": 79.68000030517578
+     }
+    ],
+    "gold": null,
+    "buy_div": null,
+    "sell_div": [
+     {
+      "i": 48,
+      "t": "2018-10-01T00:00:00+00:00",
+      "c": 42.58000183105469
+     },
+     {
+      "i": 67,
+      "t": "2020-05-01T00:00:00+00:00",
+      "c": 62.81999969482422
+     }
+    ]
+   }
+  },
+  "structure": {
+   "trend": "up",
+   "flip_level": 62.94499969482422,
+   "flip_dir": "down",
+   "last_event": {
+    "kind": "CHoCH",
+    "dir": "up",
+    "t": "2024-11-01T00:00:00+00:00"
+   }
+  },
+  "trend_closed": "up",
+  "onchain": false,
+  "generation": "20261003T223730Z"
+ },
+ "BOTZ_1D": {
+  "symbol": "BOTZ",
+  "timeframe": "1D",
+  "venue": "yahoo",
+  "palette_gen": "585ef30e7458",
+  "venue_kind": "equity",
+  "bars": 2514,
+  "last": "2026-10-02T13:30:00+00:00",
+  "macd_states": 0,
+  "families": 32,
+  "families_firing": 26,
+  "htf_available": false,
+  "quotable": false,
+  "quote": "USD",
+  "bar_seconds": 23400.0,
+  "warmup_bars": 200,
+  "settled_from": 510,
+  "history_short_for": [],
+  "board": {
+   "n": 2514,
+   "t": [
+    "2026-10-01T13:30:00+00:00",
+    "2026-10-02T13:30:00+00:00"
+   ],
+   "c": [
+    35.43000030517578,
+    36.029998779296875
+   ],
+   "wt2": [
+    -7.7247295859622485,
+    5.161132559061998
+   ],
+   "money_flow": [
+    -25.8097118660877,
+    -25.709347091277362
+   ],
+   "last_bar_closes": "2026-10-02T20:00:00+00:00",
+   "signals": {
+    "buy": [
+     {
+      "i": 2465,
+      "t": "2026-07-27T13:30:00+00:00",
+      "c": 34.34000015258789
+     },
+     {
+      "i": 2502,
+      "t": "2026-09-17T13:30:00+00:00",
+      "c": 35.1150016784668
+     }
+    ],
+    "sell": [
+     {
+      "i": 2399,
+      "t": "2026-04-21T13:30:00+00:00",
+      "c": 36.7400016784668
+     },
+     {
+      "i": 2414,
+      "t": "2026-05-12T13:30:00+00:00",
+      "c": 40.720001220703125
+     }
+    ],
+    "gold": null,
+    "buy_div": [
+     {
+      "i": 2448,
+      "t": "2026-07-01T13:30:00+00:00",
+      "c": 38.060001373291016
+     },
+     {
+      "i": 2468,
+      "t": "2026-07-30T13:30:00+00:00",
+      "c": 34.900001525878906
+     }
+    ],
+    "sell_div": [
+     {
+      "i": 2283,
+      "t": "2025-10-31T13:30:00+00:00",
+      "c": 37.83000183105469
+     },
+     {
+      "i": 2365,
+      "t": "2026-03-03T14:30:00+00:00",
+      "c": 36.900001525878906
+     }
+    ]
+   }
+  },
+  "structure": {
+   "trend": "down",
+   "flip_level": 36.040000915527344,
+   "flip_dir": "up",
+   "last_event": {
+    "kind": "BOS",
+    "dir": "down",
+    "t": "2026-09-01T13:30:00+00:00"
+   }
+  },
+  "trend_closed": "down",
+  "onchain": false,
+  "generation": "20261003T223730Z"
+ },
+ "BOTZ_1W": {
+  "symbol": "BOTZ",
+  "timeframe": "1W",
+  "venue": "yahoo",
+  "palette_gen": "585ef30e7458",
+  "venue_kind": "equity",
+  "bars": 522,
+  "last": "2026-09-28T00:00:00+00:00",
+  "macd_states": 0,
+  "families": 32,
+  "families_firing": 25,
+  "htf_available": false,
+  "quotable": false,
+  "quote": "USD",
+  "bar_seconds": 421200,
+  "warmup_bars": 200,
+  "settled_from": 510,
+  "history_short_for": [],
+  "board": {
+   "n": 522,
+   "t": [
+    "2026-09-21T00:00:00+00:00",
+    "2026-09-28T00:00:00+00:00"
+   ],
+   "c": [
+    35.400001525878906,
+    36.029998779296875
+   ],
+   "wt2": [
+    -33.916663943148585,
+    -33.791904440003144
+   ],
+   "money_flow": [
+    -3.40486911530866,
+    -1.367766294239853
+   ],
+   "last_bar_closes": "2026-10-02T21:00:00+00:00",
+   "signals": {
+    "buy": [
+     {
+      "i": 370,
+      "t": "2023-11-06T00:00:00+00:00",
+      "c": 24.56999969482422
+     },
+     {
+      "i": 446,
+      "t": "2025-04-21T00:00:00+00:00",
+      "c": 28.59000015258789
+     }
+    ],
+    "sell": [
+     {
+      "i": 463,
+      "t": "2025-08-18T00:00:00+00:00",
+      "c": 33.810001373291016
+     },
+     {
+      "i": 474,
+      "t": "2025-11-03T00:00:00+00:00",
+      "c": 36.0
+     }
+    ],
+    "gold": null,
+    "buy_div": [
+     {
+      "i": 301,
+      "t": "2022-07-11T00:00:00+00:00",
+      "c": 20.520000457763672
+     },
+     {
+      "i": 316,
+      "t": "2022-10-24T00:00:00+00:00",
+      "c": 19.780000686645508
+     }
+    ],
+    "sell_div": [
+     {
+      "i": 488,
+      "t": "2026-02-09T00:00:00+00:00",
+      "c": 38.34000015258789
+     },
+     {
+      "i": 506,
+      "t": "2026-06-15T00:00:00+00:00",
+      "c": 38.369998931884766
+     }
+    ]
+   }
+  },
+  "structure": {
+   "trend": "up",
+   "flip_level": 33.48400115966797,
+   "flip_dir": "down",
+   "last_event": {
+    "kind": "CHoCH",
+    "dir": "up",
+    "t": "2026-05-04T00:00:00+00:00"
+   }
+  },
+  "trend_closed": "up",
+  "onchain": false,
+  "generation": "20261003T223730Z"
+ },
+ "BOTZ_1M": {
+  "symbol": "BOTZ",
+  "timeframe": "1M",
+  "venue": "yahoo",
+  "palette_gen": "585ef30e7458",
+  "venue_kind": "equity",
+  "bars": 122,
+  "last": "2026-10-01T00:00:00+00:00",
+  "macd_states": 0,
+  "families": 32,
+  "families_firing": 13,
+  "htf_available": false,
+  "quotable": false,
+  "quote": "USD",
+  "bar_seconds": 2592000,
+  "warmup_bars": 200,
+  "settled_from": 510,
+  "history_short_for": [
+   "buy_div",
+   "div_bear",
+   "div_bear_add",
+   "div_bear_add_hidden",
+   "div_bear_hidden",
+   "div_bull",
+   "div_bull_add",
+   "div_bull_add_hidden",
+   "div_bull_hidden",
+   "gold",
+   "rsi_div_bear",
+   "rsi_div_bear_hidden",
+   "rsi_div_bull",
+   "rsi_div_bull_hidden",
+   "sell_div",
+   "stoch_div_bear",
+   "stoch_div_bear_hidden",
+   "stoch_div_bull",
+   "stoch_div_bull_hidden",
+   "stoch_fill_k_above_d"
+  ],
+  "board": {
+   "n": 122,
+   "t": [
+    "2026-09-01T00:00:00+00:00",
+    "2026-10-01T00:00:00+00:00"
+   ],
+   "c": [
+    35.22999954223633,
+    36.029998779296875
+   ],
+   "wt2": [
+    31.977676693635136,
+    22.870614799171175
+   ],
+   "money_flow": [
+    7.0599574449511575,
+    7.382504965199937
+   ],
+   "last_bar_closes": "2026-11-01T00:00:00+00:00",
+   "signals": {
+    "buy": null,
+    "sell": [
+     {
+      "i": 101,
+      "t": "2025-02-01T00:00:00+00:00",
+      "c": 32.06999969482422
+     },
+     {
+      "i": 114,
+      "t": "2026-03-01T00:00:00+00:00",
+      "c": 33.220001220703125
+     }
+    ],
+    "gold": null,
+    "buy_div": null,
+    "sell_div": [
+     {
+      "i": 64,
+      "t": "2022-01-01T00:00:00+00:00",
+      "c": 29.700000762939453
+     },
+     {
+      "i": 119,
+      "t": "2026-08-01T00:00:00+00:00",
+      "c": 35.88999938964844
+     }
+    ]
+   }
+  },
+  "structure": {
+   "trend": "up",
+   "flip_level": 31.875,
+   "flip_dir": "down",
+   "last_event": {
+    "kind": "BOS",
+    "dir": "up",
+    "t": "2025-09-01T00:00:00+00:00"
+   }
+  },
+  "trend_closed": "up",
+  "onchain": false,
+  "generation": "20261003T223730Z"
+ },
+ "AIQ_1D": {
+  "symbol": "AIQ",
+  "timeframe": "1D",
+  "venue": "yahoo",
+  "palette_gen": "585ef30e7458",
+  "venue_kind": "equity",
+  "bars": 2107,
+  "last": "2026-10-02T13:30:00+00:00",
+  "macd_states": 0,
+  "families": 32,
+  "families_firing": 26,
+  "htf_available": false,
+  "quotable": false,
+  "quote": "USD",
+  "bar_seconds": 23400.0,
+  "warmup_bars": 200,
+  "settled_from": 510,
+  "history_short_for": [],
+  "board": {
+   "n": 2107,
+   "t": [
+    "2026-10-01T13:30:00+00:00",
+    "2026-10-02T13:30:00+00:00"
+   ],
+   "c": [
+    65.66999816894531,
+    66.2300033569336
+   ],
+   "wt2": [
+    28.916300763574494,
+    31.97267177249803
+   ],
+   "money_flow": [
+    2.523636064379267,
+    0.11779698219882073
+   ],
+   "last_bar_closes": "2026-10-02T20:00:00+00:00",
+   "signals": {
+    "buy": [
+     {
+      "i": 2054,
+      "t": "2026-07-21T13:30:00+00:00",
+      "c": 61.0
+     },
+     {
+      "i": 2061,
+      "t": "2026-07-30T13:30:00+00:00",
+      "c": 58.689998626708984
+     }
+    ],
+    "sell": [
+     {
+      "i": 2022,
+      "t": "2026-06-03T13:30:00+00:00",
+      "c": 69.16000366210938
+     },
+     {
+      "i": 2101,
+      "t": "2026-09-25T13:30:00+00:00",
+      "c": 65.97000122070312
+     }
+    ],
+    "gold": null,
+    "buy_div": [
+     {
+      "i": 1114,
+      "t": "2022-10-18T13:30:00+00:00",
+      "c": 19.347999572753906
+     },
+     {
+      "i": 1375,
+      "t": "2023-11-01T13:30:00+00:00",
+      "c": 26.540000915527344
+     }
+    ],
+    "sell_div": [
+     {
+      "i": 1938,
+      "t": "2026-02-02T14:30:00+00:00",
+      "c": 52.380001068115234
+     },
+     {
+      "i": 2091,
+      "t": "2026-09-11T13:30:00+00:00",
+      "c": 63.97999954223633
+     }
+    ]
+   }
+  },
+  "structure": {
+   "trend": "up",
+   "flip_level": 62.474998474121094,
+   "flip_dir": "down",
+   "last_event": {
+    "kind": "CHoCH",
+    "dir": "up",
+    "t": "2026-09-21T13:30:00+00:00"
+   }
+  },
+  "trend_closed": "up",
+  "onchain": false,
+  "generation": "20261003T223730Z"
+ },
+ "AIQ_1W": {
+  "symbol": "AIQ",
+  "timeframe": "1W",
+  "venue": "yahoo",
+  "palette_gen": "585ef30e7458",
+  "venue_kind": "equity",
+  "bars": 438,
+  "last": "2026-09-28T00:00:00+00:00",
+  "macd_states": 0,
+  "families": 32,
+  "families_firing": 24,
+  "htf_available": false,
+  "quotable": false,
+  "quote": "USD",
+  "bar_seconds": 421200,
+  "warmup_bars": 200,
+  "settled_from": 510,
+  "history_short_for": [
+   "rsi_div_bear",
+   "rsi_div_bull",
+   "stoch_div_bear",
+   "stoch_div_bull"
+  ],
+  "board": {
+   "n": 438,
+   "t": [
+    "2026-09-21T00:00:00+00:00",
+    "2026-09-28T00:00:00+00:00"
+   ],
+   "c": [
+    65.97000122070312,
+    66.2300033569336
+   ],
+   "wt2": [
+    34.01909726110145,
+    38.62123440951195
+   ],
+   "money_flow": [
+    21.493753785069924,
+    20.278639707008065
+   ],
+   "last_bar_closes": "2026-10-02T21:00:00+00:00",
+   "signals": {
+    "buy": [
+     {
+      "i": 214,
+      "t": "2022-06-20T00:00:00+00:00",
+      "c": 22.110000610351562
+     },
+     {
+      "i": 232,
+      "t": "2022-10-24T00:00:00+00:00",
+      "c": 19.739999771118164
+     }
+    ],
+    "sell": [
+     {
+      "i": 390,
+      "t": "2025-11-03T00:00:00+00:00",
+      "c": 50.68000030517578
+     },
+     {
+      "i": 421,
+      "t": "2026-06-08T00:00:00+00:00",
+      "c": 64.0
+     }
+    ],
+    "gold": null,
+    "buy_div": [
+     {
+      "i": 233,
+      "t": "2022-10-31T00:00:00+00:00",
+      "c": 18.940000534057617
+     }
+    ],
+    "sell_div": [
+     {
+      "i": 378,
+      "t": "2025-08-11T00:00:00+00:00",
+      "c": 45.220001220703125
+     },
+     {
+      "i": 404,
+      "t": "2026-02-09T00:00:00+00:00",
+      "c": 49.45000076293945
+     }
+    ]
+   }
+  },
+  "structure": {
+   "trend": "up",
+   "flip_level": 55.91999816894531,
+   "flip_dir": "down",
+   "last_event": {
+    "kind": "CHoCH",
+    "dir": "up",
+    "t": "2026-04-13T00:00:00+00:00"
+   }
+  },
+  "trend_closed": "up",
+  "onchain": false,
+  "generation": "20261003T223730Z"
+ },
+ "AIQ_1M": {
+  "symbol": "AIQ",
+  "timeframe": "1M",
+  "venue": "yahoo",
+  "palette_gen": "585ef30e7458",
+  "venue_kind": "equity",
+  "bars": 102,
+  "last": "2026-10-01T00:00:00+00:00",
+  "macd_states": 0,
+  "families": 32,
+  "families_firing": 16,
+  "htf_available": false,
+  "quotable": false,
+  "quote": "USD",
+  "bar_seconds": 2592000,
+  "warmup_bars": 200,
+  "settled_from": 510,
+  "history_short_for": [
+   "buy_div",
+   "div_bear",
+   "div_bear_add",
+   "div_bear_add_hidden",
+   "div_bear_hidden",
+   "div_bull",
+   "div_bull_add",
+   "div_bull_add_hidden",
+   "div_bull_hidden",
+   "gold",
+   "rsi_div_bear",
+   "rsi_div_bear_hidden",
+   "rsi_div_bull",
+   "rsi_div_bull_hidden",
+   "sell_div",
+   "stoch_div_bear",
+   "stoch_div_bear_hidden",
+   "stoch_div_bull",
+   "stoch_div_bull_hidden",
+   "stoch_fill_k_above_d"
+  ],
+  "board": {
+   "n": 102,
+   "t": [
+    "2026-09-01T00:00:00+00:00",
+    "2026-10-01T00:00:00+00:00"
+   ],
+   "c": [
+    65.16000366210938,
+    66.2300033569336
+   ],
+   "wt2": [
+    73.0674453433899,
+    72.17624570892143
+   ],
+   "money_flow": [
+    23.367575761238278,
+    22.468387878231038
+   ],
+   "last_bar_closes": "2026-11-01T00:00:00+00:00",
+   "signals": {
+    "buy": null,
+    "sell": [
+     {
+      "i": 91,
+      "t": "2025-12-01T00:00:00+00:00",
+      "c": 50.86000061035156
+     },
+     {
+      "i": 98,
+      "t": "2026-07-01T00:00:00+00:00",
+      "c": 58.88999938964844
+     }
+    ],
+    "gold": null,
+    "buy_div": null,
+    "sell_div": [
+     {
+      "i": 76,
+      "t": "2024-09-01T00:00:00+00:00",
+      "c": 37.16999816894531
+     },
+     {
+      "i": 101,
+      "t": "2026-10-01T00:00:00+00:00",
+      "c": 66.2300033569336
+     }
+    ]
+   }
+  },
+  "structure": {
+   "trend": "up",
+   "flip_level": 44.459999084472656,
+   "flip_dir": "down",
+   "last_event": {
+    "kind": "BOS",
+    "dir": "up",
+    "t": "2024-03-01T00:00:00+00:00"
+   }
+  },
+  "trend_closed": "up",
+  "onchain": false,
+  "generation": "20261003T223730Z"
+ },
+ "MRVL_1D": {
+  "symbol": "MRVL",
+  "timeframe": "1D",
+  "venue": "yahoo",
+  "palette_gen": "585ef30e7458",
+  "venue_kind": "equity",
+  "bars": 2514,
+  "last": "2026-10-02T13:30:00+00:00",
+  "macd_states": 0,
+  "families": 32,
+  "families_firing": 26,
+  "htf_available": false,
+  "quotable": false,
+  "quote": "USD",
+  "bar_seconds": 23400.0,
+  "warmup_bars": 200,
+  "settled_from": 510,
+  "history_short_for": [],
+  "board": {
+   "n": 2514,
+   "t": [
+    "2026-10-01T13:30:00+00:00",
+    "2026-10-02T13:30:00+00:00"
+   ],
+   "c": [
+    268.0799865722656,
+    272.2900085449219
+   ],
+   "wt2": [
+    54.559142893242985,
+    56.55835543675508
+   ],
+   "money_flow": [
+    -4.2896624932460625,
+    -5.469235030667392
+   ],
+   "last_bar_closes": "2026-10-02T20:00:00+00:00",
+   "signals": {
+    "buy": [
+     {
+      "i": 2460,
+      "t": "2026-07-20T13:30:00+00:00",
+      "c": 194.94000244140625
+     },
+     {
+      "i": 2468,
+      "t": "2026-07-30T13:30:00+00:00",
+      "c": 183.3000030517578
+     }
+    ],
+    "sell": [
+     {
+      "i": 2485,
+      "t": "2026-08-24T13:30:00+00:00",
+      "c": 229.2899932861328
+     },
+     {
+      "i": 2509,
+      "t": "2026-09-28T13:30:00+00:00",
+      "c": 251.89999389648438
+     }
+    ],
+    "gold": null,
+    "buy_div": [
+     {
+      "i": 2142,
+      "t": "2025-04-10T13:30:00+00:00",
+      "c": 52.869998931884766
+     },
+     {
+      "i": 2470,
+      "t": "2026-08-03T13:30:00+00:00",
+      "c": 193.77999877929688
+     }
+    ],
+    "sell_div": [
+     {
+      "i": 2443,
+      "t": "2026-06-24T13:30:00+00:00",
+      "c": 276.70001220703125
+     },
+     {
+      "i": 2490,
+      "t": "2026-08-31T13:30:00+00:00",
+      "c": 211.66000366210938
+     }
+    ]
+   }
+  },
+  "structure": {
+   "trend": "up",
+   "flip_level": 200.6199951171875,
+   "flip_dir": "down",
+   "last_event": {
+    "kind": "CHoCH",
+    "dir": "up",
+    "t": "2026-09-18T13:30:00+00:00"
+   }
+  },
+  "trend_closed": "up",
+  "onchain": false,
+  "generation": "20261003T223730Z"
+ },
+ "MRVL_1W": {
+  "symbol": "MRVL",
+  "timeframe": "1W",
+  "venue": "yahoo",
+  "palette_gen": "585ef30e7458",
+  "venue_kind": "equity",
+  "bars": 522,
+  "last": "2026-09-28T00:00:00+00:00",
+  "macd_states": 0,
+  "families": 32,
+  "families_firing": 23,
+  "htf_available": false,
+  "quotable": false,
+  "quote": "USD",
+  "bar_seconds": 421200,
+  "warmup_bars": 200,
+  "settled_from": 510,
+  "history_short_for": [],
+  "board": {
+   "n": 522,
+   "t": [
+    "2026-09-21T00:00:00+00:00",
+    "2026-09-28T00:00:00+00:00"
+   ],
+   "c": [
+    261.94000244140625,
+    272.2900085449219
+   ],
+   "wt2": [
+    25.98034296092681,
+    34.91585549664156
+   ],
+   "money_flow": [
+    18.12303280117335,
+    18.090295501874547
+   ],
+   "last_bar_closes": "2026-10-02T21:00:00+00:00",
+   "signals": {
+    "buy": [
+     {
+      "i": 316,
+      "t": "2022-10-24T00:00:00+00:00",
+      "c": 41.0099983215332
+     },
+     {
+      "i": 446,
+      "t": "2025-04-21T00:00:00+00:00",
+      "c": 58.91999816894531
+     }
+    ],
+    "sell": [
+     {
+      "i": 501,
+      "t": "2026-05-11T00:00:00+00:00",
+      "c": 176.88999938964844
+     },
+     {
+      "i": 507,
+      "t": "2026-06-22T00:00:00+00:00",
+      "c": 266.7699890136719
+     }
+    ],
+    "gold": null,
+    "buy_div": [
+     {
+      "i": 318,
+      "t": "2022-11-07T00:00:00+00:00",
+      "c": 43.349998474121094
+     },
+     {
+      "i": 329,
+      "t": "2023-01-23T00:00:00+00:00",
+      "c": 44.25
+     }
+    ],
+    "sell_div": [
+     {
+      "i": 357,
+      "t": "2023-08-07T00:00:00+00:00",
+      "c": 57.09000015258789
+     },
+     {
+      "i": 390,
+      "t": "2024-03-25T00:00:00+00:00",
+      "c": 70.87999725341797
+     }
+    ]
+   }
+  },
+  "structure": {
+   "trend": "up",
+   "flip_level": 162.89999389648438,
+   "flip_dir": "down",
+   "last_event": {
+    "kind": "BOS",
+    "dir": "up",
+    "t": "2026-03-30T00:00:00+00:00"
+   }
+  },
+  "trend_closed": "up",
+  "onchain": false,
+  "generation": "20261003T223730Z"
+ },
+ "MRVL_1M": {
+  "symbol": "MRVL",
+  "timeframe": "1M",
+  "venue": "yahoo",
+  "palette_gen": "585ef30e7458",
+  "venue_kind": "equity",
+  "bars": 317,
+  "last": "2026-10-01T00:00:00+00:00",
+  "macd_states": 0,
+  "families": 32,
+  "families_firing": 23,
+  "htf_available": false,
+  "quotable": false,
+  "quote": "USD",
+  "bar_seconds": 2592000,
+  "warmup_bars": 200,
+  "settled_from": 510,
+  "history_short_for": [
+   "buy_div",
+   "div_bear",
+   "div_bull",
+   "gold",
+   "rsi_div_bear",
+   "rsi_div_bear_hidden",
+   "rsi_div_bull",
+   "rsi_div_bull_hidden",
+   "sell_div",
+   "stoch_div_bear",
+   "stoch_div_bear_hidden",
+   "stoch_div_bull",
+   "stoch_div_bull_hidden"
+  ],
+  "board": {
+   "n": 317,
+   "t": [
+    "2026-09-01T00:00:00+00:00",
+    "2026-10-01T00:00:00+00:00"
+   ],
+   "c": [
+    264.2099914550781,
+    272.2900085449219
+   ],
+   "wt2": [
+    86.42994451981703,
+    84.52428937993187
+   ],
+   "money_flow": [
+    12.532263026289966,
+    11.631293306112726
+   ],
+   "last_bar_closes": "2026-11-01T00:00:00+00:00",
+   "signals": {
+    "buy": [
+     {
+      "i": 151,
+      "t": "2013-01-01T00:00:00+00:00",
+      "c": 9.25
+     },
+     {
+      "i": 188,
+      "t": "2016-02-01T00:00:00+00:00",
+      "c": 9.550000190734863
+     }
+    ],
+    "sell": [
+     {
+      "i": 296,
+      "t": "2025-02-01T00:00:00+00:00",
+      "c": 91.81999969482422
+     },
+     {
+      "i": 314,
+      "t": "2026-08-01T00:00:00+00:00",
+      "c": 211.66000366210938
+     }
+    ],
+    "gold": null,
+    "buy_div": [
+     {
+      "i": 105,
+      "t": "2009-03-01T00:00:00+00:00",
+      "c": 9.15999984741211
+     }
+    ],
+    "sell_div": [
+     {
+      "i": 207,
+      "t": "2017-09-01T00:00:00+00:00",
+      "c": 17.899999618530273
+     },
+     {
+      "i": 237,
+      "t": "2020-03-01T00:00:00+00:00",
+      "c": 22.6299991607666
+     }
+    ]
+   }
+  },
+  "structure": {
+   "trend": "up",
+   "flip_level": 47.09000015258789,
+   "flip_dir": "down",
+   "last_event": {
+    "kind": "BOS",
+    "dir": "up",
+    "t": "2026-04-01T00:00:00+00:00"
+   }
+  },
+  "trend_closed": "up",
+  "onchain": false,
+  "generation": "20261003T223730Z"
+ },
+ "ALAB_1D": {
+  "symbol": "ALAB",
+  "timeframe": "1D",
+  "venue": "yahoo",
+  "palette_gen": "585ef30e7458",
+  "venue_kind": "equity",
+  "bars": 637,
+  "last": "2026-10-02T13:30:00+00:00",
+  "macd_states": 0,
+  "families": 32,
+  "families_firing": 26,
+  "htf_available": false,
+  "quotable": false,
+  "quote": "USD",
+  "bar_seconds": 23400.0,
+  "warmup_bars": 200,
+  "settled_from": 510,
+  "history_short_for": [],
+  "board": {
+   "n": 637,
+   "t": [
+    "2026-10-01T13:30:00+00:00",
+    "2026-10-02T13:30:00+00:00"
+   ],
+   "c": [
+    356.4200134277344,
+    350.3299865722656
+   ],
+   "wt2": [
+    45.609877812022994,
+    42.93974764449359
+   ],
+   "money_flow": [
+    -12.48751687493051,
+    -12.12319365475332
+   ],
+   "last_bar_closes": "2026-10-02T20:00:00+00:00",
+   "signals": {
+    "buy": [
+     {
+      "i": 584,
+      "t": "2026-07-21T13:30:00+00:00",
+      "c": 319.7900085449219
+     },
+     {
+      "i": 591,
+      "t": "2026-07-30T13:30:00+00:00",
+      "c": 299.69000244140625
+     }
+    ],
+    "sell": [
+     {
+      "i": 565,
+      "t": "2026-06-23T13:30:00+00:00",
+      "c": 397.0199890136719
+     },
+     {
+      "i": 572,
+      "t": "2026-07-02T13:30:00+00:00",
+      "c": 406.4200134277344
+     }
+    ],
+    "gold": null,
+    "buy_div": [
+     {
+      "i": 482,
+      "t": "2026-02-23T14:30:00+00:00",
+      "c": 128.24000549316406
+     },
+     {
+      "i": 618,
+      "t": "2026-09-08T13:30:00+00:00",
+      "c": 288.8500061035156
+     }
+    ],
+    "sell_div": [
+     {
+      "i": 567,
+      "t": "2026-06-25T13:30:00+00:00",
+      "c": 398.0
+     },
+     {
+      "i": 574,
+      "t": "2026-07-07T13:30:00+00:00",
+      "c": 382.8900146484375
+     }
+    ]
+   }
+  },
+  "structure": {
+   "trend": "up",
+   "flip_level": 251.625,
+   "flip_dir": "down",
+   "last_event": {
+    "kind": "CHoCH",
+    "dir": "up",
+    "t": "2026-09-21T13:30:00+00:00"
+   }
+  },
+  "trend_closed": "up",
+  "onchain": false,
+  "generation": "20261003T223730Z"
+ },
+ "ALAB_1W": {
+  "symbol": "ALAB",
+  "timeframe": "1W",
+  "venue": "yahoo",
+  "palette_gen": "585ef30e7458",
+  "venue_kind": "equity",
+  "bars": 133,
+  "last": "2026-09-28T00:00:00+00:00",
+  "macd_states": 0,
+  "families": 32,
+  "families_firing": 17,
+  "htf_available": false,
+  "quotable": false,
+  "quote": "USD",
+  "bar_seconds": 421200,
+  "warmup_bars": 200,
+  "settled_from": 510,
+  "history_short_for": [
+   "buy_div",
+   "div_bear",
+   "div_bear_add_hidden",
+   "div_bull",
+   "div_bull_add_hidden",
+   "gold",
+   "rsi_div_bear",
+   "rsi_div_bear_hidden",
+   "rsi_div_bull",
+   "rsi_div_bull_hidden",
+   "sell_div",
+   "stoch_div_bear",
+   "stoch_div_bear_hidden",
+   "stoch_div_bull",
+   "stoch_div_bull_hidden",
+   "stoch_fill_k_above_d"
+  ],
+  "board": {
+   "n": 133,
+   "t": [
+    "2026-09-21T00:00:00+00:00",
+    "2026-09-28T00:00:00+00:00"
+   ],
+   "c": [
+    364.6199951171875,
+    350.3299865722656
+   ],
+   "wt2": [
+    -10.466004858991408,
+    -3.0676069245036524
+   ],
+   "money_flow": [
+    10.945896635637789,
+    7.783358215295346
+   ],
+   "last_bar_closes": "2026-10-02T21:00:00+00:00",
+   "signals": {
+    "buy": [
+     {
+      "i": 104,
+      "t": "2026-03-16T00:00:00+00:00",
+      "c": 116.04000091552734
+     },
+     {
+      "i": 107,
+      "t": "2026-04-06T00:00:00+00:00",
+      "c": 149.0500030517578
+     }
+    ],
+    "sell": [
+     {
+      "i": 79,
+      "t": "2025-09-22T00:00:00+00:00",
+      "c": 197.77999877929688
+     },
+     {
+      "i": 120,
+      "t": "2026-07-06T00:00:00+00:00",
+      "c": 412.9700012207031
+     }
+    ],
+    "gold": null,
+    "buy_div": null,
+    "sell_div": [
+     {
+      "i": 121,
+      "t": "2026-07-13T00:00:00+00:00",
+      "c": 303.6199951171875
+     }
+    ]
+   }
+  },
+  "structure": {
+   "trend": "up",
+   "flip_level": 244.61000061035156,
+   "flip_dir": "down",
+   "last_event": {
+    "kind": "CHoCH",
+    "dir": "up",
+    "t": "2026-04-20T00:00:00+00:00"
+   }
+  },
+  "trend_closed": "up",
+  "onchain": false,
+  "generation": "20261003T223730Z"
+ },
+ "ALAB_1M": {
+  "symbol": "ALAB",
+  "timeframe": "1M",
+  "venue": "yahoo",
+  "palette_gen": "585ef30e7458",
+  "venue_kind": "equity",
+  "bars": 32,
+  "last": "2026-10-01T00:00:00+00:00",
+  "macd_states": 0,
+  "families": 32,
+  "families_firing": 2,
+  "htf_available": false,
+  "quotable": false,
+  "quote": "USD",
+  "bar_seconds": 2592000,
+  "warmup_bars": 200,
+  "settled_from": 510,
+  "history_short_for": [
+   "buy",
+   "buy_div",
+   "cross",
+   "cross_down",
+   "cross_up",
+   "div_bear",
+   "div_bear_add",
+   "div_bear_add_hidden",
+   "div_bear_hidden",
+   "div_bull",
+   "div_bull_add",
+   "div_bull_add_hidden",
+   "div_bull_hidden",
+   "gold",
+   "htf_bear_diamond",
+   "htf_bear_flag",
+   "htf_bull_diamond",
+   "htf_bull_flag",
+   "overbought",
+   "oversold",
+   "rsi_div_bear",
+   "rsi_div_bear_hidden",
+   "rsi_div_bull",
+   "rsi_div_bull_hidden",
+   "sell",
+   "sell_div",
+   "stoch_div_bear",
+   "stoch_div_bear_hidden",
+   "stoch_div_bull",
+   "stoch_div_bull_hidden",
+   "stoch_fill_k_above_d"
+  ],
+  "board": {
+   "n": 32,
+   "t": [
+    "2026-09-01T00:00:00+00:00",
+    "2026-10-01T00:00:00+00:00"
+   ],
+   "c": [
+    355.9700012207031,
+    350.3299865722656
+   ],
+   "wt2": [
+    70.7044196107297,
+    67.89809885187604
+   ],
+   "money_flow": [
+    null,
+    null
+   ],
+   "last_bar_closes": "2026-11-01T00:00:00+00:00",
+   "signals": {
+    "buy": null,
+    "sell": null,
+    "gold": null,
+    "buy_div": null,
+    "sell_div": null
+   }
+  },
+  "structure": {
+   "trend": "up",
+   "flip_level": 97.88999938964844,
+   "flip_dir": "down",
+   "last_event": {
+    "kind": "BOS",
+    "dir": "up",
+    "t": "2026-05-01T00:00:00+00:00"
+   }
+  },
+  "trend_closed": "up",
+  "onchain": false,
+  "generation": "20261003T223730Z"
+ },
+ "CBRS_1D": {
+  "symbol": "CBRS",
+  "timeframe": "1D",
+  "venue": "yahoo",
+  "palette_gen": "585ef30e7458",
+  "venue_kind": "equity",
+  "bars": 98,
+  "last": "2026-10-02T13:30:00+00:00",
+  "macd_states": 0,
+  "families": 32,
+  "families_firing": 8,
+  "htf_available": false,
+  "quotable": false,
+  "quote": "USD",
+  "bar_seconds": 23400.0,
+  "warmup_bars": 200,
+  "settled_from": 510,
+  "history_short_for": [
+   "buy_div",
+   "div_bear",
+   "div_bear_add",
+   "div_bear_add_hidden",
+   "div_bear_hidden",
+   "div_bull",
+   "div_bull_add",
+   "div_bull_add_hidden",
+   "div_bull_hidden",
+   "gold",
+   "rsi_div_bear",
+   "rsi_div_bear_hidden",
+   "rsi_div_bull",
+   "rsi_div_bull_hidden",
+   "sell_div",
+   "stoch_div_bear",
+   "stoch_div_bear_hidden",
+   "stoch_div_bull",
+   "stoch_div_bull_hidden",
+   "stoch_fill_k_above_d"
+  ],
+  "board": {
+   "n": 98,
+   "t": [
+    "2026-10-01T13:30:00+00:00",
+    "2026-10-02T13:30:00+00:00"
+   ],
+   "c": [
+    169.52000427246094,
+    166.42999267578125
+   ],
+   "wt2": [
+    -2.1473728847590237,
+    -22.207624228423143
+   ],
+   "money_flow": [
+    1.9904561291911387,
+    -1.293563363467691
+   ],
+   "last_bar_closes": "2026-10-02T20:00:00+00:00",
+   "signals": {
+    "buy": null,
+    "sell": [
+     {
+      "i": 63,
+      "t": "2026-08-14T13:30:00+00:00",
+      "c": 218.97999572753906
+     }
+    ],
+    "gold": null,
+    "buy_div": null,
+    "sell_div": null
+   }
+  },
+  "structure": {
+   "trend": "down",
+   "flip_level": 222.5,
+   "flip_dir": "up",
+   "last_event": {
+    "kind": "CHoCH",
+    "dir": "down",
+    "t": "2026-10-01T13:30:00+00:00"
+   }
+  },
+  "trend_closed": "down",
+  "onchain": false,
+  "generation": "20261003T223730Z"
+ },
+ "IONQ_1D": {
+  "symbol": "IONQ",
+  "timeframe": "1D",
+  "venue": "yahoo",
+  "palette_gen": "585ef30e7458",
+  "venue_kind": "equity",
+  "bars": 1444,
+  "last": "2026-10-02T13:30:00+00:00",
+  "macd_states": 0,
+  "families": 32,
+  "families_firing": 26,
+  "htf_available": false,
+  "quotable": false,
+  "quote": "USD",
+  "bar_seconds": 23400.0,
+  "warmup_bars": 200,
+  "settled_from": 510,
+  "history_short_for": [],
+  "board": {
+   "n": 1444,
+   "t": [
+    "2026-10-01T13:30:00+00:00",
+    "2026-10-02T13:30:00+00:00"
+   ],
+   "c": [
+    43.9900016784668,
+    43.77000045776367
+   ],
+   "wt2": [
+    50.35298433872102,
+    47.442829018903154
+   ],
+   "money_flow": [
+    -14.093729193089628,
+    -14.64294875981755
+   ],
+   "last_bar_closes": "2026-10-02T20:00:00+00:00",
+   "signals": {
+    "buy": [
+     {
+      "i": 1316,
+      "t": "2026-04-01T13:30:00+00:00",
+      "c": 27.790000915527344
+     },
+     {
+      "i": 1390,
+      "t": "2026-07-20T13:30:00+00:00",
+      "c": 34.2400016784668
+     }
+    ],
+    "sell": [
+     {
+      "i": 1347,
+      "t": "2026-05-15T13:30:00+00:00",
+      "c": 51.95000076293945
+     },
+     {
+      "i": 1358,
+      "t": "2026-06-02T13:30:00+00:00",
+      "c": 71.4000015258789
+     }
+    ],
+    "gold": null,
+    "buy_div": [
+     {
+      "i": 1292,
+      "t": "2026-02-26T14:30:00+00:00",
+      "c": 40.880001068115234
+     },
+     {
+      "i": 1318,
+      "t": "2026-04-06T13:30:00+00:00",
+      "c": 29.239999771118164
+     }
+    ],
+    "sell_div": [
+     {
+      "i": 1199,
+      "t": "2025-10-13T13:30:00+00:00",
+      "c": 82.08999633789062
+     },
+     {
+      "i": 1443,
+      "t": "2026-10-02T13:30:00+00:00",
+      "c": 43.77000045776367
+     }
+    ]
+   }
+  },
+  "structure": {
+   "trend": "up",
+   "flip_level": 35.0,
+   "flip_dir": "down",
+   "last_event": {
+    "kind": "CHoCH",
+    "dir": "up",
+    "t": "2026-09-24T13:30:00+00:00"
+   }
+  },
+  "trend_closed": "up",
+  "onchain": false,
+  "generation": "20261003T223730Z"
+ },
+ "IONQ_1W": {
+  "symbol": "IONQ",
+  "timeframe": "1W",
+  "venue": "yahoo",
+  "palette_gen": "585ef30e7458",
+  "venue_kind": "equity",
+  "bars": 300,
+  "last": "2026-09-28T00:00:00+00:00",
+  "macd_states": 0,
+  "families": 32,
+  "families_firing": 24,
+  "htf_available": false,
+  "quotable": false,
+  "quote": "USD",
+  "bar_seconds": 421200,
+  "warmup_bars": 200,
+  "settled_from": 510,
+  "history_short_for": [
+   "buy_div",
+   "div_bear",
+   "div_bear_add_hidden",
+   "div_bull",
+   "div_bull_add_hidden",
+   "gold",
+   "rsi_div_bear",
+   "rsi_div_bear_hidden",
+   "rsi_div_bull",
+   "rsi_div_bull_hidden",
+   "sell_div",
+   "stoch_div_bear",
+   "stoch_div_bear_hidden",
+   "stoch_div_bull",
+   "stoch_div_bull_hidden",
+   "stoch_fill_k_above_d"
+  ],
+  "board": {
+   "n": 300,
+   "t": [
+    "2026-09-21T00:00:00+00:00",
+    "2026-09-28T00:00:00+00:00"
+   ],
+   "c": [
+    45.47999954223633,
+    43.77000045776367
+   ],
+   "wt2": [
+    -26.943026278594896,
+    -20.106615682439074
+   ],
+   "money_flow": [
+    -3.716157159050579,
+    -6.472348703182743
+   ],
+   "last_bar_closes": "2026-10-02T21:00:00+00:00",
+   "signals": {
+    "buy": [
+     {
+      "i": 268,
+      "t": "2026-02-23T00:00:00+00:00",
+      "c": 38.369998931884766
+     },
+     {
+      "i": 274,
+      "t": "2026-04-06T00:00:00+00:00",
+      "c": 28.790000915527344
+     }
+    ],
+    "sell": [
+     {
+      "i": 204,
+      "t": "2024-12-02T00:00:00+00:00",
+      "c": 37.970001220703125
+     },
+     {
+      "i": 249,
+      "t": "2025-10-13T00:00:00+00:00",
+      "c": 62.939998626708984
+     }
+    ],
+    "gold": null,
+    "buy_div": [
+     {
+      "i": 184,
+      "t": "2024-07-15T00:00:00+00:00",
+      "c": 7.429999828338623
+     },
+     {
+      "i": 276,
+      "t": "2026-04-20T00:00:00+00:00",
+      "c": 42.689998626708984
+     }
+    ],
+    "sell_div": [
+     {
+      "i": 142,
+      "t": "2023-09-25T00:00:00+00:00",
+      "c": 14.880000114440918
+     },
+     {
+      "i": 239,
+      "t": "2025-08-04T00:00:00+00:00",
+      "c": 41.849998474121094
+     }
+    ]
+   }
+  },
+  "structure": {
+   "trend": "down",
+   "flip_level": 73.6500015258789,
+   "flip_dir": "up",
+   "last_event": {
+    "kind": "BOS",
+    "dir": "down",
+    "t": "2026-03-23T00:00:00+00:00"
+   }
+  },
+  "trend_closed": "down",
+  "onchain": false,
+  "generation": "20261003T223730Z"
+ },
+ "IONQ_1M": {
+  "symbol": "IONQ",
+  "timeframe": "1M",
+  "venue": "yahoo",
+  "palette_gen": "585ef30e7458",
+  "venue_kind": "equity",
+  "bars": 70,
+  "last": "2026-10-01T00:00:00+00:00",
+  "macd_states": 0,
+  "families": 32,
+  "families_firing": 9,
+  "htf_available": false,
+  "quotable": false,
+  "quote": "USD",
+  "bar_seconds": 2592000,
+  "warmup_bars": 200,
+  "settled_from": 510,
+  "history_short_for": [
+   "buy",
+   "buy_div",
+   "cross",
+   "cross_down",
+   "cross_up",
+   "div_bear",
+   "div_bear_add",
+   "div_bear_add_hidden",
+   "div_bear_hidden",
+   "div_bull",
+   "div_bull_add",
+   "div_bull_add_hidden",
+   "div_bull_hidden",
+   "gold",
+   "htf_bear_flag",
+   "htf_bull_flag",
+   "overbought",
+   "oversold",
+   "rsi_div_bear",
+   "rsi_div_bear_hidden",
+   "rsi_div_bull",
+   "rsi_div_bull_hidden",
+   "sell",
+   "sell_div",
+   "stoch_div_bear",
+   "stoch_div_bear_hidden",
+   "stoch_div_bull",
+   "stoch_div_bull_hidden",
+   "stoch_fill_k_above_d"
+  ],
+  "board": {
+   "n": 70,
+   "t": [
+    "2026-09-01T00:00:00+00:00",
+    "2026-10-01T00:00:00+00:00"
+   ],
+   "c": [
+    43.86000061035156,
+    43.77000045776367
+   ],
+   "wt2": [
+    14.787385943365038,
+    8.695665436134625
+   ],
+   "money_flow": [
+    -3.908180406555497,
+    -5.593929506550197
+   ],
+   "last_bar_closes": "2026-11-01T00:00:00+00:00",
+   "signals": {
+    "buy": null,
+    "sell": [
+     {
+      "i": 50,
+      "t": "2025-03-01T00:00:00+00:00",
+      "c": 22.06999969482422
+     },
+     {
+      "i": 58,
+      "t": "2025-11-01T00:00:00+00:00",
+      "c": 49.29999923706055
+     }
+    ],
+    "gold": null,
+    "buy_div": null,
+    "sell_div": null
+   }
+  },
+  "structure": {
+   "trend": "up",
+   "flip_level": 25.889999389648438,
+   "flip_dir": "down",
+   "last_event": {
+    "kind": "BOS",
+    "dir": "up",
+    "t": "2025-09-01T00:00:00+00:00"
+   }
+  },
+  "trend_closed": "up",
+  "onchain": false,
+  "generation": "20261003T223730Z"
+ }
+}

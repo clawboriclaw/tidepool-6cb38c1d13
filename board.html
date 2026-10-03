@@ -1,0 +1,52 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta http-equiv="refresh" content="600">
+<title>SinCara Trader Board</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@100,400;100,500;100,600;100,700;112,700&family=IBM+Plex+Mono:wght@400;500;600&display=swap">
+<style>
+:root{color-scheme:light;--bg:#f5f6f8;--panel:#fff;--line:#dfe2e8;--ink:#14171c;--ink2:#525a66;--ink3:#8a909b;--buy:#1baf7a;--sell:#e34948;--warn:#b57a00;--bull:#e6f4ee;--bear:#fbe9e8;--warnbg:#fff4dc;--accum:#0b8599}
+@media (prefers-color-scheme:dark){:root{color-scheme:dark;--bg:#15171b;--panel:#1d2025;--line:#2f333a;--ink:#f2f3f5;--ink2:#b9bec8;--ink3:#7f8794;--buy:#2cc48c;--sell:#e66767;--warn:#e0a83a;--bull:#173327;--bear:#3a1f1f;--warnbg:#332a14;--accum:#22d3ee}}
+*{box-sizing:border-box} body{margin:0;background:var(--bg);color:var(--ink);font-family:"Archivo",system-ui,sans-serif;font-size:16px;line-height:1.5}
+.wrap{max-width:760px;margin:0 auto;padding-inline:20px;padding-block:32px 64px} .mono{font-family:"IBM Plex Mono",ui-monospace,monospace;font-variant-numeric:tabular-nums}
+.eyebrow{font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:var(--ink3);font-weight:600}
+h1{font-size:clamp(30px,5vw,44px);font-weight:700;font-stretch:112%;letter-spacing:-.02em;line-height:1.05;margin:6px 0 22px}
+h2{font-size:13px;letter-spacing:.08em;text-transform:uppercase;color:var(--ink3);font-weight:600;margin:30px 0 10px}
+.big{display:grid;grid-template-columns:1fr 1fr;gap:12px} .n{background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:18px 20px}
+.n .k{font-size:13px;color:var(--ink2)} .n .v{font-size:36px;font-weight:600;letter-spacing:-.02em;line-height:1.1;margin-top:2px} .n .s{font-size:13px;color:var(--ink3);margin-top:4px}
+.up{color:var(--buy)} .dn{color:var(--sell)} .n.hero{grid-column:1/-1;background:var(--bull);border-color:transparent} .n.hero.neg{background:var(--bear)} .n.hero .v{font-size:48px}
+.pill{display:inline-block;padding:2px 10px;border-radius:999px;font-size:12px;font-weight:600;letter-spacing:.04em;vertical-align:middle} .pill.bull{background:var(--bull);color:var(--buy)} .pill.bear{background:var(--bear);color:var(--sell)}
+.tablewrap{overflow-x:auto;background:var(--panel);border:1px solid var(--line);border-radius:8px} table{width:100%;border-collapse:collapse;font-size:15px}
+td,th{padding:10px 14px;border-top:1px solid var(--line);text-align:left;white-space:nowrap} th{border-top:none;color:var(--ink3);font-size:11.5px;letter-spacing:.06em;text-transform:uppercase;font-weight:600}
+td.num,th.num{text-align:right} tr.total td{font-weight:600;background:var(--bg)}
+.line{display:flex;justify-content:space-between;gap:16px;padding:10px 0;border-top:1px solid var(--line);font-size:15px} .line:first-child{border-top:none} .line .what{color:var(--ink2)}
+.list{background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:4px 16px} .plain{color:var(--ink2);margin:0;max-width:62ch} .plain b{color:var(--ink)}
+.note{border-left:4px solid var(--warn);background:var(--warnbg);border-radius:6px;padding:10px 14px;font-size:14px;color:var(--ink2);margin-top:12px} .note b{color:var(--ink)}
+.foot{margin-top:16px;font-size:12.5px;color:var(--ink3)} .muted{color:var(--ink3)} #accum{color:var(--accum)}
+@media (max-width:460px){.big{grid-template-columns:1fr}.n .v{font-size:30px}.n.hero .v{font-size:40px}.wrap{padding-inline:16px}}
+</style></head><body><div class="wrap">
+  <div class="eyebrow">Hyperliquid spot · live since 2026-09-12 · updated 2026-10-03 22:42 UTC · refreshes every 30 min</div>
+  <h1>SinCara Trader</h1>
+  
+  <div class="big">
+    <div class="n hero neg"><div class="k">Profit so far (unrealised, after fees)</div><div class="v mono dn">−$287.41</div><div class="s">-28.4% on the money you put in · -1.8% on what was spent on coins · 5 sells</div></div>
+    <div class="n"><div class="k">Money you put in</div><div class="v mono">$1,012.07</div><div class="s">4 transfers in (exchange records)</div></div>
+    <div class="n"><div class="k">Worth now</div><div class="v mono">$724.66</div><div class="s">$722.83 in coins + $1.83 USDC on the exchange</div></div>
+  </div>
+  
+  <h2>What you hold</h2>
+  <div class="tablewrap"><table><tr><th>Coin</th><th class="num">Paid</th><th class="num">Worth now</th><th class="num">Gain</th><th class="num"></th></tr><tr><td>HYPE</td><td class='num mono'>$224.95</td><td class='num mono'>$231.09</td><td class='num mono up'>+$6.14</td><td class='num mono up'>+2.7%</td></tr><tr><td>NEAR</td><td class='num mono'>$181.77</td><td class='num mono'>$179.88</td><td class='num mono dn'>−$1.89</td><td class='num mono dn'>-1.0%</td></tr><tr><td>ZEC</td><td class='num mono'>$192.77</td><td class='num mono'>$173.02</td><td class='num mono dn'>−$19.75</td><td class='num mono dn'>-10.2%</td></tr><tr><td>SOL</td><td class='num mono'>$90.64</td><td class='num mono'>$92.25</td><td class='num mono up'>+$1.60</td><td class='num mono up'>+1.8%</td></tr><tr><td>BTC</td><td class='num mono'>$45.63</td><td class='num mono'>$46.59</td><td class='num mono up'>+$0.96</td><td class='num mono up'>+2.1%</td></tr><tr class='total'><td>All coins</td><td class='num mono'>$735.76</td><td class='num mono'>$722.83</td><td class='num mono dn'>−$12.94</td><td class='num mono dn'>-1.8%</td></tr></table></div>
+  <p class="foot" style="margin-top:8px">41 buys, every one on a SinCara buy dot, 2026-09-13 to 2026-09-29. Prices are the latest hourly close (2026-10-03T22:00 UTC). A coin held in both sleeves is shown as one line.</p>
+  <h2>Money in and out</h2>
+  <div class="list"><div class='line'><span class='what'>2026-09-12 · money in</span><span class='mono'>+$673.27</span></div><div class='line'><span class='what'>2026-09-17 · money in</span><span class='mono'>+$30.20</span></div><div class='line'><span class='what'>2026-09-22 · money in</span><span class='mono'>+$102.80</span></div><div class='line'><span class='what'>2026-09-29 · money in</span><span class='mono'>+$205.80</span></div>
+    <div class="line"><span class="what">Buys · 41 fills</span><span class="mono">−$1,542.16 into coins</span></div>
+    <div class="line"><span class="what">Sells</span><span class="mono">5</span></div>
+    <div class="line"><span class="what">Fees paid</span><span class="mono">about $1.03 (0.067% per fill)</span></div>
+    <div class="line"><span class="what">Cash on the exchange now</span><span class="mono">$1.83</span></div>
+    <div class="line"><span class="what">Cash the trader has credited</span><span class="mono">$1.83</span></div>
+  </div>
+  <h2>What it is doing</h2>
+  <p class="plain"><b>Buying:</b> every SinCara buy dot, 5% of total equity per dot, while BTC is above its 200-day average. Regime now <span class='pill bull'>BULL</span> (BTC 84,504 vs 200-day 71,372), so buys are on. The next dot would be about $36.23.</p>
+  <p class="plain" style="margin-top:8px"><b>Selling:</b> holds through a bull; sells only in a bear on a confirmed sell dot. Five studies on 2021–2026 data found no sell rule that beats holding in a bull, so profit stays in coins until you decide otherwise. Any coin can be sold by hand with <span class="mono">--sell COIN</span>.</p>
+  <p class="plain" style="margin-top:8px"><b>Cash:</b> new buys are funded by deposits. Deposits are detected hourly and credited after two consecutive sightings; withdrawals after four.</p>
+  <h2 id='accum'>Accumulation ▲ — live scorecard</h2><p class='plain'>A buy dot while the wave is oversold and price sits in a high-volume zone, on 4H charts only. <b>Under test.</b> Every marker since 2026-09-29 is listed; nothing from before is counted. n = 0 markers, 0 with a 30-day result.</p><p class='plain' style='margin-top:8px'><b>Too early:</b> 0 of the 10 markers needed have a 30-day result. For comparison, the average 30-day return of every 00:00 UTC 4H candle on the same coins will appear once the first ones are 30 days old.</p><p class='plain'>No markers yet since 2026-09-29.</p><p class='foot' style='margin-top:8px'>30 days later = the close of the first closed 4H candle 30 days after the marker, against the marker's close. A record, not a forecast.</p>
+  
+  <p class="foot">Coins: BTC, SOL, ZEC, HYPE, NEAR (both sleeves), PUMP (hourly sleeve only) on Hyperliquid spot; NEAR trades as ONEAR, the bridged NEAR spot token. SUI, XMR, TON and TAO trade on Kraken Pro spot (both sleeves) and are not shown on this board yet. Every order is journaled before it is sent and verified against the exchange's own fill record afterwards; a HALT file stops new buys instantly. Last trader run: 2026-10-03T20:14:05+00:00.</p>
+</div></body></html>
